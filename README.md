@@ -1,4 +1,4 @@
-<img src="KMADS v2.png"/>
+<img src="KMADS v3.png"/>
 
 - 👋 Olá, me chamo 'Kaique' e tenho 15 anos, obrigado por estar visitando meu perfil. Aqui estão mais informações sobre mim:
 - 📆 Aprendendo sobre tecnologia desde 2018.
