@@ -1,0 +1,24 @@
+name: Update README
+
+on:
+  push:
+    branches:
+      - main # Change this to your default branch if different
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Run script to update README
+        run: node update-readme.js
+
+      - name: Commit changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add README.md
+          git commit -m "Update README with carousel"
+          git push
