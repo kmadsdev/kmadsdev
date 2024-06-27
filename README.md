@@ -6,5 +6,7 @@
 - 💻 Atualmente estudando: Python, Java, JavaScript, SQL, HTML & CSS, GIT e Linux.
 - 💼 Já fiz projetos para o Discord, sites em HTML/CSS, jogos, aplicativos, programas e outras coisas.
 - 🎨 Também sou designer (imagens em 2D e edição de videos), aprendendo a criar imagens, animações e modelos em 3D.
-
+- 🗣️ I also speak English, so you can contact me in English or Portuguese.
 - 👤 Curiosiade: O nome KMADS vem da abreviação do meu nome.
+ 
+🧑‍💻 Linguagens: Python, Java, JavaScript (Principalmente com HTML e CSS) e SQL.
