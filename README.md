@@ -9,4 +9,4 @@
 - 🗣️ I also speak English, so you can contact me in English or Portuguese.
 - 👤 Curiosiade: O nome KMADS vem da abreviação do meu nome.
  
-🧑‍💻 Linguagens: Python, Java, JavaScript (Principalmente com HTML e CSS) e SQL.
+🧑‍💻 Linguagens: Python, Java, JavaScript e SQL.
