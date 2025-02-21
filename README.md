@@ -1,6 +1,6 @@
-![KMADS](/KMADS-v3.png)
+# 🔬 Data Scientist
 
-🔬 Data Scientist
+![KMADS](/KMADS-v3.png)
 
 - 📆 Learning about technology since 2018.
 - 📚 Tech High School - Data Analysis / Data Science.
