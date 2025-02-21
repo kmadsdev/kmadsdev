@@ -12,7 +12,7 @@
 - 🕒 Enjoy going to the gym, playing sports, playing chess and learning new things.
 <p></p>
 
-Founder of <a style="text-decoration:none;">TrocaTine</a href="https://github.com/trocatine/">
+Founder of <a href="https://github.com/trocatine/" style="text-decoration:none;">TrocaTine</a>
 
 <p></p>
 
