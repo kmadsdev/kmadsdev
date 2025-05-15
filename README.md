@@ -6,7 +6,7 @@
 - 📚 Tech High School - Data Analysis / Data Science.
 - 💼 I've done discord bots, HTML/CSS/JS websites, games, aplications, programs and other things.
 - 🎨 I'm also a designer
-- ♟️ 1200 ELO bullet on lichess.org
+- ♟️ About 1400+ ELO
 - 🗣️ You can contact me in Portuguese or English.
 <p></p>
 - 🕒 Enjoy going to the gym, playing sports, playing chess and learning new things.
