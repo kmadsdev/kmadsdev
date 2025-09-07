@@ -5,7 +5,7 @@
 - 📆 Learning about technology since 2018.
 - 🎓 Studying @ J&F Institute | Computer Science & Software Development. (Expected graduation: 2026)
 - 💼 Working @ PicPay | Data Analyst (Oracle HCM & Corporate HR). Since march 2025
-- ✅ Over [25+ Certifications](https://www.linkedin.com/in/kaique-souza-170985331/details/certifications/), including:
+- ✅ Over [15+ Certifications](https://www.linkedin.com/in/kaique-souza-170985331/details/certifications/), including:
   - Project Management Institute (PMI), National Association of State Boards of Accountance (NASBA), Linkedin Learning, J&F Tech.
   - Scrum (2 certificates from Foundations to Advanced) and Agile (7 certificates from Agile Management at work to Project Agile Management/Agile Software Development);
   - Project Management (3 certifications), Software Architecture;
