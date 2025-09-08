@@ -22,8 +22,8 @@
 
 💼 Projects:
 <ul>
-  <li>Co-founder, Board member of <a href="https://github.com/trocatine/" style="text-decoration:none;">TrocaTine</a> (mar 2024 - dec 2024)</li>
-  <li>Board member, Data Scientist of TimeLean's <a href="https://github.com/HiveMind-Instituto-J-F/" style="text-decoration:none;">HiveMind App</a> (mar 2025 -)</li>
+  <li>Co-founder & Software Engineer of <a href="https://github.com/trocatine/" style="text-decoration:none;">TrocaTine</a> (mar 2024 - dec 2024)</li>
+  <li>Data Scientist @ TimeLean's <a href="https://github.com/HiveMind-Instituto-J-F/" style="text-decoration:none;">HiveMind App</a> (mar 2025 -)</li>
   <li>This <a href="https://github.com/kmadsdev/calculator/" style="text-decoration:none;">very simple calcular website</a> using html, css and javascript (2024 - 2024)</li>
   <li>An <a href="https://github.com/kmadsdev/ExpenseTrackingApp/" style="text-decoration:none;">Expense Tracking App</a> using only Python (Aug 2025 - )</li>
 </ul>
