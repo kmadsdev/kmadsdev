@@ -19,7 +19,7 @@
 ---
 
 ## 💼 Professional Experience
-- **Data Analyst @ PicPay** (Mar 2025 – Present)
+- **Data Analyst @ [PicPay](https://picpay.com/)** (Mar 2025 – Present)
   - Oracle HCM & Corporate HR data analysis  
   - Dashboards, reports, and automation pipelines
 - **Data Scientist @ TimeLean's HiveMind App** (Feb 2025 – Present)
