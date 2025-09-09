@@ -1,62 +1,89 @@
 # 💻 Software Engineer
 
-![KMADS](/KMADS-v3.png)
+![KMADS](/KMADS-v3.png) <!-- Banner -->
 
-- 📆 Learning about technology since 2018.
-- 🎓 Studying @ J&F Institute | Computer Science & Software Development. (Expected graduation: 2026)
-- 💼 Working @ PicPay | Data Analyst (Oracle HCM & Corporate HR). Since march 2025
-- ✅ Over [15+ Certifications](https://www.linkedin.com/in/kaique-souza-170985331/details/certifications/), including:
-  - Project Management Institute (PMI), National Association of State Boards of Accountance (NASBA), Linkedin Learning, J&F Tech.
-  - Scrum (2 certificates from Foundations to Advanced) and Agile (7 certificates from Agile Management at work to Project Agile Management/Agile Software Development);
-  - Project Management (3 certifications), Software Architecture;
-  - Python (Programming Language, Security, RPA Orchestration, ERP SAP Automation), TypeScript, Golang, PHP, Redis;
-  - DataBricks SQL Analitcs (SQL, BI), Tableau, PySpark, 
-- 📋 I've done several Projects:
-    - Discord Moderation/Entertaiment/Security Server Bots (2019-2022 using Discord.js, Node.js);
-    - Simple Websites (2019-2024 using Html/Css/JavaScript);
-    - Simple Games/Aplications (2023- using Python);
-    - 2 Business built from scratch as part of my CS/SWD course;
-- 🗣️ Full professional working fluency in Portugues (Brazil) and English (US).
-- 🕒 I enjoy going to the gym, playing chess, coding and learning new things.
-<p></p>
+---
 
-💼 Projects:
-<ul>
-  <li>Co-founder & Software Engineer of <a href="https://github.com/trocatine/" style="text-decoration:none;">TrocaTine</a> (mar 2024 - dec 2024)</li>
-  <li>Data Scientist @ TimeLean's <a href="https://github.com/HiveMind-Instituto-J-F/" style="text-decoration:none;">HiveMind App</a> (mar 2025 -)</li>
-  <li>This <a href="https://github.com/kmadsdev/calculator/" style="text-decoration:none;">very simple calcular website</a> using html, css and javascript (2024 - 2024)</li>
-  <li>An <a href="https://github.com/kmadsdev/ExpenseTrackingApp/" style="text-decoration:none;">Expense Tracking App</a> using only Python (Aug 2025 - )</li>
-</ul>
+## 🎓 Education
+- Studying on J&F Tech | Computer Science & Software Development
+- Taking CS50x – Introduction to Computer Science (Harvard University, EdX)
+- Taking Google Cloud & AWS's Cloud Engineering (CloudOps & DevOps) / Cloud Practitioner / Cloud Developer Courses
+- Self Learning: I can learn pretty much anything when i understand the fundamentals and with some pratictice
+- Selected Professional Courses & Certifications:
+  - Agile & Scrum: Scrum (PMI), Scrum Advanced (PMI), Agile Software +7
+  - Project Management & Leadership: Project Management Foundations (NASBA)
+  - Software Engineering / Backend / DevOps: Python, PySpark, Databricks SQL Analytics and BI, PHP, Redis, Spring Boot, Go
+  - Frontend & Web Development: JavaScript, TypeScript, Angular
+  - RPA & Automation: BotCity Python RPA, Python Basics for RPA, SAP Automation
 
-<p></p>
+---
 
-📟 Programming Languages
-<ul>
-  <li>Python (OOP, Pandas, Pyspark, Streamlit)</li>
-  <li>Java (OOP, JBDC)</li>
-  <li>javascript (html/css)</li>
-</ul>
+## 💼 Professional Experience
+- **Data Analyst @ PicPay** (Mar 2025 – Present)  
+  - Oracle HCM & Corporate HR data analysis  
+  - Dashboards, reports, and automation pipelines
+- **Data Scientist @ TimeLean's HiveMind App** (Feb 2025 – Present)  
+  - Predictive analysis and machine learning pipelines  
+  - Data processing using Python, Pandas, PySpark
+- **Co-founder & Software Engineer @ TrocaTine** (Feb 2024 – Dec 2024)  
+  - Designed and implemented web and backend solutions  
+  - Developed software architecture and workflows
 
-<p></p>
+---
 
-🖥️ Software:
-<ul>
-  <li>VSCode, Intellij, DBeaver, PgAdmin, Jira, Oracle Transactional Business Intelligence (OTBI)</li>
-  <li>Excel, PowerPoint, Canva, Figma, Notion, Obsidian,</li>
-</ul>
+## 📋 Projects
+- Discord Moderation/Entertainment/Security Server Bots (2018–2022, Discord.js, Node.js)  
+- Simple websites (2019–2024, HTML/CSS/JavaScript)  
+- Simple games/applications (2023–Present, Python)  
+- 2 businesses built from scratch as part of CS/SWD course  
+- [Calculator Website](https://github.com/kmadsdev/calculator/) (HTML, CSS, JavaScript, 2024)  
+- [Expense Tracking App](https://github.com/kmadsdev/ExpenseTrackingApp/) (Python, Aug 2025 – Present)
 
-<p></p>
+---
 
-☁️ Database/Cloud
-<ul>
-  <li>MySQL, PostgreSQL, MongoBD, Redis</li>
-  <li>Oracle, AWS, Google Cloud, Docker, Aiven</li>
-</ul>
+## 📟 Programming Languages
+- Python (OOP, Pandas, PySpark, Streamlit, RPA)  
+- Java (OOP, JDBC)  
+- JavaScript (HTML/CSS)  
+- TypeScript, Golang, PHP, Redis
 
-<p></p>
+---
 
-</> Terminal
-<ul>
-  <li>Linux (Alpine, Ubuntu, Fedora)</li>
-  <li>git</li>
-</ul>
+## 🖥️ Software & Tools
+- VSCode, IntelliJ, DBeaver, PgAdmin, Jira, Oracle Transactional Business Intelligence (OTBI)  
+- Excel, PowerPoint, Canva, Figma, Notion, Obsidian
+
+---
+
+## ☁️ Databases & Cloud
+- SQL (MySQL, PostgreSQL, SQLite), MongoDB, Redis
+- Oracle, AWS, Google Cloud, Docker, Aiven
+
+---
+
+## </> Terminal & OS
+- Linux administration (Alpine, Ubuntu, Fedora):
+    - File system navigation, shell commands, process management
+    - Package managers (`apt`, `apk`, `dnf`)
+- Git & Github
+  - Branching strategies & merge conflicts, Collaboration workflows
+
+---
+
+## Learning Journey
+- **2018–2022:** JavaScript, Discord bots, simple websites; Git/GitHub fundamentals (Push, Pull, Merge)  
+- **2022–2023:** Python, SQL, Excel; Data analysis with Pandas, PySpark, PowerBI  
+- **2024:** Germinare Tech / J&F Institute – Data Science/Analysis, Software Engineering, DevOps, Security, Frontend/Backend Development  
+- **2025:** Advanced Python, Data Science, ML, AI basics, BI (PowerBI), Redis, Software Engineering (Scrum, QA, Agile), DevOps
+
+---
+
+## 💻 Software Engineering, QA & Scrum Skills
+- **Software Engineering:** SDLC, modular & maintainable code, reproducible pipelines, version control  
+- **Quality Assurance:** Unit & integration testing (pytest/unittest), data quality validation, ML model evaluation & monitoring  
+- **Agile / Scrum:** Sprint planning, daily stand-ups, backlog management, retrospectives; Trello/Jira for team projects
+
+---
+
+## 🏆 Honors & Achievements:
+  - 🥉 Medalist on [Brazil's Math Kangaroo](https://www.cangurudematematicabrasil.com.br/) (2024)
