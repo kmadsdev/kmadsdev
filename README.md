@@ -7,8 +7,8 @@
 ## 🎓 Education
 - Studying on J&F Tech | Computer Science & Software Development
 - Taking CS50x | Introduction to Computer Science (Harvard University, EdX)
-- Taking Google Cloud & AWS's Cloud Engineering (CloudOps) / Cloud Practitioner / Cloud Developer Courses
-- Self Learning: I can learn anything quickly with the basics and some practice
+- Taking Google Cloud & AWS's Cloud Engineering (CloudOps) / Cloud Developer Courses
+- Self Learning | I can learn almost anything very quickly with the basics and some practice
 - Selected Professional Courses & Certifications:
   - Agile & Scrum: (PMI & NASBA) Scrum (Introduction to Advanced), Agile Software Development, +7
   - Project Management & Leadership: Project Management Foundations (NASBA), Agile Management at Work (PMI), +4
@@ -43,7 +43,7 @@
 - Discord Moderation/Entertainment/Security Server Bots (2018–2022, Discord.js, Node.js)  
 - Simple websites (2019–2024, HTML/CSS/JavaScript)  
 - Simple games/applications (2023–Present, Python)  
-- 2 businesses built from scratch as part of CS/SWD course  
+- 2 businesses (startups) built from scratch as part of J&F Tech CS/SWD Course
 - [Calculator Website](https://github.com/kmadsdev/calculator/) (HTML, CSS, JavaScript, 2024)  
 - [Expense Tracking App](https://github.com/kmadsdev/ExpenseTrackingApp/) (Python, Aug 2025 – Present)
 
