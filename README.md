@@ -8,13 +8,12 @@
 - Studying on J&F Tech | Computer Science & Software Development
 - Taking CS50x | Introduction to Computer Science (Harvard University, EdX)
 - Taking Google Cloud & AWS's Cloud Engineering (CloudOps) / Cloud Developer Courses
-- Self Learning | I can learn almost anything very quickly with the basics and some practice
 - Selected Professional Courses & Certifications:
   - Agile & Scrum: (PMI & NASBA) Scrum (Introduction to Advanced), Agile Software Development, +7
   - Project Management & Leadership: Project Management Foundations (NASBA), Agile Management at Work (PMI), +4
   - Software Engineering / Backend / DevOps: Python, PySpark, Databricks SQL Analytics and BI, PHP, Redis, Spring Boot, Go
   - Frontend & Web Development: JavaScript, TypeScript, Angular
-  - RPA & Automation: BotCity Python RPA, Python Basics for RPA, SAP Automation
+  - RPA & Automation: BotCity Python RPA, SAP Automation
 
 ---
 
@@ -33,19 +32,7 @@
 - **Other Projects** (2018 - Present)
   - JavaScript Discord Bots for moderation, community management, entertainment (made with Discord.JS + Node.JS) - 2018-2021
   - Simple Calculator App (made using HTML, CSS and JavaScript. Several versions were made for learning purposes) - 2020-2023
-  - Automatic Finance Market Automation (RPA made with Python & MT5) - 2023-2024 (documentation & publishing in progress)
-  - Python Finance Tracking App (made using Pyhton & Streamlit & Pandas) - 2025 (In progress)
-  - Couple of HTML Design testing (Made using HTML, CSS, JavaScript and Brainpower) - 2023
-
----
-
-## 📋 Projects
-- Discord Moderation/Entertainment/Security Server Bots (2018–2022, Discord.js, Node.js)  
-- Simple websites (2019–2024, HTML/CSS/JavaScript)  
-- Simple games/applications (2023–Present, Python)  
-- 2 businesses (startups) built from scratch as part of J&F Tech CS/SWD Course
-- [Calculator Website](https://github.com/kmadsdev/calculator/) (HTML, CSS, JavaScript, 2024)  
-- [Expense Tracking App](https://github.com/kmadsdev/ExpenseTrackingApp/) (Python, Aug 2025 – Present)
+  - Automatic Finance Market Automation (RPA made with Python & MT5) - 2023-2024
 
 ---
 
