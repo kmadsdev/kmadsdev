@@ -4,7 +4,7 @@
 
 ---
 
-## 🎓 Education & Coursework
+## 🎓 Education
 - Studying @ J&F Tech | Computer Science & Software Development
   - Full-Stack Development (Advanced OOP, Programming Logic, Algorithms and Workflows)
   - Software Engineering including CI/CD workflows, SDLC, SWD, Docker, Git
@@ -16,15 +16,31 @@
   - Networks (CSec/IS, TCP/IP, Ports, DNS, DHCP, HTTP)
   - Databases (Data moddeling using SQLite and API integration)
   - Front-end, Back-end & Web applications (html/css, JavaScript, DOM, Bootstrap, Python, Flask)
-- Introduction to Cloud Engineering Courses @ AWS
+
+## 📝 Coursework
+- Agile, Scrum & Project Management: (PMI & NASBA) Advanced Scrum, Agile Software Development
+  - Agile Project Management and Software Development
+  - Advanced Scrum
+- Software Engineering:
+  - SDLC, DevOps, CI/CD Workflows, Microservices
+  - Python, PySpark, SQL, PHP, Redis, Spring Boot, Go
+  - Backend/Frontend development using HTML, CSS, JS, TS and Angular
+- Computer Science
+  - Advanced Object-Oriented Programming
+  - Advanced Data Modeling & Databases
+  - Advanced Operating Systems & Hardware
+  - Data Analysis/Engineering
+  - Data Science & Machine Learning
+  - Applied Mathematics for Data Science
+  - Computer Architecture
+  - Information Security (Cybersecurity)
+  - Branching & Release Management
+  - Prompt Engineering
+- Cloud Engineering
+  - Cloud Platform Mangement
   - AWS Cloud Practitioner Essentials
-  - Introduction to EC2, SQS & SNS, S3, Lambda and Cloud Fundamentals
-- Selected Professional Courses & Certifications:
-  - Agile & Scrum: (PMI & NASBA) Advanced Scrum, Agile Software Development
-  - Project Management: (PMI & NASBA) Project Management Foundations, Agile Management at Work
-  - Software Engineering/Backend/DevOps: Python, PySpark, Databricks SQL Analytics, PHP, Redis, Spring Boot, Go
-  - Frontend & Web Development: JavaScript, TypeScript, Angular
-  - RPA & Automation: (BotCity) Python RPA, SAP Automation
+  - Introduction to EC2, S2, AWS Lambda, SQS/SNS, ELB
+- RPA & Automation: (BotCity) Python RPA, SAP Automation
 
 ---
 
@@ -69,7 +85,7 @@
 
 ## ☁️ Databases & Cloud
 - SQL & NoSQL (MySQL, PostgreSQL, SQLite, Oracle SQL, MongoDB, Redis)
-- AWS, Oracle, Docker, Aiven (PostgreSQL, MySQL, SQLite, MongoDB, Redis)
+- AWS, Oracle, Google Cloud, Docker, Aiven
 
 ---
 
@@ -85,13 +101,6 @@
 - **2023-2024:** Python Fundamentals, SQL (MySQL), Excel/Power BI, Data Analysis with Pandas, PySpark, PowerBI  
 - **2024:** Computer Science, Data Analysis, Software Engineering, DevOps, Cybersecurity, Full-Stack Development, BI (PowerBI, Tableau)
 - **2025:** Advanced Python, Advanced SWE, Data Science, ML/AI, DevOps, QA, Scrum/Agile, Cloud Engineering
-
----
-
-## 💻 Software Engineering, QA & Scrum Skills
-- **Software Engineering:** SDLC, modular & maintainable code, reproducible pipelines, version control  
-- **Quality Assurance:** Unit & integration testing (pytest/unittest), data quality validation, ML model evaluation & monitoring  
-- **Agile / Scrum:** Sprint planning, daily stand-ups, backlog management, retrospectives; Jira/Trello/Github Projects
 
 ---
 
