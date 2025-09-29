@@ -119,6 +119,7 @@
 
 ## 🏆 Honors & Achievements:
   - 🥉 Medalist on [Brazil's Math Kangaroo](https://www.cangurudematematicabrasil.com.br/) (2024)
+  - 🥈 2nd Place on my classroom's Interclass Tournament (2024)
 
 ---
 
