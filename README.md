@@ -5,39 +5,40 @@
 ---
 
 ## 🎓 Education
-- J&F Tech | Computer Science & Software Development
+- **Computer Science & Software Development @ J&F Tech** (Expected 2026)
   - Full-Stack Development (Advanced OOP, Programming Logic, Algorithms and Workflows)
   - Software Engineering: CI/CD workflows, SDLC, Microservices, Docker, Git
   - Advanced Databases with SQL & NoSQL (PostgreSQL, MySQL, SQLite, MondoDB, Redis)
   - Cloud (AWS, GC, Firebase, Docker, Aiven)
-- CS50x @ Harvard University (EdX) | Computer Science
+
+- **Computer Science (CS50x) @ Harvard University (EdX)** (2025)
   - Algorithms (Data Structures, Memory, Big O efficiency, Pointers, Low-level programming with C, Regex)
   - Networks (CSec/IS, TCP/IP, Ports, DNS, DHCP, HTTP)
   - Databases (Data moddeling using SQLite and API integration)
   - Frontend and Backend Development (html/css, JavaScript, Bootstrap, Flask)
 
-## 📝 Coursework
-Software Engineering
-Software Design Life Cycle (SDLC)
-FullStack Development
-Advanced Object-Oriented Programming
-Advanced DevOps
-Advanced Python
-Advanced Data Modeling & Databases (SQL & NoSQL)
-Advanced Operating Systems & Hardware
-Agile Software Development (PMI)
-Agile Project Management (PMI)
-Advanced Scrum (PMI)
-Data Analysis and Data Engineering
-Data Science & Machine Learning (Pandas & PySpark)
-Branching & Release Management
-Computer Architecture
-Applied Mathematics for Data Science
-Information Security (Cybersecurity)
-Cloud Platform Management
-AWS Cloud Practitioner Essentials
-Introduction to EC2, S2, Lambda, SQS/SNS, ELB
-RPA & SAP Automation (BotCity)
+## 📚 Coursework
+- Software Engineering
+- Software Design Life Cycle (SDLC)
+- FullStack Development
+- Advanced Object-Oriented Programming
+- Advanced DevOps
+- Advanced Python
+- Advanced Data Modeling & Databases (SQL & NoSQL)
+- Advanced Operating Systems & Hardware
+- Agile Software Development (PMI)
+- Agile Project Management (PMI)
+- Advanced Scrum (PMI)
+- Data Analysis and Data Engineering
+- Data Science & Machine Learning (Pandas & PySpark)
+- Branching & Release Management
+- Computer Architecture
+- Applied Mathematics for Data Science
+- Information Security (Cybersecurity)
+- Cloud Platform Management
+- AWS Cloud Practitioner Essentials
+- Introduction to EC2, S2, Lambda, SQS/SNS, ELB
+- RPA & SAP Automation (BotCity)
 
 ---
 
@@ -45,16 +46,20 @@ RPA & SAP Automation (BotCity)
 - **Data Analyst @ [PicPay](https://picpay.com/)** (Mar 2025 – Present)
   - Created efficient decision-making relatories for the Corporate HR & other areas with Oracle Cloud, SQL, Excel/Tableau
   - Lowered Senior Engineers Workload by 15%
-  - Worked face-to-face with Senior Engineers, CTOs, Staffs and Tech Managers
+  - Worked face-to-face with CTOs, Tech Managers and Senior Engineers
   - Completed various courses including PMI, NASBA, BotCity, Databricks
+
 - **Data Scientist & Cloud Engineer @ HiveMind** (Jan 2025 – Present)
-  - Developed, trained, and managed Machine Learning models using Python
-  - Managed Cloud platforms on AWS, Firebase, MongoDB Atlas, Aiven and Modeled Databases with PostgreSQL, MongoDB and Redis
+  - Developed, trained, and managed Machine Learning models mainly using Python
+  - Managed SQL & NoSQL based databases on AWS, Firebase, Aiven and Docker
+  - Modeled PostgreSQL, MongoDB and Redis databases
+
 - **Co-founder & Software Engineer @ TrocaTine** (Jan 2024 – Dec 2024)
-  - Created and managed the Landing Page Design and Servlet using Java, jdbc, tomcat and maven
+  - Led the Landing Page Project and got a 90% approval rate
   - Led market research and financial planning, estimating 30% lower costs for users compared to buying new items
-  - Created, managed and maintaining Cloud Platforms (Aiven, Docker) and Databases (PostgreSQL)
- 
+  - Managed the main web page server using Java, jdbc, tomcat and maven
+  - Managed SQL based databases on Aiven and Docker
+
 ---
 
 ## 📂 Projects
@@ -63,6 +68,7 @@ RPA & SAP Automation (BotCity)
   - Backtested on 10 years of data, outperforming the market with an average annual return of 18% (vs. 9% for the S&P500)
   - Achieved a 2.1x higher Sharpe ratio than a traditional index investment strategy, highlighting improved consistency and lower volatility
   - Cut research time by 70% through data automation, enabling faster decision-making compared to manual screening
+
 - **HiveMind** (Jan 2025 – Present)
   - HiveMind is a platform inspired by hive systems, designed to connect data, processes, and decisions across organizations.
   - In order to improve efficiency and reduce operational losses it leverages:
@@ -70,37 +76,35 @@ RPA & SAP Automation (BotCity)
     - AI-based decision automation
     - microservice orchestration
     - collaborative knowledge sharing
+
 - **TrocaTine** (Jan 2024 – Dec 2024)
   - TrocaTine is platform focused on exchanging and selling children's items, such as clothes, shoes, accessories, toys, and more.
   - Our goal were to encourage sustainability and promote more conscious consumption by offering a place where users can interact, exchange information, and participate in groups.
   - After research, the overall project rating was 4.5/5
 
 ## 📂 Other Projects
-- Discord Entertainment, Music, Games, Ticket-system, Moderation and other funcionalities (2018-2021)
-- Minecraft server chat integration with discord (In-game messages appear on Discord and vice-versa) (2019/2020)
-- Roblox games, moddels and clothes made with Lua (got over 10k sales generating over 25k in-game coins "robux")
+- Discord Bots/Apps for Entertainment, Music, Games, Ticket-system, Moderation and other funcionalities (2018-2021)
+- Minecraft-Discord server chat integration (In-game messages appear on Discord and vice-versa) using Java/JavaScript (2019/2020)
 - Canva designs, logos, banners, presentations, portifolios/curriculums, animations, photos, books, mockups, design system (2017-)
+- Roblox moddels and games with Lua and clothes/acessories (got over 10k sales)
 - SoundCloud, made some tracks and remixes & got over 150k plays (2021-2022)
 
 ---
 
 ## 📟 Programming Languages
 - 🥇 Python
-- 🥈 SQL (6 variants)
+- 🥈 SQL & NoSQL (7 variants)
 - 🥉 Java, C, JavaScript 
 - TypeScript, Go, PHP
 
----
-
 ## ☁️ Databases & Cloud
-- SQL & NoSQL (MySQL, PostgreSQL, SQLite, Oracle SQL, MongoDB, Redis)
-- AWS, Oracle, Google Cloud, Docker, Aiven
-
----
+- Platforms: AWS, Oracle, Google Cloud, Firebase, Docker, Aiven
+- Languages: MySQL, PostgreSQL, SQLite, Oracle SQL, MongoDB, Redis, Neo4j
 
 ## </> Terminal & OS
-- Linux administration (Alpine, Ubuntu, Fedora)
-- Git & Github (Versionanment, PRs, Workflows)
+- Linux (Alpine, Ubuntu, Fedora, Redhat)
+- Databases (Docker)
+- Git & Github
 
 ---
 
@@ -118,11 +122,11 @@ RPA & SAP Automation (BotCity)
 
 ---
 
-## ➕ Additional Tech Skills & Experience
+## ➕ Additional Skills & Experiences
   - Solid Hardware maintenance and IT Support skills
   - Great Communication skills and public talking/presenting
-  - Fast learning- I learn things at 1.5x speed
-  - 1600+ Elo (not official) at Chess, over 2000 games played (beaten Komodo 22)
+  - Fast learning, I learn things at 2x speed (Not literally)
+  - 1400+ ELO (not official) at Chess & over 3000 games played (i've beaten Komodo 20 with 2400 ELO)
 
 ---
 
