@@ -1,46 +1,43 @@
-# Software Engineer & Passionate Developer
+# Software Engineer
 
 ![KMADS](/KMADS-v3.png)
 
 ---
 
 ## 🎓 Education
-- Studying @ J&F Tech | Computer Science & Software Development
+- J&F Tech | Computer Science & Software Development
   - Full-Stack Development (Advanced OOP, Programming Logic, Algorithms and Workflows)
-  - Software Engineering including CI/CD workflows, SDLC, SWD, Docker, Git
-  - Advanced Databases (PostgreSQL, MySQL, SQLite, MondoDB, REDIS), Cloud Management (Aiven, Docker)
-  - Front-end, Back-end & Web applications (html/css, js, react, bootstrap, java, jdbc, jsp, tomcat)
-  - OS (Windows, Ubuntu, Fedora, Alpine, Computer Architecture, Memory, Software/Hardware, Regex)
-- CS50x @ Harvard University EdX | Computer Science
+  - Software Engineering: CI/CD workflows, SDLC, Microservices, Docker, Git
+  - Advanced Databases with SQL & NoSQL (PostgreSQL, MySQL, SQLite, MondoDB, Redis)
+  - Cloud (AWS, GC, Firebase, Docker, Aiven)
+- CS50x @ Harvard University (EdX) | Computer Science
   - Algorithms (Data Structures, Memory, Big O efficiency, Pointers, Low-level programming with C, Regex)
   - Networks (CSec/IS, TCP/IP, Ports, DNS, DHCP, HTTP)
   - Databases (Data moddeling using SQLite and API integration)
-  - Front-end, Back-end & Web applications (html/css, JavaScript, DOM, Bootstrap, Python, Flask)
+  - Frontend and Backend Development (html/css, JavaScript, Bootstrap, Flask)
 
 ## 📝 Coursework
-- Agile, Scrum & Project Management: (PMI & NASBA) Advanced Scrum, Agile Software Development
-  - Agile Project Management and Software Development
-  - Advanced Scrum
-- Software Engineering:
-  - SDLC, DevOps, CI/CD Workflows, Microservices
-  - Python, PySpark, SQL, PHP, Redis, Spring Boot, Go
-  - Backend/Frontend development using HTML, CSS, JS, TS and Angular
-- Computer Science
-  - Advanced Object-Oriented Programming
-  - Advanced Data Modeling & Databases
-  - Advanced Operating Systems & Hardware
-  - Data Analysis/Engineering
-  - Data Science & Machine Learning
-  - Applied Mathematics for Data Science
-  - Computer Architecture
-  - Information Security (Cybersecurity)
-  - Branching & Release Management
-  - Prompt Engineering
-- Cloud Engineering
-  - Cloud Platform Mangement
-  - AWS Cloud Practitioner Essentials
-  - Introduction to EC2, S2, AWS Lambda, SQS/SNS, ELB
-- RPA & Automation: (BotCity) Python RPA, SAP Automation
+Software Engineering
+Software Design Life Cycle (SDLC)
+FullStack Development
+Advanced Object-Oriented Programming
+Advanced DevOps
+Advanced Python
+Advanced Data Modeling & Databases (SQL & NoSQL)
+Advanced Operating Systems & Hardware
+Agile Software Development (PMI)
+Agile Project Management (PMI)
+Advanced Scrum (PMI)
+Data Analysis and Data Engineering
+Data Science & Machine Learning (Pandas & PySpark)
+Branching & Release Management
+Computer Architecture
+Applied Mathematics for Data Science
+Information Security (Cybersecurity)
+Cloud Platform Management
+AWS Cloud Practitioner Essentials
+Introduction to EC2, S2, Lambda, SQS/SNS, ELB
+RPA & SAP Automation (BotCity)
 
 ---
 
@@ -55,18 +52,30 @@
   - Managed Cloud platforms on AWS, Firebase, MongoDB Atlas, Aiven and Modeled Databases with PostgreSQL, MongoDB and Redis
 - **Co-founder & Software Engineer @ TrocaTine** (Jan 2024 – Dec 2024)
   - Created and managed the Landing Page Design and Servlet using Java, jdbc, tomcat and maven
-  - Led market research and financial planning, estimating **30% lower costs** for users compared to buying new items
+  - Led market research and financial planning, estimating 30% lower costs for users compared to buying new items
   - Created, managed and maintaining Cloud Platforms (Aiven, Docker) and Databases (PostgreSQL)
-  - The overall project idea rating was **4.5/5**
+ 
+---
 
 ## 📂 Projects
 - **Magic Formula Screener** (2024)
   - A Python based tool that generates a diversified investment portfolio using Joel Greenblatt’s "Magic Formula" Investing strategy
-  - Backtested on 10 years of data, outperforming the market with an **average annual return of 18%** (vs. 9% for the S&P500), effectively **increasing gains by 100%**
-  - Achieved a **2.1x higher** Sharpe ratio than a traditional index investment strategy, highlighting improved consistency and lower volatility
-  - **Cut research time by 70%** through data automation, enabling faster decision-making compared to manual screening
+  - Backtested on 10 years of data, outperforming the market with an average annual return of 18% (vs. 9% for the S&P500)
+  - Achieved a 2.1x higher Sharpe ratio than a traditional index investment strategy, highlighting improved consistency and lower volatility
+  - Cut research time by 70% through data automation, enabling faster decision-making compared to manual screening
+- **HiveMind** (Jan 2025 – Present)
+  - HiveMind is a platform inspired by hive systems, designed to connect data, processes, and decisions across organizations.
+  - In order to improve efficiency and reduce operational losses it leverages:
+    - real-time data analysis
+    - AI-based decision automation
+    - microservice orchestration
+    - collaborative knowledge sharing
+- **TrocaTine** (Jan 2024 – Dec 2024)
+  - TrocaTine is platform focused on exchanging and selling children's items, such as clothes, shoes, accessories, toys, and more.
+  - Our goal were to encourage sustainability and promote more conscious consumption by offering a place where users can interact, exchange information, and participate in groups.
+  - After research, the overall project rating was 4.5/5
 
-## ➕ Other Projects
+## 📂 Other Projects
 - Discord Entertainment, Music, Games, Ticket-system, Moderation and other funcionalities (2018-2021)
 - Minecraft server chat integration with discord (In-game messages appear on Discord and vice-versa) (2019/2020)
 - Roblox games, moddels and clothes made with Lua (got over 10k sales generating over 25k in-game coins "robux")
@@ -115,13 +124,7 @@
   - Fast learning- I learn things at 1.5x speed
   - 1600+ Elo (not official) at Chess, over 2000 games played (beaten Komodo 22)
 
+---
+
 ## ✅ Hobbies & Interests
-  - 🖥️ Develop Software and code
-  - 💪 Workout (Gym)
-  - 👟 Run
-  - 🏀 Basketball
-  - ⚽ Soccer
-  - 🏓 Table Tennis
-  - 📺 Movies/Series
-  - ♟️ Chess
-  - 📚 Books
+  - 🖥️💪👟🏀⚽🏓📺♟️📚
