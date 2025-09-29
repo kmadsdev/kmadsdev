@@ -109,21 +109,22 @@
 ---
 
 ## 📚 Learning Journey
-- **2018–2021:** Developed Discord bots using JavaScript, Discord.JS and Node.JS, simple websites, Git/GitHub fundamentals and programming logic
-- **2022-2024:** Actively contributed to PC Building communities on reddit (pcpartpicker.com & meupc.net) and learned Hardware fundamentals
-- **2023-2024:** Python Fundamentals, SQL (MySQL), Excel/Power BI, Data Analysis with Pandas, PySpark, PowerBI  
-- **2024:** Computer Science, Data Analysis, Software Engineering, DevOps, Cybersecurity, Full-Stack Development, BI (PowerBI, Tableau)
-- **2025:** Advanced Python, Advanced SWE, Data Science, ML/AI, DevOps, QA, Scrum/Agile, Cloud Engineering
+- **2018–2021:** Developed Discord bots using JavaScript, Discord.JS and Node.JS, simple websites and learned Git/GitHub fundamentals
+- **2022-2024:** Actively contributed to PC Building communities on reddit (like pcpartpicker.com and meupc.net) and learned a lot of Hardware fundamentals
+- **2023:** Python/MySQL Fundamentals, Data Analysis (using Pandas and PySpark), Tableau and Power BI
+- **2024:** Computer Science, Software Engineering, Advanced Data Analysis, DevOps, FullStack Development, Cybersecurity, Cloud Platform Management
+- **2025:** Advanced Python, Advanced Software Engineering, Advanced DevOps, Advanced Databases (SQL & NoSQL), Data Science & ML, QA, Scrum/Agile, Cloud Engineering
 
 ---
 
 ## 🏆 Honors & Achievements:
-  - 🥉 Medalist on [Brazil's Math Kangaroo](https://www.cangurudematematicabrasil.com.br/) (2024)
-  - 🥈 2nd Place on my classroom's Interclass Tournament (2024)
+  - ⭐ Awarded on [Brazil's Informatics Olympiad](https://olimpiada.ic.unicamp.br/) for J&F Institute (2024)
+  - 🥉 Bronze Medalist on [Brazil's Math Kangaroo](https://www.cangurudematematicabrasil.com.br/) for J&F Institute (2024)
+  - 🥈 2nd Place on my classroom's Soccer Interclass Tournament - 2024
 
 ---
 
-## ➕ Additional Skills & Experiences
+## Additional Skills & Experiences
   - Solid Hardware maintenance and IT Support skills
   - Great Communication skills and public talking/presenting
   - Fast learning, I learn things at 2x speed (Not literally)
@@ -131,5 +132,5 @@
 
 ---
 
-## ✅ Hobbies & Interests
+## Hobbies & Interests
   - 🖥️💪👟🏀⚽🏓📺♟️📚
