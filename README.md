@@ -37,7 +37,7 @@
 - Information Security (Cybersecurity)
 - Cloud Platform Management
 - AWS Cloud Practitioner Essentials
-- Introduction to EC2, S2, Lambda, SQS/SNS, ELB
+- Introduction to EC2, S3, Lambda, SQS/SNS, ELB
 - RPA & SAP Automation (BotCity)
 
 ---
