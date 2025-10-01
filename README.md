@@ -73,12 +73,12 @@
   - The goal is to encourage sustainability and promote more conscious consumption by offering a community where user can interact and exchange items
   - After a research, the overall project rating was 4.5/5
 
-## ➕ Other Projects
-- Discord Bots/Apps for Entertainment, Music, Games, Ticket-system, Moderation and other funcionalities (2018-2021)
-- Minecraft-Discord server chat integration (In-game messages appear on Discord and vice-versa) using Java/JavaScript (2019/2020)
-- Canva designs, logos, banners, presentations, portifolios/curriculums, animations, photos, books, mockups, design system (2017-)
-- Roblox moddels and games with Lua and clothes/acessories (got over 10k sales)
-- SoundCloud, made some tracks and remixes & got over 150k plays (2021-2022)
+- Other Projects
+  - Discord Bots/Apps for Entertainment, Music, Games, Ticket-system, Moderation and other funcionalities (2018-2021)
+  - Minecraft-Discord server chat integration (In-game messages appear on Discord and vice-versa) using Java/JavaScript (2019/2020)
+  - Canva designs, logos, banners, presentations, portifolios/curriculums, animations, photos, books, mockups, design system (2017-)
+  - Roblox moddels and games with Lua and clothes/acessories (got over 10k sales)
+  - SoundCloud, made some tracks and remixes & got over 150k plays (2021-2022)
 
 ---
 
@@ -86,31 +86,26 @@
 
 ### 📟 Programming Languages
 - 🥇 Python
-- 🥈 SQL & NoSQL (7 variants)
-- 🥉 Java, C, JavaScript 
-- TypeScript, Go, PHP
+- 🥈 SQL & NoSQL (MySQL, PostgreSQL, SQLite, Oracle SQL, MongoDB, Redis, Neo4j)
+- 🥉 Java, C, JavaScript
 
-### ☁️ Databases & Cloud
-- Platforms: AWS, Oracle, Google Cloud, Firebase, Docker, Aiven
-- Languages: MySQL, PostgreSQL, SQLite, Oracle SQL, MongoDB, Redis, Neo4j
+### 🗣️ Languages
+- Enlgish (Proficient)
+- Portuguese (Native)
+- Spanish (Elementary Proficiency)
 
-### </> Terminal & OS
-- Linux (Alpine, Ubuntu, Fedora, Redhat)
-- Databases (Docker)
-- Git & Github
-
-## Additional Skills & Experiences
+### Other
+  - Linux (Alpine, Ubuntu, Fedora, Redhat)
   - Solid Hardware maintenance and IT Support skills
   - Great Communication skills and public talking/presenting
-  - Fast learning, I learn things at 2x speed (Not literally)
-  - 1400+ ELO (not official) at Chess & over 3000 games played (i've beaten Komodo 20 with 2400 ELO)
-  - 🖥️💪👟🏀⚽🏓📺♟️📚
+  - 1400+ elo at Chess with over 3K rounds played
+  - 💪👟🏀⚽🏓
 
 ---
 
 ## 📚 Learning Journey
 - **2018–2021:** Developed Discord bots using JavaScript, Discord.JS and Node.JS, simple websites and learned Git/GitHub fundamentals
-- **2022-2024:** Actively contributed to PC Building communities on reddit (like pcpartpicker.com and meupc.net) and learned a lot of Hardware fundamentals
+- **2022-2024:** Actively contributed to PC Building communities on reddit (like r/craftmybox, r/builapc and r/computadores) and learned a lot of Hardware fundamentals
 - **2023:** Python/MySQL Fundamentals, Data Analysis (using Pandas and PySpark), Tableau and Power BI
 - **2024:** Computer Science, Software Engineering, Advanced Data Analysis, DevOps, FullStack Development, Cybersecurity, Cloud Platform Management
 - **2025:** Advanced Python, Advanced Software Engineering, Advanced DevOps, Advanced Databases (SQL & NoSQL), Data Science & ML, QA, Scrum/Agile, Cloud Engineering
@@ -121,3 +116,4 @@
   - ⭐ Awarded on [Brazil's Informatics Olympiad](https://olimpiada.ic.unicamp.br/) for J&F Institute (2024)
   - 🥉 Bronze Medalist on [Brazil's Math Kangaroo](https://www.cangurudematematicabrasil.com.br/) for J&F Institute (2024)
   - 🥈 2nd Place on my classroom's Soccer Interclass Tournament - 2024
+  - ♟️ I've beaten Komodo20 Chess Bot rated at 2400 elo
