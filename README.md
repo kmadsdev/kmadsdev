@@ -11,7 +11,7 @@
   - Advanced Databases, SQL & NoSQL (PostgreSQL, MondoDB, Redis, Neo4j)
   - Cloud (AWS, Firebase, Docker, Aiven)
 
-- **Computer Science (CS50x) @ Harvard University (EdX)** (2025)
+- **Computer Science (CS50x) @ Harvard University** (2025)
   - Algorithms (Data Structures, Memory, Big O efficiency, Pointers, Low-level programming with C, Regex)
   - Networks (CSec/IS, TCP/IP, Ports, DNS, DHCP, HTTP)
   - Databases (Data moddeling and API integration) using SQLite
@@ -42,7 +42,7 @@
   - Worked face-to-face with CTOs, Tech Managers and Senior Engineers
   - Completed various courses including PMI, NASBA, BotCity, Databricks
 
-- **Data Scientist & Cloud Engineer @ HiveMind** (Jan 2025 – Present)
+- **Data Scientist @ HiveMind** (Jan 2025 – Present)
   - Developed, trained, and managed Machine Learning models mainly using Python
   - Managed SQL & NoSQL based databases on AWS, Firebase, Aiven and Docker
   - Modeled PostgreSQL, MongoDB and Redis databases
@@ -90,15 +90,15 @@
 - 🥉 Java, C, JavaScript
 
 ### 🗣️ Languages
-- Enlgish (Proficient)
+- Enlgish (Full Working Proficiency)
 - Portuguese (Native)
-- Spanish (Elementary Proficiency)
+- Spanish (Limited Working Proficiency)
 
 ### Other
   - Linux (Alpine, Ubuntu, Fedora, Redhat)
   - Solid Hardware maintenance and IT Support skills
   - Great Communication skills and public talking/presenting
-  - 1400+ elo at Chess with over 3K rounds played
+  - 1400+ elo at Chess with over 3,000 rounds played
   - 💪👟🏀⚽🏓
 
 ---
