@@ -13,24 +13,25 @@
 
 - **Computer Science (CS50x) @ Harvard University** (2025)
   - Algorithms (Data Structures, Memory, Big O efficiency, Pointers, Low-level programming with C, Regex)
-  - Networks (CSec/IS, TCP/IP, Ports, DNS, DHCP, HTTP)
+  - Network & CSec (CSec/IS, TCP/IP, Ports, DNS, DHCP, HTTP)
   - Databases (Data moddeling and API integration) using SQLite
   - Frontend and Backend Development (using html/css, JavaScript, Bootstrap and Flask)
 
 ## 📚 Coursework
-- Software Engineering and SDLC
+- Software Engineering
+- Software Design Life Cycle (SDLC)
+- Software Architecture
 - FullStack Development
-- Advanced Object-Oriented Programming
+- Advanced Object Oriented Programming
 - Advanced DevOps
 - Advanced Data Modeling & Databases (SQL & NoSQL)
 - Cloud Platform Management
 - AWS Cloud Practitioner Essentials (EC2, S3, Lambda, SQS/SNS, ELB)
-- Advanced Operating Systems & Hardware (Memory, Computer Architecture)
+- Advanced Operating Systems (Hardware, Memory, Computer Architecture, Linux)
 - Agile Software Development & Project Management (PMI)
-- Advanced Scrum (PMI)
+- Advanced Scrum & Agile Methodologies (PMI)
 - Data Science & Machine Learning
-- Branching & Release Management
-- Information Security (Cybersecurity)
+- Git & Github (Branching and Release Management)
 - RPA & SAP Automation (BotCity)
 
 ## 📍 Learning Journey
@@ -76,14 +77,14 @@
 - **TrocaTine** (Jan 2024 – Dec 2024)
   - Platform focused on exchanging and selling children's items, such as clothes, shoes, accessories, toys, and more
   - The goal is to encourage sustainability and promote more conscious consumption by offering a community where user can interact and exchange items
-  - After a research, the overall project rating was 4.5/5
+  - After an research, the overall project rating was 4.5/5
 
 - Other Projects
-  - Minecraft-Discord server chat integration (In-game messages appear on Discord and vice-versa) using JavaScript
-  - Discord Bots & Apps for Entertainment, Games, Support, Moderation and other funcionalities
-  - Canva designs, logos, banners, presentations, portifolios/curriculums, animations, photos, books, mockups, design system
-  - Roblox moddels and games with Lua and clothes/acessories & got over 10k sales
-  - SoundCloud, made some tracks and remixes & got over 150k plays
+  - Minecraft-Discord server chat integration (In-game messages appear on Discord and vice-versa) using JavaScript (2021)
+  - Discord Bots & Apps for Entertainment, Games, Support, Moderation and other funcionalities (2018-2021)
+  - Canva designs, logos, banners, presentations, portifolios, animations, books, mockups, etc (since 2017)
+  - Roblox, made some moddels/games with Lua, clothing/acessories/designs & got over 10k sales (2019-2023)
+  - SoundCloud, made some tracks and remixes & got over 150k plays (2020-2022)
 
 ---
 
@@ -103,11 +104,11 @@
   - Linux (Alpine, Ubuntu, Fedora, Redhat)
   - Solid Hardware maintenance and IT Support skills
   - Great Communication skills and public talking/presenting
-  - 1400+ elo at Chess with over 3,000 rounds played
+  - Over 3,000 Chess rounds played
   - 💪👟🏀⚽🏓
 
 ## 🏆 Honors & Achievements:
   - ⭐ Awarded on [Brazil's Informatics Olympiad](https://olimpiada.ic.unicamp.br/) for J&F Institute (2024)
   - 🥉 Bronze Medalist on [Brazil's Math Kangaroo](https://www.cangurudematematicabrasil.com.br/) for J&F Institute (2024)
-  - 🥈 2nd Place on my classroom's Soccer Interclass Tournament (2024)
+  - 🥈 2nd Place on my class's Soccer Interclass Tournament (2024)
   - ♟️ Beaten Komodo20 Chess Bot rated at 2400 elo
