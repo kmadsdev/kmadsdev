@@ -6,40 +6,39 @@
 
 ## 🎓 Education
 - **Computer Science & Software Development @ J&F Tech** (Expected 2026)
-  - Full-Stack Development (Advanced OOP, Programming Logic, Algorithms)
-  - Software Engineering: CI/CD workflows, SDLC, Microservices, Docker, Git
-  - Advanced Databases, SQL & NoSQL (PostgreSQL, MondoDB, Redis, Neo4j)
-  - Cloud (AWS, Firebase, Docker, Aiven)
+  - Full-Stack Development (Advanced OOP, Algorithms, Web development, Infrastructure, APIs)
+  - Software Engineering (CI/CD, workflows, SDLC, Microservices, Docker, Git)
+  - Advanced Data Modelling, SQL & NoSQL (PostgreSQL, MondoDB, Redis, Neo4j)
+  - Cloud (AWS, Firebase, Docker, MongoDB Atlas, Aiven)
 
 - **Computer Science (CS50x) @ Harvard University** (2025)
   - Algorithms (Data Structures, Memory, Big O efficiency, Pointers, Low-level programming with C, Regex)
-  - Network & CSec (CSec/IS, TCP/IP, Ports, DNS, DHCP, HTTP)
-  - Databases (Data moddeling and API integration) using SQLite
+  - Network & CSec/IS (TCP/IP, Ports, DNS, DHCP, HTTP)
+  - Data moddeling and API integration using SQLite
   - Frontend and Backend Development (using html/css, JavaScript, Bootstrap and Flask)
 
 ## 📚 Coursework
-- Software Engineering
-- Software Design Life Cycle (SDLC)
-- Software Architecture
+- Software Engineering (DevOps, SDLC)
+- Software Architecture & Design
 - FullStack Development
 - Advanced Object Oriented Programming
-- Advanced DevOps
-- Advanced Data Modeling & Databases (SQL & NoSQL)
+- Advanced Data Modeling & Databases
 - Cloud Platform Management
 - AWS Cloud Practitioner Essentials (EC2, S3, Lambda, SQS/SNS, ELB)
-- Advanced Operating Systems (Hardware, Memory, Computer Architecture, Linux)
+- Advanced Operating Systems (Hardware, Memory, Computer Architecture)
 - Agile Software Development & Project Management (PMI)
 - Advanced Scrum & Agile Methodologies (PMI)
 - Data Science & Machine Learning
 - Git & Github (Branching and Release Management)
 - RPA & SAP Automation (BotCity)
+- Linux (Ubuntu, Alpine, Arch)
 
 ## 📍 Learning Journey
-- **2018–2021:** Developed Discord bots using JavaScript, Discord.JS and Node.JS, simple websites and learned Git/GitHub fundamentals
-- **2022-2024:** Actively contributed to PC Building communities on reddit (like r/craftmybox, r/builapc and r/computadores) and learned a lot of Hardware fundamentals
-- **2023:** Python, SQL, Data Analysis (using Pandas, PySpark and MySQL), Tableau and Power BI
-- **2024:** Computer Science, Software Engineering, Advanced Data Analysis, DevOps, FullStack Development, Cybersecurity, Cloud (Aiven, Docker)
-- **2025:** Advanced Databases, NoSQL (MongoDB, Redis & Neo4j), Data Science & ML, QA, Scrum/Agile, Cloud (AWS, GCP, Atlas, Firebase)
+- **2018–2022:** Actively Developed Discord bots using JavaScript, Discord.JS and Node.JS, simple websites and learned Git/GitHub fundamentals
+- **2022-2024:** Contributed to PC Building communities on reddit (like r/craftmybox, r/builapc and r/computadores) and helped people build their PCs
+- **2023:** Python, SQL, Data Analysis (Pandas, PySpark, MySQL, Tableau and Power BI)
+- **2024:** CS, Software Engineering, Advanced Data Analysis, DevOps, FullStack Development, CSec/IS, Cloud (GCP, Docker, Aiven) and Scrum/Agile
+- **2025:** Advanced Databases, NoSQL (MongoDB, Redis & Neo4j), Data Science & ML, QA, Advanced Scrum/Agile, Cloud (AWS, GCP, MongoDB Atlas, Firebase)
 
 ---
 
@@ -100,10 +99,9 @@
 - Portuguese (Native)
 - Spanish (Limited Working Proficiency)
 
-### Other
-  - Linux (Alpine, Ubuntu, Fedora, Redhat)
-  - Solid Hardware maintenance and IT Support skills
-  - Great Communication skills and public talking/presenting
+### Other Skills
+  - Linux (Alpine, Ubuntu, Arch, Fedora, Redhat)
+  - Hardware Maintenance & IT Support
   - Over 3,000 Chess rounds played
   - 💪👟🏀⚽🏓
 
@@ -111,4 +109,4 @@
   - ⭐ Awarded on [Brazil's Informatics Olympiad](https://olimpiada.ic.unicamp.br/) for J&F Institute (2024)
   - 🥉 Bronze Medalist on [Brazil's Math Kangaroo](https://www.cangurudematematicabrasil.com.br/) for J&F Institute (2024)
   - 🥈 2nd Place on my class's Soccer Interclass Tournament (2024)
-  - ♟️ Beaten Komodo20 Chess Bot rated at 2400 elo
+  - ♟️ Beaten Komodo20 Chess Bot rated 2400 elo
