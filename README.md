@@ -1,17 +1,33 @@
-# Software Engineer
+# Kaique Souza | Software Engineer
+I’m a 17 year old tech enthusiast with over 7 years of experience in IT, programming, data, and software development. 
+Always being so curious about technologies like hardware in an smartphone or a software, my journey started in 2018 when I discovered that I could build my very own Bots on Discord, I started digging into JavaScript using Node.JS and Discord.JS since.
+
+### Language Stack
+- 🥇 Python (OOP, Pandas, PySpark, Scikit, Flask, API integration, Software Development)
+- 🥈 SQL & NoSQL (MySQL, PostgreSQL, SQLite, Oracle SQL, MongoDB, Redis, Neo4j)
+- 🥉 Java, C, JavaScript (OOP, Memory, Web development, RESTful APIs, JDBC, Node.JS)
+### Skills
+- 🖥️ DevOps (CI/CD, SDLC, Microservices, Docker)
+- 📊 Data (SQL & NoSQL, Data Modeling, Machine Learning)
+- ☁️ Cloud (AWS, GCP, Oracle, Aiven, Docker)
+  - AWS: EC2, S3, Lambda, ELB
+  - Oracle: HCM, OIC, OTBI, Oracle SQL
+
+---
 
 ![KMADS](/KMADS-v3.png)
 
 ---
 
 ## 🎓 Education
-- **Computer Science & Software Development @ J&F Tech** (Expected 2026)
+### **Computer Science & Software Development @ J&F Tech** (Expected 2026)
   - Full-Stack Development (Advanced OOP, Algorithms, Web development, Infrastructure, APIs)
-  - Software Engineering (CI/CD, workflows, SDLC, Microservices, Docker, Git)
+  - Software Engineering (CI/CD workflows, SDLC, Microservices, Docker, Git)
   - Advanced Data Modelling, SQL & NoSQL (PostgreSQL, MondoDB, Redis, Neo4j)
+  - Data Science & ML (Supervised and Unsupervised ML Models, Scikit-learn, Tensorflow)
   - Cloud (AWS, Firebase, Docker, MongoDB Atlas, Aiven)
 
-- **Computer Science (CS50x) @ Harvard University** (2025)
+### **Computer Science (CS50x) @ Harvard University (EdX)** (2025)
   - Algorithms (Data Structures, Memory, Big O efficiency, Pointers, Low-level programming with C, Regex)
   - Network & CSec/IS (TCP/IP, Ports, DNS, DHCP, HTTP)
   - Data moddeling and API integration using SQLite
@@ -23,12 +39,11 @@
 - FullStack Development
 - Advanced Object Oriented Programming
 - Advanced Data Modeling & Databases
-- Cloud Platform Management
 - AWS Cloud Practitioner Essentials (EC2, S3, Lambda, SQS/SNS, ELB)
-- Advanced Operating Systems (Hardware, Memory, Computer Architecture)
+- Computer Architecture (Memory, Hardware, OS, Linux)
 - Agile Software Development & Project Management (PMI)
 - Advanced Scrum & Agile Methodologies (PMI)
-- Data Science & Machine Learning
+- Data Science & Machine Learning (Pandas, Scikit)
 - Git & Github (Branching and Release Management)
 - RPA & SAP Automation (BotCity)
 - Linux (Ubuntu, Alpine, Arch)
@@ -43,42 +58,42 @@
 ---
 
 ## 💼 Professional Experience
-- **Data Analyst @ [PicPay](https://picpay.com/)** (Mar 2025 – Present)
+### **Data Analyst @ [PicPay](https://picpay.com/)** (Mar 2025 – Present)
   - Created efficient decision-making relatories for the Corporate HR & other areas with Oracle Cloud, SQL, Excel/Tableau
   - Lowered Senior Engineers Workload by 15%
   - Worked face-to-face with CTOs, Tech Managers and Senior Engineers
   - Completed various courses including PMI, NASBA, BotCity, Databricks
 
-- **Data Scientist @ HiveMind** (Jan 2025 – Present)
+### **Data Scientist @ HiveMind** (Jan 2025 – Present)
   - Developed, trained, and managed Machine Learning models mainly using Python
   - Managed SQL & NoSQL based databases on AWS, Firebase, Aiven and Docker
   - Modeled PostgreSQL, MongoDB and Redis databases
 
-- **Co-founder & Software Engineer @ TrocaTine** (Jan 2024 – Dec 2024)
+### **Co-founder & Software Engineer @ TrocaTine** (Jan 2024 – Dec 2024)
   - Led the Landing Page and got a 90% approval rate
   - Led market research and financial planning, estimating 30% lower costs for users compared to buying new items
   - Managed the main web page server using java, jdbc, apache tomcat
   - Managed SQL based databases on Aiven and Docker
 
 ## 📂 Projects
-- **Magic Formula Screener** (2024)
-  - A Python based tool that generates a diversified investment portfolio using Joel Greenblatt’s "Magic Formula" Investing strategy
-  - Backtested on 10 years of data, outperforming the market with an average annual return of 18% (vs. 9% for the S&P500)
-  - Cut research time by 70% through data automation, enabling faster decision-making compared to manual screening
-
-- **HiveMind** (Jan 2025 – Present)
+### **HiveMind** (Jan 2025 – Present)
   - Platform inspired by hive systems, designed to connect data, processes, and decisions across organizations
   - In order to improve efficiency and reduce operational losses it leverages:
     - Real-time data analysis
     - AI-based decision automation
     - Microservice orchestration
 
-- **TrocaTine** (Jan 2024 – Dec 2024)
+### **TrocaTine** (Jan 2024 – Dec 2024)
   - Platform focused on exchanging and selling children's items, such as clothes, shoes, accessories, toys, and more
   - The goal is to encourage sustainability and promote more conscious consumption by offering a community where user can interact and exchange items
   - After an research, the overall project rating was 4.5/5
 
-- Other Projects
+### **Magic Formula Screener** (2024)
+  - A Python based tool that generates a diversified investment portfolio using Joel Greenblatt’s "Magic Formula" Investing strategy
+  - Backtested on 10 years of data, outperforming the market with an average annual return of 18% (vs. 9% for the S&P500)
+  - Cut research time by 70% through data automation, enabling faster decision-making compared to manual screening
+
+### Other Projects
   - Minecraft-Discord server chat integration (In-game messages appear on Discord and vice-versa) using JavaScript (2021)
   - Discord Bots & Apps for Entertainment, Games, Support, Moderation and other funcionalities (2018-2021)
   - Canva designs, logos, banners, presentations, portifolios, animations, books, mockups, etc (since 2017)
@@ -89,24 +104,12 @@
 
 ## Skills
 
-### 📟 Programming Languages
-- 🥇 Python
-- 🥈 SQL & NoSQL (MySQL, PostgreSQL, SQLite, Oracle SQL, MongoDB, Redis, Neo4j)
-- 🥉 Java, C, JavaScript
-
 ### 🗣️ Languages
 - Enlgish (Full Working Proficiency)
 - Portuguese (Native)
 - Spanish (Limited Working Proficiency)
 
-### Other Skills
-  - Linux (Alpine, Ubuntu, Arch, Fedora, Redhat)
-  - Hardware Maintenance & IT Support
-  - Over 3,000 Chess rounds played
-  - 💪👟🏀⚽🏓
-
-## 🏆 Honors & Achievements:
-  - ⭐ Awarded on [Brazil's Informatics Olympiad](https://olimpiada.ic.unicamp.br/) for J&F Institute (2024)
-  - 🥉 Bronze Medalist on [Brazil's Math Kangaroo](https://www.cangurudematematicabrasil.com.br/) for J&F Institute (2024)
-  - 🥈 2nd Place on my class's Soccer Interclass Tournament (2024)
-  - ♟️ Beaten Komodo20 Chess Bot rated 2400 elo
+### 🏆 Honors & Achievements:
+- 🥉 Bronze Medalist on [Brazil's Math Kangaroo](https://www.cangurudematematicabrasil.com.br/) for J&F Institute (2024)
+- 🥈 2nd Place on my class's Soccer Interclass Tournament (2024)
+- ♟️ Beaten Komodo20 Chess Bot rated 2400 elo
