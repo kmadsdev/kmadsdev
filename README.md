@@ -1,17 +1,17 @@
 # Kaique Souza | Software Engineer
-I’m a 17 year old tech enthusiast with over 7 years of experience in IT, programming, data, and software development. 
-Always being so curious about technologies like hardware in an smartphone or a software, my journey started in 2018 when I discovered that I could build my very own Bots on Discord, I started digging into JavaScript using Node.JS and Discord.JS since.
+I’m a 17 year old tech enthusiast with over 7 years of experience in IT, programming, data, and software development. <p></p>
+I've always been so curious about technologies like hardware in an smartphone or in an pc and about softwares and programming <p></p>
 
 ### Language Stack
-- 🥇 Python (OOP, Pandas, PySpark, Scikit, Flask, API integration, Software Development)
-- 🥈 SQL & NoSQL (MySQL, PostgreSQL, SQLite, Oracle SQL, MongoDB, Redis, Neo4j)
-- 🥉 Java, C, JavaScript (OOP, Memory, Web development, RESTful APIs, JDBC, Node.JS)
+- 🥇 Python (OOP, Pandas, PySpark, Scikit, Flask, API integration, Software Development) | 3+ years
+- 🥈 SQL & NoSQL (MySQL, PostgreSQL, SQLite, Oracle SQL, MongoDB, Redis, Neo4j) | 3+ years
+- 🥉 Java, C, JavaScript (OOP, Memory, Web development, RESTful APIs, JDBC, Node.JS) | 2+ years
+
 ### Skills
 - 🖥️ DevOps (CI/CD, SDLC, Microservices, Docker)
 - 📊 Data (SQL & NoSQL, Data Modeling, Machine Learning)
 - ☁️ Cloud (AWS, GCP, Oracle, Aiven, Docker)
-  - AWS: EC2, S3, Lambda, ELB
-  - Oracle: HCM, OIC, OTBI, Oracle SQL
+  - EC2, S3, AWS Lambda, ELB, Oracle HCM, Oracle Integration Cloud, OTBI and Oracle SQL
 
 ---
 
