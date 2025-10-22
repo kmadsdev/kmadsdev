@@ -11,7 +11,10 @@ I've always been so curious about technologies like hardware in an smartphone or
 - 🖥️ DevOps (CI/CD, SDLC, Microservices, Docker)
 - 📊 Data (SQL & NoSQL, Data Modeling, Machine Learning)
 - ☁️ Cloud (AWS, GCP, Oracle, Aiven, Docker)
-  - EC2, S3, AWS Lambda, ELB, Oracle HCM, Oracle Integration Cloud, OTBI and Oracle SQL
+ 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kmadsdev&show_icons=true&locale=en&layout=compact" alt="kmadsdev" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kmadsdev&show_icons=true&locale=en" alt="kmadsdev" /></p> -->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kmadsdev&" alt="kmadsdev" /></p>
 
 ---
 
@@ -113,3 +116,6 @@ I've always been so curious about technologies like hardware in an smartphone or
 - 🥉 Bronze Medalist on [Brazil's Math Kangaroo](https://www.cangurudematematicabrasil.com.br/) for J&F Institute (2024)
 - 🥈 2nd Place on my class's Soccer Interclass Tournament (2024)
 - ♟️ Beaten Komodo20 Chess Bot rated 2400 elo
+
+
+
