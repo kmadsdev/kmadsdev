@@ -3,9 +3,9 @@ I’m a 17 year old engineer with over 7 years of experience in IT, programming,
 I've always been so curious about technologies like hardware in an smartphone or in an pc and about softwares and programming 
 
 ### Language Stack
-- 🥇 Python (OOP, Pandas, PySpark, Scikit, Flask, APIs, Software Development) | 3+ years
-- 🥈 SQL & NoSQL (MySQL, PostgreSQL, SQLite, Oracle SQL, MongoDB, Redis, Neo4j) | 3+ years
-- 🥉 Java, C, JavaScript (OOP, Backend development, APIs, JDBC, Node.JS) | 2+ years
+- 🥇 Python (OOP, Pandas, PySpark, Scikit, Flask, APIs, Software Development) 
+- 🥈 SQL & NoSQL (MySQL, PostgreSQL, SQLite, Oracle SQL, MongoDB, Redis, Neo4j) 
+- 🥉 Java, C, JavaScript (OOP, Backend development, APIs, JDBC, Node.JS) 
 
 ### Skills
 - 🖥️ DevOps (CI/CD, SDLC, Microservices, Docker)
@@ -14,9 +14,9 @@ I've always been so curious about technologies like hardware in an smartphone or
 
 <p></p>
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=kmadsdev&show_icons=true&locale=en&layout=compact" alt="kmadsdev" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kmadsdev&show_icons=true&locale=en&layout=compact" alt="kmadsdev" /></p>
 <!-- <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=kmadsdev&show_icons=true&locale=en" alt="kmadsdev" /></p> -->
-<!-- <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=kmadsdev&" alt="kmadsdev" /></p> -->
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=kmadsdev" alt="kmadsdev" /></p>
 
 ---
 
@@ -31,7 +31,7 @@ I've always been so curious about technologies like hardware in an smartphone or
 - Computer Science (CS50x) @ [Harvard University (EdX)](https://www.edx.org/school/harvardx) (2025)
 - Mobile Software Engineering (CS164) @ [Harvard Extension School](https://www.youtube.com/@CS164) (Expected 2025)
 - Advanced Algoritms (CS224) @ [Harvard University on YouTube](https://www.youtube.com/@harvard) (Expected 2025)
-- AWS Cloud Practitioner Essentials @ [AWS Skill Builder](https://skillbuilder.aws/)
+- AWS Cloud Practitioner Essentials @ [AWS Skill Builder](https://skillbuilder.aws/) (Expected 2025)
 
 ## 📍 Learning Journey
 - **2018–2022:** Discord bots using JavaScript and simple websites
