@@ -1,6 +1,5 @@
 # Kaique Souza
-I’m a 17 year old engineer with over 7 years of experience in IT, programming, data, and software development.  
-I've always been so curious about technologies like hardware in an smartphone or in an pc and about softwares and programming 
+I’m a 17 year old engineer with over 7 years of experience in IT, programming, data engineering, and software development.
 
 ### Language Stack
 - 🥇 Python (OOP, Pandas, PySpark, Scikit, Flask, APIs, Software Development) 
@@ -8,9 +7,9 @@ I've always been so curious about technologies like hardware in an smartphone or
 - 🥉 Java, C, JavaScript (OOP, Backend development, APIs, JDBC, Node.JS) 
 
 ### Skills
-- 🖥️ DevOps (CI/CD, SDLC, Microservices, Docker)
-- 📊 Data (SQL & NoSQL, Data Modeling, Machine Learning)
-- ☁️ Cloud (AWS, GCP, Oracle, Aiven, Docker)
+- 🖥️ DevOps (CI/CD workflos, SDLC and microservices)
+- 📊 Data (SQL/NoSQL, Data Modeling, Machine Learning)
+- ☁️ Cloud (AWS, GCP, Oracle, Docker)
 
 <p></p>
 
@@ -18,11 +17,7 @@ I've always been so curious about technologies like hardware in an smartphone or
 <!-- <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=kmadsdev&show_icons=true&locale=en" alt="kmadsdev" /></p> -->
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=kmadsdev" alt="kmadsdev" /></p>
 
----
-
-![KMADS](/KMADS-v3.png)
-
----
+<p></p>
 
 ## 🎓 Education
 - Computer Science & Software Development @ [J&F Institute](https://institutojef.org.br/escolas/tech/) (Expected Nov 2026)
