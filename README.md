@@ -1,5 +1,5 @@
 # Kaique Souza
-I’m a 17 year old engineer with over 7 years of experience in IT, programming, data engineering, and software development.
+I’m a 17 year old engineer with over 7 years of experience in IT, programming, data engineering and software development.
 
 ### Language Stack
 - 🥇 Python (OOP, Pandas, PySpark, Scikit, Flask, APIs, Software Development) 
@@ -41,7 +41,7 @@ I’m a 17 year old engineer with over 7 years of experience in IT, programming,
 - Co-founder & Software Engineer @ TrocaTine (Jan 2024 – Dec 2024)
 
 ### 🗣️ Languages
-- Enlgish (Fully fluent, about C1)
+- English (Fully fluent, about C1)
 - Portuguese (Native, fully fluent)
 - Spanish (May be able to hold conversations)
 
