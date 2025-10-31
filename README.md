@@ -7,20 +7,19 @@ I’m a 17 year old engineer with over 7 years of experience in IT, programming,
 - 🥉 Java, C, JavaScript (OOP, Backend development, APIs, JDBC, Node.JS) 
 
 ### Skills
-- 🖥️ DevOps (CI/CD workflos, SDLC and microservices)
-- 📊 Data (SQL/NoSQL, Data Modeling, Machine Learning)
-- ☁️ Cloud (AWS, GCP, Oracle, Docker)
+- 🖥️ DevOps (CI/CD workflows, SDLC and microservices)
+- 📊 Data (SQL/NoSQL, Data Modelling/Data Analysis, Machine Learning)
+- ☁️ Cloud (AWS, GCP, Oracle)
 
 <p></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kmadsdev&show_icons=true&locale=en&layout=compact" alt="kmadsdev" /></p>
-<!-- <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=kmadsdev&show_icons=true&locale=en" alt="kmadsdev" /></p> -->
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=kmadsdev" alt="kmadsdev" /></p>
 
 <p></p>
 
 ## 🎓 Education
-- Computer Science & Software Development @ [J&F Institute](https://institutojef.org.br/escolas/tech/) (Expected Nov 2026)
+- Computer Science & Software Engineering @ [J&F Institute](https://institutojef.org.br/escolas/tech/) (Expected Nov 2026)
 
 ## 📚 Coursework
 - Computer Science (CS50x) @ [Harvard University (EdX)](https://www.edx.org/school/harvardx) (2025)
