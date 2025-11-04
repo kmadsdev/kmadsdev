@@ -27,17 +27,35 @@ I’m a 17 year old engineer with over 7 years of experience in IT, programming,
 - Advanced Algoritms (CS224) @ [Harvard University on YouTube](https://www.youtube.com/@harvard) (Expected 2025)
 - AWS Cloud Practitioner Essentials @ [AWS Skill Builder](https://skillbuilder.aws/) (Expected 2025)
 
+## 💼 Professional Experience
+- Data Analyst @ [PicPay](https://picpay.com/) (Mar 2025 – Present)
+- Data Scientist & ML Engineer @ HiveMind (Jan 2025 – Present)
+- Co-founder & Software Engineer @ TrocaTine (Jan 2024 – Dec 2024)
+
+## 🗂️ Projects
+#### Data & Machine Learning:
+- **Diabetes Prediction Survey** (2025) &emsp; [/kmadsdev/diabetesindicator](https://github.com/kmadsdev/diabetesindicator/) &emsp; [Website](https://kmadsdev.github.io/diabetesIndicator/)
+- **HiveMind's Machine Learning Model** (2025) &emsp; [/kmadsdev/hivemind-ml](https://github.com/kmadsdev/hivemind-ml/)
+#### Backend:
+- **HiveMind's Machine Learning API** (2025)
+  &ensp; [/kmadsdev/hivemind-ml-api](https://github.com/kmadsdev/hivemind-ml-api/)
+#### Frontend:
+- **TrocaTine's Landing Page** (2024)
+  &ensp; [/kmadsdev/trocatinelanding](https://github.com/kmadsdev/trocatinelanding/)
+  &ensp; [Website](https://kmadsdev.github.io/TrocaTineLanding/)
+- **DK Shipping's Landing Page** (2024)
+  &ensp; [/kmadsdev/dk-shipping](https://github.com/kmadsdev/dk-shipping/)
+  &ensp; [Website](https://kmadsdev.github.io/dk-shipping/home/)
+- **Simple HTML Calculator** (2023)
+  &ensp; [/kmadsdev/calculator](https://github.com/kmadsdev/calculator/)
+  &ensp; [Website](https://kmadsdev.github.io/calculator/)
+
 ## 📍 Learning Journey
 - **2018–2022:** Discord bots using JavaScript and simple websites
 - **2022-2024:** Contributed to PC Building communities on reddit (like r/craftmybox, r/builapc and r/computadores) and helped people build their PCs
 - **2023:** Data Analysis using Python and SQL (Pandas, PySpark, MySQL, Tableau and Power BI)
 - **2024:** Software Engineering, Advanced Data Analysis, DevOps, FullStack Development, CSec/IS, Cloud (GCP, Docker) and Scrum
-- **2025:** NoSQL (MongoDB, Redis & Neo4j), Ds & ML, QA, Cloud (AWS, GCP, Oracle)
-
-## 💼 Professional Experience
-- Data Analyst @ [PicPay](https://picpay.com/) (Mar 2025 – Present)
-- Data Scientist & ML Engineer @ HiveMind (Jan 2025 – Present)
-- Co-founder & Software Engineer @ TrocaTine (Jan 2024 – Dec 2024)
+- **2025:** NoSQL (MongoDB, Redis & Neo4j), Ds & ML, QA, Cloud (AWS, GCP, Oracle
 
 ### 🗣️ Languages
 - English (Fully fluent, about C1)
