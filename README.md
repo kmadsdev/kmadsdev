@@ -13,8 +13,8 @@ I’m a 17 year old engineer with over 7 years of experience in IT, programming,
 
 <p></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kmadsdev&show_icons=true&locale=en&layout=compact" alt="kmadsdev" /></p>
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=kmadsdev" alt="kmadsdev" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kmadsdev&theme=dark&show_icons=true&locale=en&layout=compact" alt="kmadsdev" /></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=kmadsdev&theme=dark" alt="kmadsdev" /></p>
 
 <p></p>
 
@@ -32,23 +32,30 @@ I’m a 17 year old engineer with over 7 years of experience in IT, programming,
 - Data Scientist & ML Engineer @ HiveMind (Jan 2025 – Present)
 - Co-founder & Software Engineer @ TrocaTine (Jan 2024 – Dec 2024)
 
-## 🗂️ Projects
-#### Data & Machine Learning:
-- **Diabetes Prediction Survey** (2025) &emsp; [/kmadsdev/diabetesindicator](https://github.com/kmadsdev/diabetesindicator/) &emsp; [Website](https://kmadsdev.github.io/diabetesIndicator/)
-- **HiveMind's Machine Learning Model** (2025) &emsp; [/kmadsdev/hivemind-ml](https://github.com/kmadsdev/hivemind-ml/)
-#### Backend:
-- **HiveMind's Machine Learning API** (2025)
-  &ensp; [/kmadsdev/hivemind-ml-api](https://github.com/kmadsdev/hivemind-ml-api/)
-#### Frontend:
-- **TrocaTine's Landing Page** (2024)
-  &ensp; [/kmadsdev/trocatinelanding](https://github.com/kmadsdev/trocatinelanding/)
-  &ensp; [Website](https://kmadsdev.github.io/TrocaTineLanding/)
-- **DK Shipping's Landing Page** (2024)
-  &ensp; [/kmadsdev/dk-shipping](https://github.com/kmadsdev/dk-shipping/)
-  &ensp; [Website](https://kmadsdev.github.io/dk-shipping/home/)
-- **Simple HTML Calculator** (2023)
-  &ensp; [/kmadsdev/calculator](https://github.com/kmadsdev/calculator/)
-  &ensp; [Website](https://kmadsdev.github.io/calculator/)
+## 🗂️ Featured Projects
+<!-- <a href="https://github.com/kmadsdev/offMode/">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kmadsdev&repo=offMode" alt="kmadsdev" />
+</a> -->
+
+<a href="https://github.com/kmadsdev/diabetesindicator/">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kmadsdev&theme=dark&repo=diabetesindicator" alt="kmadsdev" style="width: 45%;" />
+</a>
+
+<a href="https://github.com/kmadsdev/hivemind-ml/">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kmadsdev&theme=dark&repo=hivemind-ml" alt="kmadsdev" style="width: 45%;" />
+</a>
+
+<a href="https://github.com/kmadsdev/hivemind-ml-api/">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kmadsdev&theme=dark&repo=hivemind-ml-api" alt="kmadsdev" style="width: 45%;" />
+</a>
+
+<a href="https://github.com/kmadsdev/TrocaTineLanding/">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kmadsdev&theme=dark&repo=TrocaTineLanding" alt="kmadsdev" style="width: 45%;" />
+</a>
+
+<!-- <a href="https://github.com/kmadsdev/dk-shipping/">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kmadsdev&repo=dk-shipping" alt="kmadsdev" />
+</a> -->
 
 ## 📍 Learning Journey
 - **2018–2022:** Discord bots using JavaScript and simple websites
