@@ -41,18 +41,15 @@ I’m a 17 year old engineer with over 7 years of experience in IT, programming,
 <a href="https://github.com/kmadsdev/diabetesindicator/">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=kmadsdev&theme=dark&repo=diabetesindicator" alt="kmadsdev" style="width: 45%;" />
 </a>
-
+<br>
 <a href="https://github.com/kmadsdev/hivemind-client-potential/">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kmadsdev&theme=dark&repo=diabetesindicator" alt="kmadsdev" style="width: 45%;" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kmadsdev&theme=dark&repo=hivemind-client-potential" alt="kmadsdev" style="width: 45%;" />
 </a>
-
+<br>
 <a href="https://github.com/kmadsdev/TrocaTineLanding/">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=kmadsdev&theme=dark&repo=TrocaTineLanding" alt="kmadsdev" style="width: 45%;" />
 </a>
 
-<a href="https://github.com/kmadsdev/dk-shipping/">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kmadsdev&repo=dk-shipping" alt="kmadsdev" />
-</a>
 
 ## 📍 Learning Journey
 - **2018–2022:** Discord bots using JavaScript and simple websites
