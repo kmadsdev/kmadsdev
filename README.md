@@ -1,5 +1,5 @@
 # Kaique Souza
-I’m a 17 year old engineer with over 7 years of experience in IT, programming, data engineering and software development.
+I’m a 17 year old engineer with over 7 years of experience in IT, programming, data and software development.
 
 ### Language Stack
 - 🥇 Python (OOP, Pandas, PySpark, Scikit, Flask, APIs, Software Development) 
@@ -7,19 +7,20 @@ I’m a 17 year old engineer with over 7 years of experience in IT, programming,
 - 🥉 Java, C, JavaScript (OOP, Backend development, APIs, JDBC, Node.JS) 
 
 ### Skills
-- 🖥️ DevOps (CI/CD workflows, SDLC and microservices)
-- 📊 Data (SQL/NoSQL, Data Modelling/Data Analysis, Machine Learning)
+- 🖥️ DevOps (CI/CD workflows, SDLC, microservices, docker)
+- 📊 Data (Advanced Data Modelling/Analysis, Machine Learning)
 - ☁️ Cloud (AWS, GCP, Oracle)
 
 <p></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kmadsdev&theme=dark&show_icons=true&locale=en&layout=compact" alt="kmadsdev" /></p>
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=kmadsdev&theme=dark" alt="kmadsdev" /></p>
+<!-- <a><img src="https://github-readme-streak-stats.herokuapp.com/?user=kmadsdev&theme=dark" alt="kmadsdev" /></a> -->
+<a><img src="https://streak-stats.demolab.com?user=kmadsdev&theme=dark" alt="GitHub Streak" /></a> <!-- Exclude Saturday & Sunday: &exclude_days=Sun%2CSat -->
 
 <p></p>
 
 ## 🎓 Education
-- Computer Science & Software Engineering @ [J&F Institute](https://institutojef.org.br/escolas/tech/) (Expected Nov 2026)
+- Computer Science & S Engineering @ [J&F Institute](https://institutojef.org.br/escolas/tech/) (Expected Nov 2026)
 
 ## 📚 Coursework
 - Computer Science (CS50x) @ [Harvard University (EdX)](https://www.edx.org/school/harvardx) (2025)
@@ -29,7 +30,7 @@ I’m a 17 year old engineer with over 7 years of experience in IT, programming,
 
 ## 💼 Professional Experience
 - Data Analyst @ [PicPay](https://picpay.com/) (Mar 2025 – Present)
-- Data Scientist & ML Engineer @ HiveMind (Jan 2025 – Present)
+- Data Scientist & ML Engineer @ HiveMind (Jan 2025 – Nov 2025)
 - Co-founder & Software Engineer @ TrocaTine (Jan 2024 – Dec 2024)
 
 ## 🗂️ Featured Projects
@@ -41,21 +42,17 @@ I’m a 17 year old engineer with over 7 years of experience in IT, programming,
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=kmadsdev&theme=dark&repo=diabetesindicator" alt="kmadsdev" style="width: 45%;" />
 </a>
 
-<a href="https://github.com/kmadsdev/hivemind-ml/">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kmadsdev&theme=dark&repo=hivemind-ml" alt="kmadsdev" style="width: 45%;" />
-</a>
-
-<a href="https://github.com/kmadsdev/hivemind-ml-api/">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kmadsdev&theme=dark&repo=hivemind-ml-api" alt="kmadsdev" style="width: 45%;" />
+<a href="https://github.com/kmadsdev/hivemind-client-potential/">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kmadsdev&theme=dark&repo=diabetesindicator" alt="kmadsdev" style="width: 45%;" />
 </a>
 
 <a href="https://github.com/kmadsdev/TrocaTineLanding/">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=kmadsdev&theme=dark&repo=TrocaTineLanding" alt="kmadsdev" style="width: 45%;" />
 </a>
 
-<!-- <a href="https://github.com/kmadsdev/dk-shipping/">
+<a href="https://github.com/kmadsdev/dk-shipping/">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=kmadsdev&repo=dk-shipping" alt="kmadsdev" />
-</a> -->
+</a>
 
 ## 📍 Learning Journey
 - **2018–2022:** Discord bots using JavaScript and simple websites
