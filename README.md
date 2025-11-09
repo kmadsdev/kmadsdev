@@ -1,10 +1,11 @@
 # Kaique Souza
-I’m a 17 year old engineer with over 7 years of experience in IT, programming, data and software development.
+I’m a 17 year old engineer with over 7 years of experience in IT. <br> 
+Later i started learning more about programming, data and software engineering.
 
 ### Language Stack
-- 🥇 Python (OOP, Pandas, PySpark, Scikit, Flask, APIs, Software Development) 
+- 🥇 Python (FastAPI, Flask, Django, Uvicorn, Pandas, PySpark, Scikit-learn)
 - 🥈 SQL & NoSQL (MySQL, PostgreSQL, SQLite, Oracle SQL, MongoDB, Redis, Neo4j) 
-- 🥉 Java, C, JavaScript (OOP, Backend development, APIs, JDBC, Node.JS) 
+- 🥉 Java, C, JavaScript (OOP, Web development, REST APIs, JDBC, Node.JS) 
 
 ### Skills
 - 🖥️ DevOps (CI/CD workflows, SDLC, microservices, docker)
