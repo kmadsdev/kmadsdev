@@ -1,16 +1,23 @@
 # Kaique Souza
 I’m a 17 year old engineer with over 7 years of experience in IT. <br> 
-Later i started learning more about programming, data and software engineering.
+I've been learning more about data analysis/science and software engineering since 2023 <br>
+I'm into Backend development, Data/ML engineering & DevOps/CloudOps at the moment
 
 ### Language Stack
-- 🥇 Python (FastAPI, Flask, Django, Uvicorn, Pandas, PySpark, Scikit-learn)
+- 🥇 Python (FastAPI, Flask, Tkinter, Streamlit, Django, Uvicorn, Pandas, PySpark, Scikit-learn)
 - 🥈 SQL & NoSQL (MySQL, PostgreSQL, SQLite, Oracle SQL, MongoDB, Redis, Neo4j) 
 - 🥉 Java, C, JavaScript (OOP, Web development, REST APIs, JDBC, Node.JS) 
+- I'm also open to: Go, Ruby on Rails, PHP, C#, C++, .net & R
 
 ### Skills
-- 🖥️ DevOps (CI/CD workflows, SDLC, microservices, docker)
-- 📊 Data (Advanced Data Modelling/Analysis, Machine Learning)
-- ☁️ Cloud (AWS, GCP, Oracle)
+- ⚙️ Software Engineering (SDLC, Software/Cloud Architecture, Microservices, DevOps, CI/CD Workflows)
+- ⌨️ Backend Development (Web/Desktop applications, REST & Gateway APIs, Monolith & Microservices Architectures)
+- 🖥️ Frontend Development (Web/Desktop design with: Flask, Tkinter, Django and Streamlit, Design System, Figma & Canva)
+- 📊 Data (Advanced Data Modelling & Advanced Data Analysis, Big Data, Machine Learning, Databricks, Oracle HCM, Pandas/PySpark)
+- ☁️ Cloud (AWS {EC2, S3, Lamdba, Kafka, SNS/SQS}, GCP, Oracle, Atlas MongoDB, Aiven, Render)
+- 👥 Agile/Scrum (Agile Project Management & Software Development, Advanced Scrum, Some PMI Certifications)
+- 📚 Learning: AWS (Kafka, Lambda, DynamoDB, RDS, Backup, CloudWatch), DevOps (Kubernetes, Pipelines, Terraform, Monitoring),
+JavaScript (Web development, API integration, TypeScript, Node.JS, NestJS), Golang, PHP
 
 <p></p>
 
@@ -30,7 +37,7 @@ Later i started learning more about programming, data and software engineering.
 - AWS Cloud Practitioner Essentials @ [AWS Skill Builder](https://skillbuilder.aws/) (Expected 2025)
 
 ## 💼 Professional Experience
-- Data Analyst @ [PicPay](https://picpay.com/) (Mar 2025 – Present)
+- Data Engineer @ [PicPay](https://picpay.com/) (Mar 2025 – Present)
 - Data Scientist & ML Engineer @ HiveMind (Jan 2025 – Nov 2025)
 - Co-founder & Software Engineer @ TrocaTine (Jan 2024 – Dec 2024)
 
@@ -60,7 +67,7 @@ Later i started learning more about programming, data and software engineering.
 - **2025:** NoSQL (MongoDB, Redis & Neo4j), Ds & ML, QA, Cloud (AWS, GCP, Oracle
 
 ### 🗣️ Languages
-- English (Fully fluent, about C1)
+- English (Fully fluent, about C1/C2)
 - Portuguese (Native, fully fluent)
 - Spanish (May be able to hold conversations)
 
