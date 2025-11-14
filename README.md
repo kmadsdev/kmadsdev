@@ -1,7 +1,7 @@
 # Kaique Souza
 I’m a 17 year old engineer with over 7 years of experience in IT. <br> 
 I've been learning more about data analysis/science and software engineering since 2023 <br>
-I'm into Backend development, Data/ML engineering & DevOps/CloudOps at the moment
+I'm currently into Backend development, Data/ML engineering & DevOps/CloudOps
 
 ### Language Stack
 - 🥇 Python (FastAPI, Flask, Tkinter, Streamlit, Django, Uvicorn, Pandas, PySpark, Scikit-learn)
@@ -17,8 +17,7 @@ I'm into Backend development, Data/ML engineering & DevOps/CloudOps at the momen
 - ☁️ Cloud (AWS {EC2, S3, Lamdba, Kafka, SNS/SQS}, GCP, Oracle, Atlas MongoDB, Aiven, Render)
 - 👥 Agile/Scrum (Agile Project Management & Software Development, Advanced Scrum, Some PMI Certifications)
 
-📚 Learning: AWS (Kafka, Lambda, DynamoDB, RDS, Backup, CloudWatch), DevOps (Kubernetes, Pipelines, Terraform, Monitoring),
-JavaScript (Web development, API integration, TypeScript, Node.JS, NestJS), Golang, PHP
+📚 Learning: AWS (Kafka, Lambda, DynamoDB, RDS, Backup, CloudWatch), DevOps (Kubernetes, Pipelines, Terraform, Monitoring), PHP
 
 <p style="display: flex; align-items: center; flex-direction: row;">
     <img style="height: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs?username=kmadsdev&theme=dark&show_icons=true&locale=en&layout=compact" alt="kmadsdev" />
