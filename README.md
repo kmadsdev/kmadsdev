@@ -7,7 +7,7 @@ I'm into Backend development, Data/ML engineering & DevOps/CloudOps at the momen
 - 🥇 Python (FastAPI, Flask, Tkinter, Streamlit, Django, Uvicorn, Pandas, PySpark, Scikit-learn)
 - 🥈 SQL & NoSQL (MySQL, PostgreSQL, SQLite, Oracle SQL, MongoDB, Redis, Neo4j) 
 - 🥉 Java, C, JavaScript (OOP, Web development, REST APIs, JDBC, Node.JS) 
-- I'm also open to: Go, Ruby on Rails, PHP, C#, C++, .net & R
+- I'm also open to: Go, PHP, C#, C++, .net & R
 
 ### Skills
 - ⚙️ Software Engineering (SDLC, Software/Cloud Architecture, Microservices, DevOps, CI/CD Workflows)
@@ -16,24 +16,24 @@ I'm into Backend development, Data/ML engineering & DevOps/CloudOps at the momen
 - 📊 Data (Advanced Data Modelling & Advanced Data Analysis, Big Data, Machine Learning, Databricks, Oracle HCM, Pandas/PySpark)
 - ☁️ Cloud (AWS {EC2, S3, Lamdba, Kafka, SNS/SQS}, GCP, Oracle, Atlas MongoDB, Aiven, Render)
 - 👥 Agile/Scrum (Agile Project Management & Software Development, Advanced Scrum, Some PMI Certifications)
-- 📚 Learning: AWS (Kafka, Lambda, DynamoDB, RDS, Backup, CloudWatch), DevOps (Kubernetes, Pipelines, Terraform, Monitoring),
+
+📚 Learning: AWS (Kafka, Lambda, DynamoDB, RDS, Backup, CloudWatch), DevOps (Kubernetes, Pipelines, Terraform, Monitoring),
 JavaScript (Web development, API integration, TypeScript, Node.JS, NestJS), Golang, PHP
 
-<p></p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kmadsdev&theme=dark&show_icons=true&locale=en&layout=compact" alt="kmadsdev" /></p>
-<!-- <a><img src="https://github-readme-streak-stats.herokuapp.com/?user=kmadsdev&theme=dark" alt="kmadsdev" /></a> -->
-<a><img src="https://streak-stats.demolab.com?user=kmadsdev&theme=dark" alt="GitHub Streak" /></a> <!-- Exclude Saturday & Sunday: &exclude_days=Sun%2CSat -->
-
-<p></p>
+<p style="display: flex; align-items: center; flex-direction: row;">
+    <img style="height: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs?username=kmadsdev&theme=dark&show_icons=true&locale=en&layout=compact" alt="kmadsdev" />
+    <!-- <a><img src="https://github-readme-streak-stats.herokuapp.com/?user=kmadsdev&theme=dark" alt="kmadsdev" /></a> -->
+    <img style="height: 100%;" src="https://streak-stats.demolab.com?user=kmadsdev&theme=dark" alt="GitHub Streak" /> <!-- Exclude Saturday & Sunday: &exclude_days=Sun%2CSat -->
+</p>
 
 ## 🎓 Education
-- Computer Science & S Engineering @ [J&F Institute](https://institutojef.org.br/escolas/tech/) (Expected Nov 2026)
+- Computer Science & Software Engineering @ [J&F Institute](https://institutojef.org.br/escolas/tech/) (Expected Nov 2026)
 
 ## 📚 Coursework
 - Computer Science (CS50x) @ [Harvard University (EdX)](https://www.edx.org/school/harvardx) (2025)
-- Mobile Software Engineering (CS164) @ [Harvard Extension School](https://www.youtube.com/@CS164) (Expected 2025)
-- Advanced Algoritms (CS224) @ [Harvard University on YouTube](https://www.youtube.com/@harvard) (Expected 2025)
+- Mobile Software Engineering (CS164) @ [Harvard Extension School](https://www.youtube.com/@CS164) (2025)
+- Advanced Algoritms (CS224) @ [Harvard University on YouTube](https://www.youtube.com/@harvard) (Expected 2026)
+- Algoritms for Big Data (CS229r) @ [Harvard University on YouTube](https://www.youtube.com/@harvard) (Expected 2026)
 - AWS Cloud Practitioner Essentials @ [AWS Skill Builder](https://skillbuilder.aws/) (Expected 2025)
 
 ## 💼 Professional Experience
@@ -48,16 +48,13 @@ JavaScript (Web development, API integration, TypeScript, Node.JS, NestJS), Gola
 
 <a href="https://github.com/kmadsdev/diabetesindicator/">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=kmadsdev&theme=dark&repo=diabetesindicator" alt="kmadsdev" style="width: 45%;" />
-</a>
-<br>
+</a><br>
 <a href="https://github.com/kmadsdev/hivemind-client-potential/">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=kmadsdev&theme=dark&repo=hivemind-client-potential" alt="kmadsdev" style="width: 45%;" />
-</a>
-<br>
+</a><br>
 <a href="https://github.com/kmadsdev/TrocaTineLanding/">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=kmadsdev&theme=dark&repo=TrocaTineLanding" alt="kmadsdev" style="width: 45%;" />
 </a>
-
 
 ## 📍 Learning Journey
 - **2018–2022:** Discord bots using JavaScript and simple websites
