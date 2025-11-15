@@ -45,15 +45,11 @@ I'm currently into Backend development, Data/ML engineering & DevOps/CloudOps
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=kmadsdev&repo=offMode" alt="kmadsdev" />
 </a> -->
 
-<a href="https://github.com/kmadsdev/diabetesindicator/">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kmadsdev&theme=dark&repo=diabetesindicator" alt="kmadsdev" style="width: 45%;" />
-</a><br>
-<a href="https://github.com/kmadsdev/hivemind-client-potential/">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kmadsdev&theme=dark&repo=hivemind-client-potential" alt="kmadsdev" style="width: 45%;" />
-</a><br>
-<a href="https://github.com/kmadsdev/TrocaTineLanding/">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kmadsdev&theme=dark&repo=TrocaTineLanding" alt="kmadsdev" style="width: 45%;" />
-</a>
+<a href="https://github.com/kmadsdev/diabetesindicator/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kmadsdev&theme=dark&repo=diabetesindicator" alt="kmadsdev" style="width: 45%;" /></a><br>
+<a href="https://github.com/kmadsdev/hivemind-client-potential/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kmadsdev&theme=dark&repo=hivemind-client-potential" alt="kmadsdev" style="width: 45%;" /></a><br>
+<a href="https://github.com/kmadsdev/hivemind-ml/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kmadsdev&theme=dark&repo=hivemind-ml" alt="kmadsdev" style="width: 45%;" /></a><br>
+<a href="https://github.com/kmadsdev/hivemind-ml-api/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kmadsdev&theme=dark&repo=hivemind-ml-api" alt="kmadsdev" style="width: 45%;" /></a><br>
+<a href="https://github.com/kmadsdev/TrocaTineLanding/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kmadsdev&theme=dark&repo=TrocaTineLanding" alt="kmadsdev" style="width: 45%;" /></a>
 
 ## 📍 Learning Journey
 - **2018–2022:** Discord bots using JavaScript and simple websites
