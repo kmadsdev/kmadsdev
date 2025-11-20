@@ -3,8 +3,8 @@ I’m a 17 year old Software Engineer who been coding since 2018. <br>
 2+ years of experience in Data (Analysis & Science) and Software (Engineering, Architecture, Design & Life Cycle)<br>
 
 My focus area at the moment are: 
-<br> -> Backend (API integration, DevOps, pipelines/workflows)
-<br> -> Data/Cloud (Data Analysis/Science, Cloud Engineering/Architecture, AWS, GCP, Oracle)
+<br> → Backend (API integration, DevOps, pipelines/workflows)
+<br> → Data/Cloud (Data Analysis/Science, Cloud Engineering/Architecture, AWS, GCP, Oracle)
 
 
 ### Language Stack
@@ -33,9 +33,9 @@ My focus area at the moment are:
 
 
 ## 🗂️ Featured Projects
-- **Diabetes Indicator** (2025): [Website](https://kmads.dev/diabetes-indicator) | [Source Code](https://source.kmads.dev/diabetes-indicator)
-- **HiveMind Client Potential** (2025): [Website](https://kmads.dev/hivemind-client-potential) | [Frontend Source](https://source.kmads.dev/hivemind-client-potential) | [Backend Source](https://source.kmads.dev/hivemind-ml-api) | [ML Source](https://source.kmads.dev/hivemind-ml)
-- **TrocaTine Landing** (2024): [Website](https://kmads.dev/TrocaTineLanding) | [Source Code](https://source.kmads.dev/TrocaTineLanding)
+- **Diabetes Indicator** (2025): [Website](https://kmads.dev/diabetes-indicator) | [Frontend Source Code](https://source.kmads.dev/diabetes-indicator) | [Backend Source Code](https://source.kmads.dev/diabetes-indicator-api)
+- **HiveMind Client Potential** (2025): [Website](https://kmads.dev/hivemind-client-potential) | [Frontend Source Code](https://source.kmads.dev/hivemind-client-potential) | [Backend Source](https://source.kmads.dev/hivemind-ml-api) | [ML Source](https://source.kmads.dev/hivemind-ml)
+- **TrocaTine Landing** (2024): [Website](https://kmads.dev/TrocaTineLanding) | [Frontend Source Code](https://source.kmads.dev/TrocaTineLanding)
 - **DK Shipping Landing** (2024): [Website](https://kmads.dev/dk-shipping) <!-- Source code not available for this one -->
 
 
