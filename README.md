@@ -39,49 +39,166 @@ I’m a 17 year old Software Engineer who been coding since 2018. My focus area 
 
 ## Projects
 ### 🗂️ All Projects
-<ul>
-    <!-- <li> Offmode (2025): <a href="https://kmads.dev/offmode">Website</a> | <a href="https://source.kmads.dev/offmode">Source Code</a>
-    </li> --> <li> Portifolio – <a href="https://kmads.dev/">kmads.dev</a> <!-- Source code not available for this one -->
-    </li> <li> Diabetes Indicator (2025) –
-        <a href="https://kmads.dev/diabetes-indicator">Website</a> |
-        <a href="https://source.kmads.dev/diabetes-indicator">Frontend Source</a> |
-        <a href="https://source.kmads.dev/diabetes-indicator-api">Backend Source</a>
-    </li> <li> HiveMind Client Potential (2025) –
-        <a href="https://kmads.dev/hivemind-client-potential">Website</a> |
-        <a href="https://source.kmads.dev/hivemind-client-potential">Frontend Source Code</a> |
-        <a href="https://source.kmads.dev/hivemind-ml-api">Backend Source</a> |
-        <a href="https://source.kmads.dev/hivemind-ml">ML Source</a>
-    </li> <li> TrocaTine Landing (2024)   – <a href="https://kmads.dev/trocatine-landing">Website</a> | <a href="https://source.kmads.dev/trocatine-landing">Source Code</a>
-    </li> <li> DK Shipping Landing (2024) – <a href="https://kmads.dev/dk-shipping">Website</a>       | <a href="https://kmads.dev/dk-shipping">Source Code</a>
-    </li> <li> Python Compiler (2024)     – <a href="https://kmads.dev/python-compiler">Website</a>   | <a href="https://source.kmads.dev/python-compiler">Source Code</a>
-    </li> <li> Custom Square (2024)       – <a href="https://kmads.dev/custom-square">Website</a>     | <a href="https://source.kmads.dev/custom-square">Source Code</a>
-    </li> <li> Calculator (2023)          – <a href="https://kmads.dev/calculator">Website</a>        | <a href="https://source.kmads.dev/calculator">Source Code</a>
-    </li> <li> Cards Design (2023)        – <a href="https://kmads.dev/cards-design">Website</a>      | <a href="https://source.kmads.dev/cards-design">Source Code</a>
-    </li>
-</ul>
+<table>
+  <thead>
+    <tr>
+      <th>Project</th>
+      <th>Website</th>
+      <th>Source Code</th>
+      <th>Stack</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Diabetes Indicator (2025)</td>
+      <td><a href="https://kmads.dev/diabetes-indicator">Website</a></td>
+      <td>
+        <a href="https://source.kmads.dev/diabetes-indicator">Frontend</a> |
+        <a href="https://source.kmads.dev/diabetes-indicator-api">Backend</a>
+      </td>
+      <td>HTML/CSS/JS, Python (FastAPI, Scikit, Pandas)</td>
+    </tr>
+    <tr>
+      <td>HiveMind Client Potential (2025)</td>
+      <td><a href="https://kmads.dev/hivemind-client-potential">Website</a></td>
+      <td>
+        <a href="https://source.kmads.dev/hivemind-client-potential">Frontend</a> |
+        <a href="https://source.kmads.dev/hivemind-ml-api">Backend</a> |
+        <a href="https://source.kmads.dev/hivemind-ml">ML</a>
+      </td>
+      <td>HTML/CSS/JS, Python (FastAPI, Scikit, Pandas)</td>
+    </tr>
+    <tr>
+      <td>Expense Tracking App (2024)</td>
+      <td>—</td>
+      <td><a href="https://source.kmads.dev/expense-tracking-app">Source</a></td>
+      <td>Python, Streamlit</td>
+    </tr>
+    <tr>
+      <td>TrocaTine Landing (2024)</td>
+      <td><a href="https://kmads.dev/trocatine-landing">Website</a></td>
+      <td><a href="https://source.kmads.dev/trocatine-landing">Source</a></td>
+      <td>HTML/CSS/JS</td>
+    </tr>
+    <tr>
+      <td>DK Shipping Landing (2024)</td>
+      <td><a href="https://kmads.dev/dk-shipping">Website</a></td>
+      <td><a href="https://kmads.dev/dk-shipping">Source</a></td>
+      <td>HTML/CSS</td>
+    </tr>
+    <tr>
+      <td>Python Compiler (2024)</td>
+      <td><a href="https://kmads.dev/python-compiler">Website</a></td>
+      <td><a href="https://source.kmads.dev/python-compiler">Source</a></td>
+      <td>HTML/CSS/JS</td>
+    </tr>
+    <tr>
+      <td>Custom Square (2024)</td>
+      <td><a href="https://kmads.dev/custom-square">Website</a></td>
+      <td><a href="https://source.kmads.dev/custom-square">Source</a></td>
+      <td>HTML/CSS/JS</td>
+    </tr>
+    <tr>
+      <td>Calculator (2023)</td>
+      <td><a href="https://kmads.dev/calculator">Website</a></td>
+      <td><a href="https://source.kmads.dev/calculator">Source</a></td>
+      <td>HTML/CSS/JS</td>
+    </tr>
+    <tr>
+      <td>Cards Design (2023)</td>
+      <td><a href="https://kmads.dev/cards-design">Website</a></td>
+      <td><a href="https://source.kmads.dev/cards-design">Source</a></td>
+      <td>HTML/CSS/JS</td>
+    </tr>
+  </tbody>
+</table>
+
 
 
 ### ➕ Other Projects
-<ul>
-          <li> Curriculum                  – <a href="https://cv.kmads.dev/latest">Website</a>
-    </li> <li> Leetcode Algoritmhs (2025)  – <a href="https://source.kmads.dev/leetcode-algorithms">Source Code</a>
-    </li> <li> Expense Tracking App (2024) – <a href="https://source.kmads.dev/expense-tracking-app">Source Code</a>
-    </li> <li> CS50x Class Material        – <a href="https://source.kmads.dev/cs50x">Source Code</a>
-    </li> 
-</ul>
+<table>
+  <thead>
+    <tr>
+      <th>Project</th>
+      <th>Website</th>
+      <th>Source Code</th>
+      <th>Stack</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Portifolio</td>
+      <td><a href="https://kmads.dev/">kmads.dev</a></td>
+      <td>—</td>
+      <td>HTML/CSS, JavaScript, React</td>
+    </tr>
+    <tr>
+      <td>Leetcode Algorithms (2025)</td>
+      <td>—</td>
+      <td><a href="https://source.kmads.dev/leetcode-algorithms">Source</a></td>
+      <td>Python, SQL, JavaScript</td>
+    </tr>
+    <tr>
+      <td>CS50x Class Material</td>
+      <td>—</td>
+      <td><a href="https://source.kmads.dev/cs50x">Source</a></td>
+      <td>C, Python, SQLite</td>
+    </tr>
+  </tbody>
+</table>
+
 
 
 ### 📀 Legacy Projects
-<ul>
-          <li> Tickety (2021-2023)              – A ticket/support discord bot made with JavaScript                                                 <!-- <a href="https://source.kmads.dev/">Source Code</a> -->
-    </li> <li> Emoteload Bot (2021-2023)        – A discord bot that helps users find & upload their custom emojis (bypassing the 100 emojis limit) <!-- <a href="https://source.kmads.dev/">Source Code</a> -->
-    </li> <li> Fireboyshop Bot (2020-2022)      – Checkout/moderation system for discord made using JavaScript                                      <!-- <a href="https://source.kmads.dev/">Source Code</a> -->
-    </li> <li> Minescord Plugin (2020-2021)     – Minecraft/discord chat integration using Java, JavaScript                                         <!-- <a href="https://source.kmads.dev/">Source Code</a> -->
-    </li> <li> Fireboyserver (2019-2021)        – A Minecraft Server with Discord integration (with over 400+ people) made with Java/JavaScript     <!-- <a href="https://source.kmads.dev/">Source Code</a> -->
-    </li> <li> Fireboybot/Firebot (2018-2021)   – Entertainment, games, RPG, moderation, tickets all-in-one discord bot                             <!-- <a href="https://source.kmads.dev/">Source Code</a> -->
-    </li> <li> Check out all of them (and more) – <a href="https://source.kmads.dev/glitch-legacy-projects">Original Legacy Code</a> | <a href="https://source.kmads.dev/glitch-legacy-projects-remastered2025">Restored Code (2025)</a>
-    </li>
-</ul>
+<table>
+    <thead><tr>
+        <th>Project</th>
+        <th>Description</th>
+        <th>Source Code</th>
+        <th>Stack</th>
+    </tr></thead>
+    <tbody><tr>
+        <td>Tickety (2021–2023)</td>
+        <td>Ticket/support Discord bot (JavaScript)</td>
+        <td>—</td>
+        <td>JavaScript</td>
+    </tr> <tr>
+        <td>Emoteload Bot (2021–2023)</td>
+        <td>Custom emoji manager Discord bot</td>
+        <td>—</td>
+        <td>JavaScript</td>
+    </tr> <tr>
+        <td>Fireboyshop Bot (2020–2022)</td>
+        <td>Checkout/moderation system for Discord</td>
+        <td>—</td>
+        <td>JavaScript</td>
+    </tr> <tr>
+        <td>Minescord Plugin (2020–2021)</td>
+        <td>Minecraft/Discord chat integration (Java/JS)</td>
+        <td>—</td>
+        <td>JavaScript</td>
+    </tr> <tr>
+        <td>Fireboyserver (2019–2021)</td>
+        <td>Minecraft Server + Discord integration (400+ members)</td>
+        <td>—</td>
+        <td>JavaScript & Java</td>
+    </tr> <tr>
+        <td>Fireboybot/Firebot (2018–2021)</td>
+        <td>All-in-one Discord bot (games, RPG, tickets, moderation)</td>
+        <td>—</td>
+        <td>JavaScript</td>
+    </tr> <tr>
+        <td>Check out all of them (and more)</td>
+        <td>Legacy archive & remastered version</td>
+        <td>
+            <a href="https://source.kmads.dev/glitch-legacy-projects">Legacy</a> |
+            <a href="https://source.kmads.dev/glitch-legacy-projects-remastered2025">Restored (2025)</a>
+        </td>
+        <td>JavaScript</td>
+    </tr></tbody>
+</table>
+
+
 
 
 <!-- Project Cards --> 
