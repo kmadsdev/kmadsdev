@@ -64,9 +64,9 @@ I’m a 17 year old Software Engineer who been coding since 2018. My focus area 
 ### ➕ Other Projects
 <ul>
           <li> Curriculum                  – <a href="https://cv.kmads.dev/latest">Website</a>
-    </li> <li> Leetcode Algoritmhs (2025)  – <a href="https://kmads.dev/leetcode-algorithms">Source Code</a>
-    </li> <li> Expense Tracking App (2024) – <a href="https://kmads.dev/expense-tracking-app">Source Code</a>
-    </li> <li> CS50x Class Material        – <a href="https://kmads.dev/cs50x">Source Code</a>
+    </li> <li> Leetcode Algoritmhs (2025)  – <a href="https://source.kmads.dev/leetcode-algorithms">Source Code</a>
+    </li> <li> Expense Tracking App (2024) – <a href="https://source.kmads.dev/expense-tracking-app">Source Code</a>
+    </li> <li> CS50x Class Material        – <a href="https://source.kmads.dev/cs50x">Source Code</a>
     </li> 
 </ul>
 
@@ -79,7 +79,7 @@ I’m a 17 year old Software Engineer who been coding since 2018. My focus area 
     </li> <li> Minescord Plugin (2020-2021)     – Minecraft/discord chat integration using Java, JavaScript                                         <!-- <a href="https://source.kmads.dev/">Source Code</a> -->
     </li> <li> Fireboyserver (2019-2021)        – A Minecraft Server with Discord integration (with over 400+ people) made with Java/JavaScript     <!-- <a href="https://source.kmads.dev/">Source Code</a> -->
     </li> <li> Fireboybot/Firebot (2018-2021)   – Entertainment, games, RPG, moderation, tickets all-in-one discord bot                             <!-- <a href="https://source.kmads.dev/">Source Code</a> -->
-    </li> <li> Check out all of them (and more) – <a href="https://source.kmads.dev/">Original Legacy Code</a> | <a href="https://source.kmads.dev/">Restored Code (2025)</a>
+    </li> <li> Check out all of them (and more) – <a href="https://source.kmads.dev/glitch-legacy-projects">Original Legacy Code</a> | <a href="https://source.kmads.dev/glitch-legacy-projects-remastered2025">Restored Code (2025)</a>
     </li>
 </ul>
 
