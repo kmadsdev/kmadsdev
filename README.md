@@ -40,111 +40,115 @@ I’m a 17 year old Software Engineer who been coding since 2018. My focus area 
 ## Projects
 ### 🗂️ All Projects
 <table>
-  <thead>
+    <thead>
     <tr>
-      <th>Project</th>
-      <th>Website</th>
-      <th>Source Code</th>
-      <th>Stack</th>
+        <th>Project</th>
+        <th>Website</th>
+        <th>Source Code</th>
+        <th>Stack</th>
     </tr>
-  </thead>
-  <tbody>
+    </thead>
+    <tbody>
     <tr>
-      <td>Diabetes Indicator (2025)</td>
-      <td><a href="https://kmads.dev/diabetes-indicator">Website</a></td>
-      <td>
-        <a href="https://source.kmads.dev/diabetes-indicator">Frontend</a> |
-        <a href="https://source.kmads.dev/diabetes-indicator-api">Backend</a>
-      </td>
-      <td>HTML/CSS/JS, Python (FastAPI, Scikit, Pandas)</td>
-    </tr>
-    <tr>
-      <td>HiveMind Client Potential (2025)</td>
-      <td><a href="https://kmads.dev/hivemind-client-potential">Website</a></td>
-      <td>
-        <a href="https://source.kmads.dev/hivemind-client-potential">Frontend</a> |
-        <a href="https://source.kmads.dev/hivemind-ml-api">Backend</a> |
-        <a href="https://source.kmads.dev/hivemind-ml">ML</a>
-      </td>
-      <td>HTML/CSS/JS, Python (FastAPI, Scikit, Pandas)</td>
+        <td>Diabetes Indicator (2025)</td>
+        <td>
+            <a href="https://kmads.dev/diabetes-indicator">Website</a>
+        </td>
+        <td>
+            <a href="https://source.kmads.dev/diabetes-indicator">Frontend</a> |
+            <a href="https://source.kmads.dev/diabetes-indicator-api">Backend</a>
+        </td>
+        <td>HTML/CSS/JS, Python (FastAPI, Scikit, Pandas)</td>
     </tr>
     <tr>
-      <td>Expense Tracking App (2024)</td>
-      <td>—</td>
-      <td><a href="https://source.kmads.dev/expense-tracking-app">Source</a></td>
-      <td>Python, Streamlit</td>
+        <td>HiveMind Client Potential (2025)</td>
+        <td>
+            <a href="https://kmads.dev/hivemind-client-potential">Website</a>
+        </td>
+        <td>
+            <a href="https://source.kmads.dev/hivemind-client-potential">Frontend</a> |
+            <a href="https://source.kmads.dev/hivemind-ml-api">Backend</a> |
+            <a href="https://source.kmads.dev/hivemind-ml">ML</a>
+        </td>
+        <td>HTML/CSS/JS, Python (FastAPI, Scikit, Pandas)</td>
     </tr>
     <tr>
-      <td>TrocaTine Landing (2024)</td>
-      <td><a href="https://kmads.dev/trocatine-landing">Website</a></td>
-      <td><a href="https://source.kmads.dev/trocatine-landing">Source</a></td>
-      <td>HTML/CSS/JS</td>
+        <td>Expense Tracking App (2024)</td>
+        <td>—</td>
+        <td><a href="https://source.kmads.dev/expense-tracking-app">Source</a></td>
+        <td>Python, Streamlit</td>
     </tr>
     <tr>
-      <td>DK Shipping Landing (2024)</td>
-      <td><a href="https://kmads.dev/dk-shipping">Website</a></td>
-      <td><a href="https://kmads.dev/dk-shipping">Source</a></td>
-      <td>HTML/CSS</td>
+        <td>TrocaTine Landing (2024)</td>
+        <td><a href="https://kmads.dev/trocatine-landing">Website</a></td>
+        <td><a href="https://source.kmads.dev/trocatine-landing">Source</a></td>
+        <td>HTML/CSS/JS</td>
     </tr>
     <tr>
-      <td>Python Compiler (2024)</td>
-      <td><a href="https://kmads.dev/python-compiler">Website</a></td>
-      <td><a href="https://source.kmads.dev/python-compiler">Source</a></td>
-      <td>HTML/CSS/JS</td>
+        <td>DK Shipping Landing (2024)</td>
+        <td><a href="https://kmads.dev/dk-shipping">Website</a></td>
+        <td><a href="https://kmads.dev/dk-shipping">Source</a></td>
+        <td>HTML/CSS</td>
     </tr>
     <tr>
-      <td>Custom Square (2024)</td>
-      <td><a href="https://kmads.dev/custom-square">Website</a></td>
-      <td><a href="https://source.kmads.dev/custom-square">Source</a></td>
-      <td>HTML/CSS/JS</td>
+        <td>Python Compiler (2024)</td>
+        <td><a href="https://kmads.dev/python-compiler">Website</a></td>
+        <td><a href="https://source.kmads.dev/python-compiler">Source</a></td>
+        <td>HTML/CSS/JS</td>
     </tr>
     <tr>
-      <td>Calculator (2023)</td>
-      <td><a href="https://kmads.dev/calculator">Website</a></td>
-      <td><a href="https://source.kmads.dev/calculator">Source</a></td>
-      <td>HTML/CSS/JS</td>
+        <td>Custom Square (2024)</td>
+        <td><a href="https://kmads.dev/custom-square">Website</a></td>
+        <td><a href="https://source.kmads.dev/custom-square">Source</a></td>
+        <td>HTML/CSS/JS</td>
     </tr>
     <tr>
-      <td>Cards Design (2023)</td>
-      <td><a href="https://kmads.dev/cards-design">Website</a></td>
-      <td><a href="https://source.kmads.dev/cards-design">Source</a></td>
-      <td>HTML/CSS/JS</td>
+        <td>Calculator (2023)</td>
+        <td><a href="https://kmads.dev/calculator">Website</a></td>
+        <td><a href="https://source.kmads.dev/calculator">Source</a></td>
+        <td>HTML/CSS/JS</td>
     </tr>
-  </tbody>
+    <tr>
+        <td>Cards Design (2023)</td>
+        <td><a href="https://kmads.dev/cards-design">Website</a></td>
+        <td><a href="https://source.kmads.dev/cards-design">Source</a></td>
+        <td>HTML/CSS/JS</td>
+    </tr>
+    </tbody>
 </table>
 
 
 
 ### ➕ Other Projects
 <table>
-  <thead>
+    <thead>
     <tr>
-      <th>Project</th>
-      <th>Website</th>
-      <th>Source Code</th>
-      <th>Stack</th>
+        <th>Project</th>
+        <th>Website</th>
+        <th>Source Code</th>
+        <th>Stack</th>
     </tr>
-  </thead>
-  <tbody>
+    </thead>
+    <tbody>
     <tr>
-      <td>Portifolio</td>
-      <td><a href="https://kmads.dev/">kmads.dev</a></td>
-      <td>—</td>
-      <td>HTML/CSS, JavaScript, React</td>
-    </tr>
-    <tr>
-      <td>Leetcode Algorithms (2025)</td>
-      <td>—</td>
-      <td><a href="https://source.kmads.dev/leetcode-algorithms">Source</a></td>
-      <td>Python, SQL, JavaScript</td>
+        <td>Portifolio</td>
+        <td><a href="https://kmads.dev/">kmads.dev</a></td>
+        <td><a href="https://kmads.dev/">source.kmads.dev</a></td>
+        <td>HTML/CSS, JavaScript, React</td>
     </tr>
     <tr>
-      <td>CS50x Class Material</td>
-      <td>—</td>
-      <td><a href="https://source.kmads.dev/cs50x">Source</a></td>
-      <td>C, Python, SQLite</td>
+        <td>Leetcode Algorithms (2025)</td>
+        <td>—</td>
+        <td><a href="https://source.kmads.dev/leetcode-algorithms">source.kmads.dev/leetcode-algorithms</a></td>
+        <td>Python, SQL, JavaScript</td>
     </tr>
-  </tbody>
+    <tr>
+        <td>CS50x Class Material</td>
+        <td>—</td>
+        <td><a href="https://source.kmads.dev/cs50x">source.kmads.dev/cs50x</a></td>
+        <td>C, Python, SQLite</td>
+    </tr>
+    </tbody>
 </table>
 
 
