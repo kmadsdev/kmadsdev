@@ -40,79 +40,83 @@ I’m a 17 year old Software Engineer who been coding since 2018. My focus area 
 ## Projects
 ### 🗂️ All Projects
 <table>
-    <thead>
-    <tr>
-        <th>Project</th>
-        <th>Website</th>
-        <th>Source Code</th>
-        <th>Stack</th>
-    </tr>
-    </thead>
+    <thead><tr>
+    <th>Project</th>
+    <th>Website</th>
+    <th>Source Code</th>
+    <th>Stack</th>
+    <th>Cloud/Host</th>
+    </tr></thead>
     <tbody>
     <tr>
+        <td>OFFMODE (2025)</td>
+        <td>—</td>
+        <td>—</td>
+        <td>Python, Tkinter, FastAPI, SQLite, PgSQL, AWS</td>
+        <td>—</td>
+    </tr>
+    <tr>
         <td>Diabetes Indicator (2025)</td>
-        <td>
-            <a href="https://kmads.dev/diabetes-indicator">Website</a>
-        </td>
-        <td>
-            <a href="https://source.kmads.dev/diabetes-indicator">Frontend</a> |
-            <a href="https://source.kmads.dev/diabetes-indicator-api">Backend</a>
-        </td>
-        <td>HTML/CSS/JS, Python (FastAPI, Scikit, Pandas)</td>
+        <td> <a href="https://kmads.dev/diabetes-indicator">Website</a> </td>
+        <td> <a href="https://source.kmads.dev/diabetes-indicator">Frontend</a> | <a href="https://source.kmads.dev/diabetes-indicator-api">Backend</a> </td>
+        <td>HTML/CSS, JavaScript, Python (FastAPI, Uvicorn Scikit, Pandas)</td>
+        <td>Github Pages + Vercel</td>
     </tr>
     <tr>
         <td>HiveMind Client Potential (2025)</td>
-        <td>
-            <a href="https://kmads.dev/hivemind-client-potential">Website</a>
-        </td>
-        <td>
-            <a href="https://source.kmads.dev/hivemind-client-potential">Frontend</a> |
-            <a href="https://source.kmads.dev/hivemind-ml-api">Backend</a> |
-            <a href="https://source.kmads.dev/hivemind-ml">ML</a>
-        </td>
-        <td>HTML/CSS/JS, Python (FastAPI, Scikit, Pandas)</td>
+        <td> <a href="https://kmads.dev/hivemind-client-potential">Website</a> </td>
+        <td> <a href="https://source.kmads.dev/hivemind-client-potential">Frontend</a> | <a href="https://source.kmads.dev/hivemind-ml-api">Backend</a> | <a href="https://source.kmads.dev/hivemind-ml">ML</a> </td>
+        <td>HTML/CSS, JavaScript, Python (FastAPI, Uvicorn, Scikit, Pandas)</td>
+        <td>Github Pages + Vercel</td>
     </tr>
     <tr>
         <td>Expense Tracking App (2024)</td>
         <td>—</td>
         <td><a href="https://source.kmads.dev/expense-tracking-app">Source</a></td>
-        <td>Python, Streamlit</td>
+        <td>Python, Streamlit, Pandas, Plotly</td>
+        <td>—</td>
     </tr>
     <tr>
-        <td>TrocaTine Landing (2024)</td>
+        <td>TrocaTine (2024)</td>
         <td><a href="https://kmads.dev/trocatine-landing">Website</a></td>
-        <td><a href="https://source.kmads.dev/trocatine-landing">Source</a></td>
-        <td>HTML/CSS/JS</td>
+        <td><a href="https://source.kmads.dev/trocatine">source.kmads.dev/trocatine</a></td>
+        <td>HTML/CSS, JavaScript</td>
+        <td>Github Pages / Actions</td>
     </tr>
     <tr>
         <td>DK Shipping Landing (2024)</td>
-        <td><a href="https://kmads.dev/dk-shipping">Website</a></td>
-        <td><a href="https://kmads.dev/dk-shipping">Source</a></td>
-        <td>HTML/CSS</td>
+        <td><a href="https://kmads.dev/dk-shipping/home">Website</a></td>
+        <td><a href="https://kmads.dev/dk-shipping">kmads.dev/dk-shipping</a></td>
+        <td>HTML/CSS, JavaScript</td>
+        <td>Github Pages / Actions</td>
     </tr>
     <tr>
         <td>Python Compiler (2024)</td>
         <td><a href="https://kmads.dev/python-compiler">Website</a></td>
-        <td><a href="https://source.kmads.dev/python-compiler">Source</a></td>
-        <td>HTML/CSS/JS</td>
+        <td><a href="https://source.kmads.dev/python-compiler">source.kmads.dev/python-compiler</a></td>
+        <td>HTML/CSS, JavaScript</td>
+        <td>Github Pages / Actions</td>
     </tr>
     <tr>
         <td>Custom Square (2024)</td>
         <td><a href="https://kmads.dev/custom-square">Website</a></td>
-        <td><a href="https://source.kmads.dev/custom-square">Source</a></td>
-        <td>HTML/CSS/JS</td>
+        <td><a href="https://source.kmads.dev/custom-square">source.kmads.dev/custom-square</a></td>
+        <td>HTML/CSS, JavaScript</td>
+        <td>Github Pages / Actions</td>
     </tr>
     <tr>
         <td>Calculator (2023)</td>
         <td><a href="https://kmads.dev/calculator">Website</a></td>
-        <td><a href="https://source.kmads.dev/calculator">Source</a></td>
-        <td>HTML/CSS/JS</td>
+        <td><a href="https://source.kmads.dev/calculator">source.kmads.dev/calculator</a></td>
+        <td>HTML/CSS, JavaScript</td>
+        <td>Github Pages / Actions</td>
     </tr>
     <tr>
         <td>Cards Design (2023)</td>
         <td><a href="https://kmads.dev/cards-design">Website</a></td>
-        <td><a href="https://source.kmads.dev/cards-design">Source</a></td>
-        <td>HTML/CSS/JS</td>
+        <td><a href="https://source.kmads.dev/cards-design">source.kmads.dev/cards-design</a></td>
+        <td>HTML/CSS</td>
+        <td>Github Pages / Actions</td>
     </tr>
     </tbody>
 </table>
@@ -121,32 +125,55 @@ I’m a 17 year old Software Engineer who been coding since 2018. My focus area 
 
 ### ➕ Other Projects
 <table>
-    <thead>
-    <tr>
-        <th>Project</th>
-        <th>Website</th>
-        <th>Source Code</th>
-        <th>Stack</th>
-    </tr>
-    </thead>
+    <thead><tr>
+    <th>Project</th>
+    <th>Website</th>
+    <th>Source Code</th>
+    <th>Stack</th>
+    <th>Cloud/Host</th>
+    </tr></thead>
     <tbody>
     <tr>
         <td>Portifolio</td>
         <td><a href="https://kmads.dev/">kmads.dev</a></td>
-        <td><a href="https://kmads.dev/">source.kmads.dev</a></td>
-        <td>HTML/CSS, JavaScript, React</td>
+        <td><a href="https://source.kmads.dev/kmadsdev.github.io">source.kmads.dev/kmadsdev.github.io</a></td>
+        <td>React, HTML/CSS, JavaScript</td>
+        <td>Github Pages / Actions</td>
+    </tr>
+    <tr>
+        <td>Curriculum</td>
+        <td><a href="https://kmads.dev/curriculum">kmads.dev/curriculum</a></td>
+        <td>—</td>
+        <td>HTML/CSS</td>
+        <td>Github Pages / Actions</td>
     </tr>
     <tr>
         <td>Leetcode Algorithms (2025)</td>
         <td>—</td>
         <td><a href="https://source.kmads.dev/leetcode-algorithms">source.kmads.dev/leetcode-algorithms</a></td>
         <td>Python, SQL, JavaScript</td>
+        <td>—</td>
     </tr>
     <tr>
         <td>CS50x Class Material</td>
         <td>—</td>
         <td><a href="https://source.kmads.dev/cs50x">source.kmads.dev/cs50x</a></td>
         <td>C, Python, SQLite</td>
+        <td>—</td>
+    </tr>
+    <tr>
+        <td>Finance Assistant Chatbot</td>
+        <td>—</td>
+        <td>—</td>
+        <td>—</td>
+        <td>—</td>
+    </tr>
+    <tr>
+        <td>Finance Assistant Chatbot</td>
+        <td>—</td>
+        <td>—</td>
+        <td>—</td>
+        <td>—</td>
     </tr>
     </tbody>
 </table>
@@ -155,12 +182,7 @@ I’m a 17 year old Software Engineer who been coding since 2018. My focus area 
 
 ### 📀 Legacy Projects
 <table>
-    <thead><tr>
-        <th>Project</th>
-        <th>Description</th>
-        <th>Source Code</th>
-        <th>Stack</th>
-    </tr></thead>
+    <thead><tr><th>Project</th><th>Description</th><th>Source Code</th><th>Stack</th></tr></thead>
     <tbody><tr>
         <td>Tickety (2021–2023)</td>
         <td>Ticket/support Discord bot (JavaScript)</td>
@@ -194,10 +216,7 @@ I’m a 17 year old Software Engineer who been coding since 2018. My focus area 
     </tr> <tr>
         <td>Check out all of them (and more)</td>
         <td>Legacy archive & remastered version</td>
-        <td>
-            <a href="https://source.kmads.dev/glitch-legacy-projects">Legacy</a> |
-            <a href="https://source.kmads.dev/glitch-legacy-projects-remastered2025">Restored (2025)</a>
-        </td>
+        <td> <a href="https://source.kmads.dev/glitch-legacy-projects">Legacy</a> | <a href="https://source.kmads.dev/glitch-legacy-projects-remastered2025">Restored (2025)</a> </td>
         <td>JavaScript</td>
     </tr></tbody>
 </table>
