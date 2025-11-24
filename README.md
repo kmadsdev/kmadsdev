@@ -25,9 +25,7 @@ I’m a 17 year old Software Engineer who been coding since 2018. My focus area 
 ---
 
 
-<p 
-    style="display: flex; align-items: center; flex-direction: row;"
->
+<p style="display: flex; align-items: center; flex-direction: row;" >
     <img style="height: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs?username=kmadsdev&theme=dark&show_icons=true&locale=en&layout=compact" alt="kmadsdev" />
     <img style="height: 100%;" src="https://streak-stats.demolab.com?user=kmadsdev&theme=dark" alt="GitHub Streak" /> <!-- Exclude Saturday & Sunday: &exclude_days=Sun%2CSat -->
     <!-- <a><img src="https://github-readme-streak-stats.herokuapp.com/?user=kmadsdev&theme=dark" alt="kmadsdev" /></a> -->
@@ -211,11 +209,42 @@ I’m a 17 year old Software Engineer who been coding since 2018. My focus area 
 ---
 
 
-# Experience & Edication
+## Experience
 ### 💼 Professional Experience
-- **Data Engineer** @ [PicPay](https://picpay.com/) (Mar 2025 – Present)
-- Data Scientist & ML Engineer @ HiveMind (Jan 2025 – Nov 2025)
-- Co-founder & Software Engineer @ TrocaTine (Jan 2024 – Dec 2024)
+<table>
+    <thead><tr>
+    <th>Title / Role</th>
+    <th>Local</th>
+    <th>Contract</th>
+    <th>Period</th>
+    </tr><thead>
+    <tbody><tr>
+        <td>Data Engineer</td>
+        <td>PicPay</td>
+        <td>Internship</td>
+        <td>Mar 2025 - Present</td>
+    </tr><tr>
+        <td>Data Scientist & ML Engineer</td>
+        <td>HiveMind</td>
+        <td>Co-founder</td>
+        <td>Jan 2025 - Nov 2025</td>
+    </tr><tr>
+        <td>Software Engineer </td>
+        <td>TrocaTine</td>
+        <td>Co-founder</td>
+        <td>Jan 2024 - Dec 2024</td>
+    </tr><tr>
+        <td>Freelancer Data Engineer/Analyst</td>
+        <td>Fiverr</td>
+        <td>Self employed</td>
+        <td>2023 - 2024</td>
+    </tr><tr>
+        <td>Application & Webhook Developer</td>
+        <td>Discord</td>
+        <td>Self employed</td>
+        <td>2018 - 2022</td>
+    </tr></tbody>
+</table>
 
 
 ### 🎓 Education
@@ -223,19 +252,37 @@ I’m a 17 year old Software Engineer who been coding since 2018. My focus area 
 
 
 ### 📚 Coursework
-- **Computer Science (CS50x)** @ [Harvard University (EdX)](https://www.edx.org/school/harvardx) (2025)
-- **Mobile Software Engineering (CS164)** @ [Harvard Extension School](https://www.youtube.com/@CS164) (2025)
+- **Computer Science (CS50x)** @ [Harvard University on EdX](https://www.edx.org/school/harvardx) (2025)
+- **Software Engineering (CS164)** @ [Harvard Extension School on YouTube](https://www.youtube.com/@CS164) (2025)
 - **Advanced Algoritms (CS224)** @ [Harvard University on YouTube](https://www.youtube.com/@harvard)
 - **Algoritms for Big Data (CS229r)** @ [Harvard University on YouTube](https://www.youtube.com/@harvard)
 - **AWS Cloud Practitioner Essentials** @ [AWS Skill Builder](https://skillbuilder.aws/)
 
 
 ### 📍 Learning Journey
-- **2018–2022:** Discord bots & Minecraft Plugins using JavaScript, Node.JS, Discord.JS, Java Deployed on Glitch.com. And some simple Web applications Deployed on Github Actions
-- **2022-2024:** Contributed to PC Building communities on reddit (like r/craftmybox, r/builapc and r/computadores) to helped people build their PCs (learned lots of hardware fundamentals)
-- **2023:** Data Analysis using Python and SQL (Pandas, PySpark, MySQL, Tableau and Power BI)
-- **2024:** Software Engineering, Advanced Data Analysis, DevOps, FullStack Development, CSec/IS, Cloud (GCP, Docker) and Scrum
-- **2025:** NoSQL (MongoDB, Redis & Neo4j), Ds & ML, QA, Cloud (AWS, GCP, Oracle
+##### 2018–2022 (Vibe coder, without AI):
+- Started learning about Discord Bots and Minecraft Plugins using JavaScript, Node.JS, Discord.JS and Java deployed on Glitch.com
+- Simple Web applications deployed Github Pages.
+- Photoshop, Canva logo/banner designs, Design Systems
+##### 2022-2024 (Hardware, IT, Intro to Computer Science):
+- Contributed to PC Building communities on reddit (like r/craftmybox, r/builapc and r/computadores) and helped people build their PCs
+- Premiere video editing
+- Computer Science basics
+##### 2023 (Introduction to Data):
+- Data: Data Analysis, Python, Pandas, PySpark, MySQL, Power BI
+- Started to use Github Actions
+##### 2024 (Digging deeper into Data, Intro to Software Engineering)
+- Advanced Data Analysis: joins, window functions, time-series queries, performance optimization, data manipulation, scalable data cleaning/aggregation.
+- Introduction to Software Engineering: DevOps introduction, simple CI/CD pipelines
+- FullStack Development: Web development, responsive design, API integration, Java OOP
+- CSec/IS Fundamentals: Secure coding, encryption basics, hashing, safe network design
+- Cloud (GCP, Docker)
+- Scrum/Agile
+##### 2025 (Digging deeper into Software Engineering)
+- Software: Architecture, Design & Engineering, SaaS
+- DevOps: CI/CD, SDLC
+- Data: NoSQL (MongoDB, Redis & Neo4j), Data Analysis/Science, Machine Learning, Big Data
+- Cloud: AWS (S3, EC2, ELB, Lambda, SNS/SQS), Oracle (HCM, OTBI & DMs), Vercel, Render,  Cloudflare, Nginx
 
 
 ---
