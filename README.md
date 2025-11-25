@@ -1,25 +1,23 @@
 # Kaique Souza - KMADS
 ## About me
-I’m a 17 year old Software Engineer who been coding since 2018. My focus area at the moment are: 
+I’m a 17 year old Software Engineer who been coding since 2018. My focus areas at the moment are: 
 <br> → DevOps (CI/CD, SLCD, Microservices, Workflows & Pipelines, Docker)
 <br> → Backend (API integration, Web development)
 <br> → Data/Cloud (Data Analysis/Science, AWS, GCP, Oracle)
 
 
 ### Stack
-- 🥇 Python (FastAPI, Pandas, PySpark, Scikit, Flask) - Also know some of: Django, Tkinter
-- 🥈 SQL & NoSQL (MySQL, PostgreSQL, SQLite, Oracle SQL) - Also know some of: MongoDB, Redis, Neo4j
-- 🥉 JavaScript & Java (OOP, Web development, REST APIs, Node.JS, JDBC) - Also know some of: Angular, Tomcat
-- I'm also open to learn: Go, PHP, Rust, C# and .net (or any other language basically)
+- 🥇 **Python** (FastAPI, Pandas, PySpark, Scikit) - Also know a little of: Flask, Django and Tkinter
+- 🥈 **SQL & NoSQL** (MySQL, PostgreSQL, SQLite, Oracle SQL) - Also know a little of: MongoDB, Redis and Neo4j
+- 🥉 **JavaScript / Java** (Web/Backend development, REST APIs, Node.JS, OOP, JDBC) - Also know a little of: Angular
 
 
 ### Skills
-- ⚙️ Software Engineering (SDLC, Software/Cloud Architecture, Microservices, DevOps, CI/CD Workflows)
-- ⌨️ Backend Development (Web/Desktop applications, REST & Gateway APIs, Monolith & Microservices Architectures)
-- 🖥️ Frontend Development (Web/Desktop design, Flask, Tkinter, Django, Design System, Figma/Canva)
-- 📊 Data (Modelling, Analysis, Big Data, Machine Learning, Pandas/PySpark)
-- ☁️ Cloud (AWS {EC2, S3, Lamdba, Kafka, SNS/SQS}, Oracle {HCM, OTBI, DM, Test envs}, GCP, Vercel, Render)
-- 👥 Agile/Scrum (Agile Methodologies, Agile Project Management & Software Development)
+- ⚙️ Software Engineering: DevOps, SDLC, Architecture (e.g.: Microservices, MVC, BFF), CI/CD Workflows
+- ⌨️ Backend Development: Web/Desktop applications, REST & Gateway APIs, Monolith & Microservices Architectures
+- 📊 Data: Modelling, Analysis, Big Data, Machine Learning, Pandas/PySpark
+- ☁️ Cloud: AWS {EC2, S3, Lamdba, Kafka, SNS/SQS}, Oracle {HCM, OTBI, DM, Test envs}, Vercel, Render
+- 👥 Agile/Scrum: Agile Methodologies, Project Management & Software Development
 
 
 ---
@@ -64,17 +62,23 @@ I’m a 17 year old Software Engineer who been coding since 2018. My focus area 
         <td>HTML/CSS, JS, Python, FastAPI, Scikit, Pandas</td>
         <td>Github Pages + Vercel</td>
     </tr><tr>
+        <td>HiveMind (2025)</td>
+        <td>—</td>
+        <td><a href="https://github.com/HiveMind-Instituto-J-F">Source</a></td>
+        <td>Python, Pandas, Scikit, Java, Tomcat, JavaScript, HTML/CSS, PgSQL, MongoDB</td>
+        <td>—</td>
+    </tr><tr>
+        <td>TrocaTine (2024)</td>
+        <td><a href="https://kmads.dev/trocatine-landing">kmads.dev/trocatine</a></td>
+        <td><a href="https://github.com/TrocaTine">Source</a></td>
+        <td>—</td>
+        <td>—</td>
+    </tr><tr>
         <td>Expense Tracking App (2024)</td>
         <td>—</td>
         <td><a href="https://source.kmads.dev/expense-tracking-app">Source</a></td>
         <td>Python, Streamlit, Pandas, Plotly</td>
         <td>—</td>
-    </tr><tr>
-        <td>TrocaTine (2024)</td>
-        <td><a href="https://kmads.dev/trocatine-landing">kmads.dev/trocatine</a></td>
-        <td><a href="https://source.kmads.dev/trocatine">Source</a></td>
-        <td>HTML/CSS, JavaScript</td>
-        <td>Github Pages</td>
     </tr><tr>
         <td>DK Shipping (2024)</td>
         <td><a href="https://kmads.dev/dk-shipping/home">kmads.dev/dk-shipping</a></td>
