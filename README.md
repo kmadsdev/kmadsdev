@@ -157,7 +157,7 @@ I’m a 17 year old Software Engineer who been coding since 2018. My focus area 
     <th>Cloud/Host</th>
     </tr></thead>
     <tbody><tr>
-        <td>Minescord Plugin (2020–2021)</td>
+        <td>Minescord Plugin (2020–2022)</td>
         <td>Minecraft/Discord chat integration (Java/JS)</td>
         <td>JavaScript</td>
         <td>Glitch.com</td>
@@ -167,18 +167,18 @@ I’m a 17 year old Software Engineer who been coding since 2018. My focus area 
         <td>JavaScript</td>
         <td>Glitch.com</td>
     </tr><tr>
-        <td>Emoteload Bot (2021–2023)</td>
+        <td>Emoteload Bot (2021–2022)</td>
         <td>Custom emoji manager Discord bot</td>
         <td>JavaScript</td>
         <td>Glitch.com</td>
     </tr><tr>
-        <td>Fireboyshop Bot (2020–2022)</td>
-        <td>Checkout/moderation system for Discord</td>
+        <td>Fireboyshop Bot (2019–2022)</td>
+        <td>Checkout/moderation system for Discord (400+ members)</td>
         <td>JavaScript</td>
         <td>Glitch.com</td>
     </tr><tr>
         <td>Fireboyserver (2019–2021)</td>
-        <td>Minecraft Server + Discord integration (400+ members)</td>
+        <td>Minecraft Server + Discord integration (200+ members)</td>
         <td>JavaScript & Java</td>
         <td>Glitch.com</td>
     </tr><tr>
