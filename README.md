@@ -1,16 +1,9 @@
 # Kaique Souza - KMADS
-## About me
-I’m a 17 year old Software Engineer who been coding since 2018. My focus areas at the moment are: 
-<br> → DevOps (CI/CD, SLCD, Microservices, Workflows & Pipelines, Docker)
-<br> → Backend (API integration, Web development)
-<br> → Data/Cloud (Data Analysis/Science, AWS, GCP, Oracle)
-
 
 ### Stack
-- 🥇 **Python** (FastAPI, Pandas, PySpark, Scikit) - Also know a little of: Flask, Django and Tkinter
-- 🥈 **SQL & NoSQL** (MySQL, PostgreSQL, SQLite, Oracle SQL) - Also know a little of: MongoDB, Redis and Neo4j
-- 🥉 **JavaScript / Java** (Web/Backend development, REST APIs, Node.JS, OOP, JDBC) - Also know a little of: Angular
-
+- 🥇 **Python** (FastAPI, Pandas, PySpark, Scikit)
+- 🥈 **SQL & NoSQL** (MySQL, PostgreSQL, SQLite)
+- 🥉 **JavaScript / Java** (Web/Backend development, REST APIs, Node.JS, OOP, JDBC)
 
 ### Skills
 - ⚙️ Software Engineering: DevOps, SDLC, Architecture (e.g.: Microservices, MVC, BFF), CI/CD Workflows
@@ -22,13 +15,11 @@ I’m a 17 year old Software Engineer who been coding since 2018. My focus areas
 
 ---
 
-
 <p style="display: flex; align-items: center; flex-direction: row;" >
     <img style="height: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs?username=kmadsdev&theme=dark&show_icons=true&locale=en&layout=compact" alt="kmadsdev" />
     <img style="height: 100%;" src="https://streak-stats.demolab.com?user=kmadsdev&theme=dark" alt="GitHub Streak" /> <!-- Exclude Saturday & Sunday: &exclude_days=Sun%2CSat -->
     <!-- <a><img src="https://github-readme-streak-stats.herokuapp.com/?user=kmadsdev&theme=dark" alt="kmadsdev" /></a> -->
 </p>
-
 
 ---
 
@@ -206,7 +197,6 @@ I’m a 17 year old Software Engineer who been coding since 2018. My focus areas
 <a href="https://github.com/kmadsdev/offMode/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kmadsdev&repo=offmode" alt="kmadsdev" /></a><br>
 <a href="https://github.com/kmadsdev/diabetesindicator/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kmadsdev&theme=dark&repo=diabetesindicator" alt="kmadsdev" style="width: 60%;" /></a><br>
 <a href="https://github.com/kmadsdev/hivemind-client-potential/"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=kmadsdev&theme=dark&repo=hivemind-client-potential" alt="kmadsdev" style="width: 60%;" /></a><br>
-<a href="https://github.com/kmadsdev/TrocaTineLanding/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kmadsdev&theme=dark&repo=TrocaTineLanding" alt="kmadsdev" style="width: 60%;" /></a><br>
 -->
 
 
@@ -254,14 +244,12 @@ I’m a 17 year old Software Engineer who been coding since 2018. My focus areas
 ### 🎓 Education
 - **Computer Science & Software Engineering** @ [J&F Institute](https://institutojef.org.br/escolas/tech/) (Expected 2027)
 
-
 ### 📚 Coursework
 - **Computer Science (CS50x)** @ [Harvard University on EdX](https://www.edx.org/school/harvardx) (2025)
 - **Software Engineering (CS164)** @ [Harvard Extension School on YouTube](https://www.youtube.com/@CS164) (2025)
 - **Advanced Algoritms (CS224)** @ [Harvard University on YouTube](https://www.youtube.com/@harvard)
 - **Algoritms for Big Data (CS229r)** @ [Harvard University on YouTube](https://www.youtube.com/@harvard)
 - **AWS Cloud Practitioner Essentials** @ [AWS Skill Builder](https://skillbuilder.aws/)
-
 
 ### 📍 Learning Journey
 ##### 2018–2022 (Vibe coder, without AI):
@@ -297,7 +285,6 @@ I’m a 17 year old Software Engineer who been coding since 2018. My focus areas
 - English (Fully fluent, about C1 or C2)
 - Portuguese (Native, fully fluent)
 - Spanish (May be able to hold conversations)
-
 
 ### 🏆 Honors & Achievements:
 - 🥉 Bronze Medalist on [Brazil's Math Kangaroo](https://www.cangurudematematicabrasil.com.br/) for J&F Institute (2024)
