@@ -38,38 +38,42 @@
         <td>Off Mode (2025)</td>
         <td>—</td>
         <td>—</td>
-        <td>Python, Tkinter, FastAPI, SQLite, PgSQL, AWS</td>
+        <td>Python, Tkinter, FastAPI, SQLite, PgSQL</td>
         <td>—</td>
     </tr><tr>
-        <td>Diabetes Indicator (2025)</td>
-        <td> <a href="https://kmads.dev/diabetes-indicator">kmads.dev/diabetes-indicator</a> </td>
-        <td> <a href="https://source.kmads.dev/diabetes-indicator">Front</a> | <a href="https://source.kmads.dev/diabetes-indicator-api">Back</a> </td>
-        <td>HTML/CSS, JS, Python, FastAPI, Scikit, Pandas</td>
-        <td>Github Pages + Vercel</td>
+            <td>Diabetes Indicator (2025)</td>
+            <td><a href="https://kmads.dev/diabetes-indicator">kmads.dev/diabetes-indicator</a></td>
+            <td><a href="https://source.kmads.dev/diabetes-indicator">Front</a> | <a href="https://source.kmads.dev/diabetes-indicator-api">Back</a></td>
+            <td>HTML/CSS, JS, Python, FastAPI, Scikit, Pandas</td>
+            <td>Github Pages + Vercel</td>
     </tr><tr>
         <td>HiveMind Client Potential (2025)</td>
-        <td> <a href="https://kmads.dev/hivemind-client-potential">kmads.dev/hivemind-client-potential</a> </td>
-        <td> <a href="https://source.kmads.dev/hivemind-client-potential">Front</a> | <a href="https://source.kmads.dev/hivemind-ml-api">Back</a> | <a href="https://source.kmads.dev/hivemind-ml">ML</a> </td>
+        <td><a href="https://kmads.dev/hivemind-client-potential">kmads.dev/hivemind-client-potential</a></td>
+        <td>
+            <a   href="https://source.kmads.dev/hivemind-client-potential">Front</a> 
+            | <a href="https://source.kmads.dev/hivemind-ml-api">Back</a> 
+            | <a href="https://source.kmads.dev/hivemind-ml">ML</a>
+        </td>
         <td>HTML/CSS, JS, Python, FastAPI, Scikit, Pandas</td>
         <td>Github Pages + Vercel</td>
     </tr><tr>
-        <td>HiveMind (2025)</td>
-        <td>—</td>
-        <td><a href="https://github.com/HiveMind-Instituto-J-F">Source</a></td>
-        <td>Python, Pandas, Scikit, Java, Tomcat, JavaScript, HTML/CSS, PgSQL, MongoDB</td>
-        <td>—</td>
+            <td>HiveMind (2025)</td>
+            <td>—</td>
+            <td><a href="https://github.com/HiveMind-Instituto-J-F">Source</a></td>
+            <td>Python, Pandas, Scikit-learn, Java, Tomcat, JavaScript, HTML/CSS, PgSQL, MongoDB</td>
+            <td>—</td>
     </tr><tr>
         <td>TrocaTine (2024)</td>
         <td><a href="https://kmads.dev/trocatine-landing">kmads.dev/trocatine</a></td>
         <td><a href="https://github.com/TrocaTine">Source</a></td>
-        <td>—</td>
+        <td>Java, Tomcat, Maven, HTML/CSS, JavaScript, PgSQL, MongoDB</td>
         <td>—</td>
     </tr><tr>
-        <td>Expense Tracking App (2024)</td>
-        <td>—</td>
-        <td><a href="https://source.kmads.dev/expense-tracking-app">Source</a></td>
-        <td>Python, Streamlit, Pandas, Plotly</td>
-        <td>—</td>
+            <td>Expense Tracking App (2024)</td>
+            <td>—</td>
+            <td><a href="https://source.kmads.dev/expense-tracking-app">Source</a></td>
+            <td>Python, Streamlit, Pandas, Plotly</td>
+            <td>—</td>
     </tr><tr>
         <td>DK Shipping (2024)</td>
         <td><a href="https://kmads.dev/dk-shipping/home">kmads.dev/dk-shipping</a></td>
@@ -77,11 +81,11 @@
         <td>HTML/CSS, JavaScript</td>
         <td>Github Pages</td>
     </tr><tr>
-        <td>Python Compiler (2024)</td>
-        <td><a href="https://kmads.dev/python-compiler">kmads.dev/python-compiler</a></td>
-        <td><a href="https://source.kmads.dev/python-compiler">Source</a></td>
-        <td>HTML/CSS, JavaScript</td>
-        <td>Github Pages</td>
+            <td>Python Compiler (2024)</td>
+            <td><a href="https://kmads.dev/python-compiler">kmads.dev/python-compiler</a></td>
+            <td><a href="https://source.kmads.dev/python-compiler">Source</a></td>
+            <td>HTML/CSS, JavaScript</td>
+            <td>Github Pages</td>
     </tr><tr>
         <td>Custom Square (2024)</td>
         <td><a href="https://kmads.dev/custom-square">kmads.dev/custom-square</a></td>
@@ -89,11 +93,11 @@
         <td>HTML/CSS, JavaScript</td>
         <td>Github Pages</td>
     </tr><tr>
-        <td>Calculator (2023)</td>
-        <td><a href="https://kmads.dev/calculator">kmads.dev/calculator</a></td>
-        <td><a href="https://source.kmads.dev/calculator">Source</a></td>
-        <td>HTML/CSS, JavaScript</td>
-        <td>Github Pages</td>
+            <td>Calculator (2023)</td>
+            <td><a href="https://kmads.dev/calculator">kmads.dev/calculator</a></td>
+            <td><a href="https://source.kmads.dev/calculator">Source</a></td>
+            <td>HTML/CSS, JavaScript</td>
+            <td>Github Pages</td>
     </tr><tr>
         <td>Cards Design (2023)</td>
         <td><a href="https://kmads.dev/cards-design">kmads.dev/cards-design</a></td>
@@ -103,9 +107,7 @@
     </tr></tbody>
 </table>
 
-
-
-### ➕ Other Projects
+### 📂 Other Projects
 <table>
     <thead><tr>
     <th>Project</th>
@@ -115,7 +117,7 @@
     <th>Cloud/Host</th>
     </tr></thead>
     <tbody><tr>
-        <td>Portifolio</td>
+        <td>Portifolio website</td>
         <td><a href="https://kmads.dev/">kmads.dev</a></td>
         <td><a href="https://source.kmads.dev/kmadsdev.github.io">source.kmads.dev/kmadsdev.github.io</a></td>
         <td>React, HTML/CSS, JavaScript</td>
@@ -136,12 +138,10 @@
         <td>Finance Assistant Chatbot</td>
         <td>—</td>
         <td>—</td>
-        <td>Python, Langchain, PgSQL, Gemini</td>
+        <td>Python, Langchain, PgSQL</td>
         <td>—</td>
     </tr></tbody>
 </table>
-
-
 
 ### 📀 Legacy Projects
 <table>
