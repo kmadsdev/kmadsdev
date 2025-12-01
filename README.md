@@ -1,17 +1,18 @@
 # Kaique Souza - KMADS
 
-### Stack
+### Language Stack
 - 🥇 **Python** (FastAPI, Pandas, PySpark, Scikit)
 - 🥈 **SQL & NoSQL** (MySQL, PostgreSQL, SQLite)
-- 🥉 **JavaScript / Java** (Web/Backend development, REST APIs, Node.JS, OOP, JDBC)
+- 🥉 **JavaScript** (Web/Backend development, REST APIs, Node.JS, OOP)
 
-### Skills
-- ⚙️ Software Engineering: DevOps, SDLC, Architecture (e.g.: Microservices, MVC, BFF), CI/CD Workflows
-- ⌨️ Backend Development: Web/Desktop applications, REST & Gateway APIs, Monolith & Microservices Architectures
-- 📊 Data: Modelling, Analysis, Big Data, Machine Learning, Pandas/PySpark
-- ☁️ Cloud: AWS {EC2, S3, Lamdba, Kafka, SNS/SQS}, Oracle {HCM, OTBI, DM, Test envs}, Vercel, Render
-- 👥 Agile/Scrum: Agile Methodologies, Project Management & Software Development
-
+### Technical Skills
+- DevOps (SDLC, CI/CD Pipelines, Monitoring)
+- Architecture (Microservices, Monolith, MVC, BFF, Event-Driven, Serverless)
+- Backend Development (Web/Desktop Applications, REST & Gateway APIs)
+- Data Analysis (Data Modelling, EDA, Pandas, SQL, Power BI/Tableau)
+- Data Science (Prediction/Classification Machine Learning Models)
+- Cloud (AWS, Google Cloud, Vercel, Oracle  ->  Services, like: EC2, S3, GCS, Lambda)
+- Agile Methodologies (Scrum, Kanban, Jira, Github Projects, Monday, Notion)
 
 ---
 
