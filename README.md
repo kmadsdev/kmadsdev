@@ -1,5 +1,3 @@
-<div style="background:#1e1e1e;">
-
 # Kaique Souza - KMADS
 ###### My Portifolio: [https://kmads.dev/](https://kmads.dev)  ●  Check all my Projects here: [https://kmads.dev/projects/](https://kmads.dev/projects)
 
@@ -127,5 +125,3 @@
 ### 🏆 Honors & Achievements:
 - 🥉 Bronze Medalist on [Brazil's Math Kangaroo](https://www.cangurudematematicabrasil.com.br/) for J&F Institute (2024)
 - ♟️ Beaten Komodo20 Chess Bot rated 2400 elo
-
-</div>
