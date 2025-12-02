@@ -38,40 +38,49 @@
 ## Experience
 ### 💼 Professional Experience
 <table>
-    <thead><tr>
+<thead>
+<tr>
     <th>Title / Role</th>
     <th>Local</th>
     <th>Contract</th>
     <th>Period</th>
-    </tr><thead>
-    <tbody><tr>
-        <td>Data Engineer</td>
-        <td>PicPay</td>
-        <td>Internship</td>
-        <td>Mar 2025 - Present</td>
-    </tr><tr>
-        <td>Data Scientist & ML Engineer</td>
-        <td>HiveMind</td>
-        <td>Co-founder</td>
-        <td>Jan 2025 - Nov 2025</td>
-    </tr><tr>
-        <td>Software Engineer </td>
-        <td>TrocaTine</td>
-        <td>Co-founder</td>
-        <td>Jan 2024 - Dec 2024</td>
-    </tr><tr>
-        <td>Freelancer Data Engineer/Analyst</td>
-        <td>Fiverr</td>
-        <td>Self employed</td>
-        <td>2023 - 2024</td>
-    </tr><tr>
-        <td>Application & Webhook Developer</td>
-        <td>Discord</td>
-        <td>Self employed</td>
-        <td>2018 - 2022</td>
-    </tr></tbody>
+</tr>
+</thead>
+<tbody>
+<tr>
+    <td>Data Engineer</td>
+    <td>PicPay</td>
+    <td>Internship</td>
+    <td>Mar 2025 - Present</td>
+</tr>
+<tr>
+    <td>Data Scientist & ML Engineer</td>
+    <td>HiveMind</td>
+    <td>Co-founder</td>
+    <td>Jan 2025 - Nov 2025</td>
+</tr>
+<tr>
+    <td>Software Engineer</td>
+    <td>TrocaTine</td>
+    <td>Co-founder</td>
+    <td>Jan 2024 - Dec 2024</td>
+</tr>
+<tr>
+    <td>Freelancer Data Engineer/Analyst</td>
+    <td>Fiverr</td>
+    <td>Self employed</td>
+    <td>2023 - 2024</td>
+</tr>
+<tr>
+    <td>Application & Webhook Developer</td>
+    <td>Discord</td>
+    <td>Self employed</td>
+    <td>2018 - 2022</td>
+</tr>
+</tbody>
 </table>
 
+<br/>
 
 ### 🎓 Education
 - **Computer Science & Software Engineering** @ [J&F Institute](https://institutojef.org.br/escolas/tech/) (Expected 2027)
