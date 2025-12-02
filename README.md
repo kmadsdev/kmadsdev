@@ -1,3 +1,5 @@
+<div style="background:#1e1e1e;">
+
 # Kaique Souza - KMADS
 ###### My Portifolio: [https://kmads.dev/](https://kmads.dev)  ●  Check all my Projects here: [https://kmads.dev/projects/](https://kmads.dev/projects)
 
@@ -25,7 +27,6 @@
 
 ---
 
-
 <!-- ## Projects -> [kmads.dev/projects](https://kmads.dev/projects) -->
 
 <!-- Project Cards --> 
@@ -33,10 +34,8 @@
 <a href="https://github.com/kmadsdev/offMode/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kmadsdev&repo=offmode" alt="kmadsdev" /></a><br>
 <a href="https://github.com/kmadsdev/diabetesindicator/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kmadsdev&theme=dark&repo=diabetesindicator" alt="kmadsdev" style="width: 60%;" /></a><br>
 <a href="https://github.com/kmadsdev/hivemind-client-potential/"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=kmadsdev&theme=dark&repo=hivemind-client-potential" alt="kmadsdev" style="width: 60%;" /></a><br>
+
 -->
-
----
-
 
 ## Experience
 ### 💼 Professional Experience
@@ -91,13 +90,16 @@
 - Started learning about Discord Bots and Minecraft Plugins using JavaScript, Node.JS, Discord.JS and Java deployed on Glitch.com
 - Simple Web applications deployed Github Pages.
 - Photoshop, Canva logo/banner designs, Design Systems
+
 ##### 2022-2024 (Hardware, IT, Intro to Computer Science):
 - Contributed to PC Building communities on reddit (like r/craftmybox, r/builapc and r/computadores) and helped people build their PCs
 - Premiere video editing
 - Computer Science basics
+
 ##### 2023 (Introduction to Data):
 - Data: Data Analysis, Python, Pandas, PySpark, MySQL, Power BI
 - Started to use Github Actions
+
 ##### 2024 (Digging deeper into Data, Intro to Software Engineering)
 - Advanced Data Analysis: joins, window functions, time-series queries, performance optimization, data manipulation, scalable data cleaning/aggregation.
 - Introduction to Software Engineering: DevOps introduction, simple CI/CD pipelines
@@ -105,6 +107,7 @@
 - CSec/IS Fundamentals: Secure coding, encryption basics, hashing, safe network design
 - Cloud (GCP, Docker)
 - Scrum/Agile
+
 ##### 2025 (Digging deeper into Software Engineering)
 - Software: Architecture, Design & Engineering, SaaS
 - DevOps: CI/CD, SDLC
@@ -124,3 +127,5 @@
 ### 🏆 Honors & Achievements:
 - 🥉 Bronze Medalist on [Brazil's Math Kangaroo](https://www.cangurudematematicabrasil.com.br/) for J&F Institute (2024)
 - ♟️ Beaten Komodo20 Chess Bot rated 2400 elo
+
+</div>
