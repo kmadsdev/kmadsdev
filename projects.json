@@ -115,7 +115,7 @@
   "legacyProjects": [
     {
       "project": "Minescord Plugin (2020–2022)",
-      "description": "Minecraft/Discord Chat integration",
+      "description": "Plugin/Webhook, Minecraft + Discord Chat integration",
       "stack": "JavaScript, Java",
       "cloud": "Glitch.com, Discloud"
     },{
@@ -130,17 +130,17 @@
       "cloud": "Glitch.com, Discloud"
     },{
       "project": "Fireboyshop Bot (2019–2022)",
-      "description": "Checkout/moderation Application for Discord (400+ members)",
+      "description": "Checkout System Application for Discord (400+ members)",
       "stack": "JavaScript, SQLite",
       "cloud": "Glitch.com, Discloud"
     },{
       "project": "Fireboyserver MC (2019–2021)",
       "description": "Minecraft Server",
       "stack": "Java",
-      "cloud": "Glitch.com"
+      "cloud": "Glitch.com, Docker"
     },{
       "project": "Fireboybot/Firebot (2018–2021)",
-      "description": "All-in-one Discord bot (games, RPG, tickets, moderation)",
+      "description": "All-in-one Discord bot (Games, RPG, Tickets, Server Moderation, Software Monitoring)",
       "stack": "JavaScript, SQLite",
       "cloud": "Glitch.com, Discloud"
     },{
