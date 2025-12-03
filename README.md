@@ -1,5 +1,8 @@
 # Kaique Souza - KMADS
-###### My Portifolio: [https://kmads.dev/](https://kmads.dev)  ●  Check all my Projects here: [https://kmads.dev/projects/](https://kmads.dev/projects)
+###### Portifolio: [https://kmads.dev/](https://kmads.dev)
+###### Projects: [https://kmads.dev/projects/](https://kmads.dev/projects)
+
+---
 
 ### Language Stack
 - 🥇 **Python** (FastAPI, Pandas, PySpark, Scikit)
@@ -83,7 +86,7 @@
 <br/>
 
 ### 🎓 Education
-- **Computer Science & Software Engineering** @ [J&F Institute](https://institutojef.org.br/escolas/tech/) (Expected 2027)
+- **Computer Science & Software Engineering** @ [J&F Institute](https://institutojef.org.br/escolas/tech/) (Expected 2026)
 
 ### 📚 Coursework
 - **Computer Science (CS50x)** @ [Harvard University on EdX](https://www.edx.org/school/harvardx) (2025)
