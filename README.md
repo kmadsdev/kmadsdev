@@ -77,7 +77,7 @@
 <tr>
     <td>Application & Webhook Developer</td>
     <td>Discord</td>
-    <td>Self employed</td>
+    <td>Independent Developer</td>
     <td>2018 - 2022</td>
 </tr>
 </tbody>
