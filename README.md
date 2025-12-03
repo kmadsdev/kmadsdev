@@ -43,40 +43,40 @@
 <table>
 <thead>
 <tr>
+    <th>Company</th>
     <th>Title / Role</th>
-    <th>Local</th>
-    <th>Contract</th>
+    <th>Contract Type</th>
     <th>Period</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-    <td>Data Engineer</td>
     <td>PicPay</td>
+    <td>Data Engineer</td>
     <td>Internship</td>
     <td>Mar 2025 - Present</td>
 </tr>
 <tr>
-    <td>Data Scientist & ML Engineer</td>
     <td>HiveMind</td>
+    <td>Data Scientist & ML Engineer</td>
     <td>Co-founder</td>
-    <td>Jan 2025 - Nov 2025</td>
+    <td>Jan 2025 - Dec 2025</td>
 </tr>
 <tr>
-    <td>Software Engineer</td>
     <td>TrocaTine</td>
-    <td>Co-founder</td>
+    <td>Software Engineer</td>
+    <td>Co-founder, Board member</td>
     <td>Jan 2024 - Dec 2024</td>
 </tr>
 <tr>
-    <td>Freelancer Data Engineer/Analyst</td>
     <td>Fiverr</td>
+    <td>Freelancer Data Engineer & Analyst</td>
     <td>Self employed</td>
     <td>2023 - 2024</td>
 </tr>
 <tr>
-    <td>Application & Webhook Developer</td>
     <td>Discord</td>
+    <td>Application & Webhook Developer</td>
     <td>Independent Developer</td>
     <td>2018 - 2022</td>
 </tr>
