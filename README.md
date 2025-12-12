@@ -33,7 +33,7 @@
 <!-- Project Cards --> 
 <!--
 <a href="https://github.com/kmadsdev/offMode/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kmadsdev&repo=offmode" alt="kmadsdev" /></a><br>
-<a href="https://github.com/kmadsdev/diabetesindicator/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kmadsdev&theme=dark&repo=diabetesindicator" alt="kmadsdev" style="width: 60%;" /></a><br>
+<a href="https://github.com/kmadsdev/diabetes-indicator/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kmadsdev&theme=dark&repo=diabetes-indicator" alt="kmadsdev" style="width: 60%;" /></a><br>
 <a href="https://github.com/kmadsdev/hivemind-client-potential/"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=kmadsdev&theme=dark&repo=hivemind-client-potential" alt="kmadsdev" style="width: 60%;" /></a><br>
 
 -->

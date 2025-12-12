@@ -34,7 +34,7 @@
       "cloud": null
     },{
       "project": "TrocaTine (2024)",
-      "website": "https://kmads.dev/trocatine-landing",
+      "website": "https://kmads.dev/trocatine",
       "source": [ {"href": "https://github.com/TrocaTine", "label": "Source"} ],
       "stack": "Java, Tomcat, Maven, HTML/CSS, JavaScript, PgSQL, MongoDB",
       "cloud": null
@@ -88,6 +88,12 @@
       "source": [ {"href": "https://source.kmads.dev/kmadsdev.github.io", "label": "source.kmads.dev/kmadsdev.github.io"} ],
       "stack": "React, HTML/CSS, JavaScript",
       "cloud": "Github Pages / Actions"
+    }, {
+      "project": "DevOps Challenge",
+      "website": null,
+      "source": [ {"href": "https://source.kmads.dev/devops-challenge", "label": "source.kmads.dev/devops-challenge"} ],
+      "stack": "Python, JavaScript, GO, Node.JS, Docker",
+      "cloud": "Docker"
     },{
       "project": "Leetcode Algorithms",
       "website": null,
@@ -150,7 +156,7 @@
       "cloud": null,
       "extraLinks": [
         {"href": "https://source.kmads.dev/glitch-legacy-projects", "label": "Legacy Projects"},
-        {"href": "https://source.kmads.dev/glitch-legacy-projects-remastered2025", "label": "Restored Projects (2025)"}
+        {"href": "https://source.kmads.dev/glitch-legacy-projects-restored2025", "label": "Restored Projects (2025)"}
       ]
     }
 
