@@ -50,11 +50,17 @@
 </tr>
 </thead>
 <tbody>
+    <tr>
+    <td>PicPay</td>
+    <td>Software Engineer</td>
+    <td>Part-time</td>
+    <td>Dec 2025 - Present</td>
+</tr>
 <tr>
     <td>PicPay</td>
     <td>Data Engineer</td>
-    <td>Internship</td>
-    <td>Mar 2025 - Present</td>
+    <td>Part-time</td>
+    <td>Mar 2025 - Nov 2025</td>
 </tr>
 <tr>
     <td>HiveMind</td>
@@ -76,8 +82,8 @@
 </tr>
 <tr>
     <td>Discord</td>
-    <td>Application & Webhook Developer</td>
-    <td>Independent Developer</td>
+    <td>Applications Developer</td>
+        <td>Self Employed</td>
     <td>2018 - 2022</td>
 </tr>
 </tbody>
@@ -86,7 +92,7 @@
 <br/>
 
 ### 🎓 Education
-- **Computer Science & Software Engineering** @ [J&F Institute](https://institutojef.org.br/escolas/tech/) (Expected 2026)
+- **HS Diploma + Computer Science & Software Engineering** @ [J&F Institute](https://institutojef.org.br/escolas/tech/) (Expected 2026)
 
 ### 📚 Coursework
 - **Computer Science (CS50x)** @ [Harvard University on EdX](https://www.edx.org/school/harvardx) (2025)
@@ -96,7 +102,7 @@
 - **AWS Cloud Practitioner Essentials** @ [AWS Skill Builder](https://skillbuilder.aws/)
 
 ### 📍 Learning Journey
-##### 2018–2022 (Vibe coder, without AI):
+##### 2018–2022:
 - Started learning about Discord Bots and Minecraft Plugins using JavaScript, Node.JS, Discord.JS and Java deployed on Glitch.com
 - Simple Web applications deployed Github Pages.
 - Photoshop, Canva logo/banner designs, Design Systems
@@ -130,8 +136,8 @@
 
 ## Aditional Info
 ### 🗣️ Languages
-- English (Fully fluent, about C1 or C2)
-- Portuguese (Native, fully fluent)
+- English (Full Professional Proficiency, C1)
+- Portuguese (Native, Full Professional Proficiency)
 - Spanish (May be able to hold conversations)
 
 ### 🏆 Honors & Achievements:
