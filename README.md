@@ -1,6 +1,7 @@
 # Kaique Souza - KMADS
-###### Portifolio: [https://kmads.dev/](https://kmads.dev)
-###### Projects: [https://kmads.dev/projects/](https://kmads.dev/projects)
+**Portifolio: [https://kmads.dev/](https://kmads.dev)**
+<br>
+**Projects: [https://kmads.dev/projects/](https://kmads.dev/projects)**
 
 ---
 
@@ -102,34 +103,33 @@
 - **AWS Cloud Practitioner Essentials** @ [AWS Skill Builder](https://skillbuilder.aws/)
 
 ### 📍 Learning Journey
-##### 2018–2022:
+##### 2018–2021:
 - Started learning about Discord Bots and Minecraft Plugins using JavaScript, Node.JS, Discord.JS and Java deployed on Glitch.com
 - Simple Web applications deployed Github Pages.
-- Photoshop, Canva logo/banner designs, Design Systems
+- Photoshop, Canva logo/banner designs, Design Systems, Adobe Premiere Video Editing
 
-##### 2022-2024 (Hardware, IT, Intro to Computer Science):
+##### 2022 (Hardware, IT & Computer Science):
 - Contributed to PC Building communities on reddit (like r/craftmybox, r/builapc and r/computadores) and helped people build their PCs
-- Premiere video editing
-- Computer Science basics
+- Learned Computer Science basics
+- Was very curious specially by quantum computing/mechanics, and computer architecture / data structures
 
-##### 2023 (Introduction to Data):
-- Data: Data Analysis, Python, Pandas, PySpark, MySQL, Power BI
-- Started to use Github Actions
+##### 2023 (Data):
+- Data: Analysis, EDA, Python, Pandas, PySpark, MySQL, Power BI
+- Started learning github actions & DevOps concepts
 
-##### 2024 (Digging deeper into Data, Intro to Software Engineering)
+##### 2024 (Digging deeper into Data, Software Engineering)
 - Advanced Data Analysis: joins, window functions, time-series queries, performance optimization, data manipulation, scalable data cleaning/aggregation.
-- Introduction to Software Engineering: DevOps introduction, simple CI/CD pipelines
-- FullStack Development: Web development, responsive design, API integration, Java OOP
+- Introduction to Software Engineering: DevOps, CI/CD pipelines, Web development, backend, REST APIs, Java OOP
 - CSec/IS Fundamentals: Secure coding, encryption basics, hashing, safe network design
-- Cloud (GCP, Docker)
-- Scrum/Agile
+- Cloud: GCP, AWS, Aiven & Docker
+- Scrum and Agile methodologies
 
 ##### 2025 (Digging deeper into Software Engineering)
-- Software: Architecture, Design & Engineering, SaaS
-- DevOps: CI/CD, SDLC
+- Software: SaaS, Architecture, Deisgn, Engineering, DevOps, Data & Cloud
+- Architecture: Microservices, Monolith, Serverless, MVC, BFF
+- DevOps: CI/CD, Software Design Life Cycle
 - Data: NoSQL (MongoDB, Redis & Neo4j), Data Analysis/Science, Machine Learning, Big Data
-- Cloud: AWS (S3, EC2, ELB, Lambda, SNS/SQS), Oracle (HCM, OTBI & DMs), Vercel, Render,  Cloudflare, Nginx
-
+- Cloud: AWS (S3, EC2, ELB, Lambda, SNS/SQS, EKS), GCP, Vercel, Serverless Functions, Cloud Architecture Design
 
 ---
 
