@@ -6,18 +6,9 @@
 ---
 
 ### Language Stack
-- 🥇 **Python** (FastAPI, Pandas, PySpark, Scikit)
-- 🥈 **SQL & NoSQL** (MySQL, PostgreSQL, SQLite)
-- 🥉 **JavaScript** (Web/Backend development, REST APIs, Node.JS, OOP)
-
-### Technical Skills
-- DevOps (SDLC, CI/CD Pipelines, Monitoring)
-- Architecture (Microservices, Monolith, MVC, BFF, Event-Driven, Serverless)
-- Backend Development (Web/Desktop Applications, REST & Gateway APIs)
-- Data Analysis (Data Modelling, EDA, Pandas, SQL, Power BI/Tableau)
-- Data Science (Prediction/Classification Machine Learning Models)
-- Cloud (AWS, Google Cloud, Vercel, Oracle  ->  Services, like: EC2, S3, GCS, Lambda)
-- Agile Methodologies (Scrum, Kanban, Jira, Github Projects, Monday, Notion)
+- 🥇 **Python** (Backend Systems, REST APIs, FastAPI, Pandas, Scikit)
+- 🥉 **JavaScript** (Frontend/Backend Systems, REST APIs, Node.JS, Gateway APIs)
+- 🥈 **SQL & NoSQL** (MySQL, PostgreSQL, SQLite, Redis)
 
 ---
 
@@ -39,70 +30,7 @@
 
 -->
 
-## Experience
-### 💼 Professional Experience
-<table>
-<thead>
-<tr>
-    <th>Company</th>
-    <th>Title / Role</th>
-    <th>Contract Type</th>
-    <th>Period</th>
-</tr>
-</thead>
-<tbody>
-    <tr>
-    <td>PicPay</td>
-    <td>Software Engineer</td>
-    <td>Part-time</td>
-    <td>Dec 2025 - Present</td>
-</tr>
-<tr>
-    <td>PicPay</td>
-    <td>Data Engineer</td>
-    <td>Part-time</td>
-    <td>Mar 2025 - Nov 2025</td>
-</tr>
-<tr>
-    <td>HiveMind</td>
-    <td>Data Scientist & ML Engineer</td>
-    <td>Co-founder</td>
-    <td>Jan 2025 - Dec 2025</td>
-</tr>
-<tr>
-    <td>TrocaTine</td>
-    <td>Software Engineer</td>
-    <td>Co-founder, Board member</td>
-    <td>Jan 2024 - Dec 2024</td>
-</tr>
-<tr>
-    <td>Fiverr</td>
-    <td>Freelancer Data Engineer & Analyst</td>
-    <td>Self employed</td>
-    <td>2023 - 2024</td>
-</tr>
-<tr>
-    <td>Discord</td>
-    <td>Applications Developer</td>
-        <td>Self Employed</td>
-    <td>2018 - 2022</td>
-</tr>
-</tbody>
-</table>
-
-<br/>
-
-### 🎓 Education
-- **HS Diploma + Computer Science & Software Engineering** @ [J&F Institute](https://institutojef.org.br/escolas/tech/) (Expected 2026)
-
-### 📚 Coursework
-- **Computer Science (CS50x)** @ [Harvard University on EdX](https://www.edx.org/school/harvardx) (2025)
-- **Software Engineering (CS164)** @ [Harvard Extension School on YouTube](https://www.youtube.com/@CS164) (2025)
-- **Advanced Algoritms (CS224)** @ [Harvard University on YouTube](https://www.youtube.com/@harvard)
-- **Algoritms for Big Data (CS229r)** @ [Harvard University on YouTube](https://www.youtube.com/@harvard)
-- **AWS Cloud Practitioner Essentials** @ [AWS Skill Builder](https://skillbuilder.aws/)
-
-### 📍 Learning Journey
+### Learning Journey
 ##### 2018–2021:
 - Started learning about Discord Bots and Minecraft Plugins using JavaScript, Node.JS, Discord.JS and Java deployed on Glitch.com
 - Simple Web applications deployed Github Pages.
@@ -135,11 +63,11 @@
 
 
 ## Aditional Info
-### 🗣️ Languages
+### Languages
 - English (Full Professional Proficiency, C1)
 - Portuguese (Native, Full Professional Proficiency)
 - Spanish (May be able to hold conversations)
 
-### 🏆 Honors & Achievements:
+### Honors & Achievements:
 - 🥉 Bronze Medalist on [Brazil's Math Kangaroo](https://www.cangurudematematicabrasil.com.br/) for J&F Institute (2024)
 - ♟️ Beaten Komodo20 Chess Bot rated 2400 elo
