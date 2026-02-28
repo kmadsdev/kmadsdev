@@ -40,6 +40,7 @@ SWE Challenge V2  | Incident Alert Observability | [source](https://github.com/k
 <div style="display: flex; flex-direction: row">
     <img alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
     <img alt="Vite" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" width="40" height="40"/>
+    <img alt="Next.JS" src="https://cdn.brandfetch.io/id2alue-rx/theme/dark/symbol.svg?c=1dxbfHSJFAPEGdCLU4o5B" width="40" height="40"/>
 </div>
 
 <h3>Backend</h3>
@@ -59,35 +60,40 @@ SWE Challenge V2  | Incident Alert Observability | [source](https://github.com/k
 </div>
 
 <h3>Hosting</h3>
-<div style="display: flex; flex-direction: row">
-    <img alt="AWS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40"/>
-    <img alt="AWS" src="https://icon.icepanel.io/AWS/svg/Compute/EC2.svg" height="40"/>
-    <img alt="AWS" src="https://icon.icepanel.io/AWS/svg/Storage/Simple-Storage-Service.svg" height="40"/>
-    <img alt="AWS" src="https://icon.icepanel.io/AWS/svg/Compute/Lambda.svg" height="40"/>
-    <img alt="AWS" src="https://icon.icepanel.io/AWS/svg/Security-Identity-Compliance/IAM-Identity-Center.svg" height="40"/>
+<div style="display: flex; align-items: center; justify-content: center;">
+    <div style="display: flex; flex-direction: row;">
+        <img alt="AWS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40"/>
+        <span style="text-align: center; text-justify: center;">→</span>
+        <img alt="AWS" src="https://icon.icepanel.io/AWS/svg/Compute/EC2.svg" height="40"/>
+        <img alt="AWS" src="https://icon.icepanel.io/AWS/svg/Storage/Simple-Storage-Service.svg" height="40"/>
+        <img alt="AWS" src="https://icon.icepanel.io/AWS/svg/Compute/Lambda.svg" height="40"/>
+        <img alt="AWS" src="https://icon.icepanel.io/AWS/svg/Security-Identity-Compliance/IAM-Identity-Center.svg" height="40"/>
+    </div>
+    <div style="display: flex; flex-direction: row">
+        <img alt="GCP" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40" height="40"/>
+        <span style="text-align: center; text-justify: center;">→</span>
+        <img alt="GCP - Cloud Storage" src="https://icon.icepanel.io/GCP/svg/Cloud-Storage.svg" width="40" height="40"/>
+        <img alt="GCP - Cloud SQL" src="https://icon.icepanel.io/GCP/svg/Cloud-SQL.svg" width="40" height="40"/>
+        <img alt="GCP - Cloud Functions" src="https://icon.icepanel.io/GCP/svg/Cloud-Functions.svg" width="40" height="40"/>
+        <img alt="GCP - API" src="https://icon.icepanel.io/GCP/svg/API.svg" width="40" height="40"/>
+    </div>
+    <div style="display: flex; flex-direction: row">
+        <img alt="Vercel" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="40" height="40"/>
+        <span style="text-align: center; text-justify: center;">→</span>
+        <img alt="Vercel - Turborepo" src="https://user-images.githubusercontent.com/4060187/196936104-5797972c-ab10-4834-bd61-0d1e5f442c9c.png" width="40" height="40"/>
+        <img alt="Vercel - v0" src="https://v0.app/assets/icon.svg" width="40" height="40"/>
+    </div>
+    <div style="display: flex; flex-direction: row">
+        <img alt="GitHub Pages" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/github-white-icon.png" width="40" height="40"/>
+        <span style="text-align: center; text-justify: center;">→</span>
+        <img alt="GitHub Actions" src="https://icon.icepanel.io/Technology/svg/GitHub-Actions.svg" width="40" height="40"/>
+    </div>
 </div>
-<div style="display: flex; flex-direction: row">
-    <img alt="GCP" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40" height="40"/>
-    <img alt="GCP - Cloud Storage" src="https://icon.icepanel.io/GCP/svg/Cloud-Storage.svg" width="40" height="40"/>
-    <img alt="GCP - Cloud SQL" src="https://icon.icepanel.io/GCP/svg/Cloud-SQL.svg" width="40" height="40"/>
-    <img alt="GCP - Cloud Functions" src="https://icon.icepanel.io/GCP/svg/Cloud-Functions.svg" width="40" height="40"/>
-    <img alt="GCP - API" src="https://icon.icepanel.io/GCP/svg/API.svg" width="40" height="40"/>
-</div>
-<div style="display: flex; flex-direction: row">
-    <img alt="Vercel" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="40" height="40"/>
-    <img alt="Vercel - Next.JS" src="https://cdn.brandfetch.io/id2alue-rx/theme/dark/symbol.svg?c=1dxbfHSJFAPEGdCLU4o5B" width="40" height="40"/>
-    <img alt="Vercel - Turborepo" src="https://user-images.githubusercontent.com/4060187/196936104-5797972c-ab10-4834-bd61-0d1e5f442c9c.png" width="40" height="40"/>
-    <img alt="Vercel - v0" src="https://v0.app/assets/icon.svg" width="40" height="40"/>
-</div>
-<div style="display: flex; flex-direction: row">
-    <img alt="GitHub Pages" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/github-white-icon.png" width="40" height="40"/>
-    <img alt="GitHub Actions" src="https://icon.icepanel.io/Technology/svg/GitHub-Actions.svg" width="40" height="40"/>
-</div>
-
+    
 <h3>Tools</h3>
 <div style="display: flex; flex-direction: row">
-    <img alt="VSCode" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
     <img alt="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
+    <img alt="VSCode" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
     <img alt="Postman" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" height="40"/>
     <img alt="DBeaver" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dbeaver/dbeaver-original.svg" width="40" height="40"/>
     <img alt="Beekeeper" src="https://www.beekeeperstudio.io/static/press-kit/bk-logo-icon-darkbg.svg" width="40" height="40"/>
@@ -96,6 +102,7 @@ SWE Challenge V2  | Incident Alert Observability | [source](https://github.com/k
     <img alt="Stack Overflow" src="https://icon.icepanel.io/Technology/svg/Stack-Overflow.svg" width="40" height="40"/>
     <img alt="Fedora" src="https://icon.icepanel.io/Technology/svg/Fedora.svg" width="40" height="40"/>
 </div>
+
 
 <!-- <p style="display: flex; align-items: center; flex-direction: row;" >
     <img style="height: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs?username=kmadsdev&theme=dark&show_icons=true&locale=en&layout=compact" alt="kmadsdev" />
