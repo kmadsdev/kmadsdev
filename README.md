@@ -5,22 +5,23 @@
 <br>
 
 # Highlighted Projects
+
 | Name                   | Description                         | Links | Source Code |
 |------------------------|-------------------------------------|-------|-------------|
 | Engineer Student Tools | Free tools for engineers/developers | [/kmadsdev/engineer-student-tools](https://github.com/kmadsdev/engineer-student-tools) | - |
-| My Portifolio          | React is life                       | [kmads.dev](https://kmads.dev/) | [source](https://source.kmads.dev/kmadsdev.github.io) |
-| OffMode                | Web Pomodoro Timer                  | [kmads.dev/offmode](https://kmads.dev/offmode/) | soon | 
+| OFFMODE                | Web Pomodoro Timer                  | [kmads.dev/offmode](https://kmads.dev/offmode/) | soon | 
+| DOOM Offline           | Play DOOM offline, with 0 downloads | [kmads.dev/doom](https://kmads.dev/doom) | soon |
 | Diabetes Indicator     | Predicts if you may have diabetes   | [kmads.dev/diabetes-indicator](https://kmads.dev/diabetes-indicator/) | [frontend](https://source.kmads.dev/diabetes-indicator/) / [backend](https://source.kmads.dev/diabetes-indicator-backend/) |
 | BrowserNotes           | An Offline Web Application          | [kmads.dev/browsernotes](https://kmads.dev/browsernotes) | [source](https://source.kmads.dev/browsernotes) |
-| DoomOffline            | Play doom directly in your browser  | [kmads.dev/doom](https://kmads.dev/doom) | soon |
 | BurnRate               | Finances Dashboard                  | soon | soon |
 | CloudFlare Dashboard   | Domain/Web Observability            | soon | soon |
 
 <br>
 
 # Challenges
+
 | Name                | Description                      | Links | Tech Stack |
-|=--------------------|----------------------------------|-------|------------|
+|---------------------|----------------------------------|-------|------------|
 | DevOps Challenge    | PicPay's Jr DevOps/SRE           | [source](https://github.com/kmadsdev/devops-challenge) | Python, GO, HTML/CSS, JS, Docker, Monolith Architecture |
 | SWE Challenge V1    | Incident Alert Observability     | [source](https://github.com/kmadsdev/swe-observability-challenge-1) | GO, Python, React, JS, MySQL, Docker, MS |
 | SWE Challenge V2    | Incident Alert Observability     | [source](https://github.com/kmadsdev/swe-observability-challenge-2) | PHP (Swoole, Hyperf), Python, MySQL, Redis, Docker, MS |
@@ -30,7 +31,9 @@
 <br>
 
 # Tech Stack
-<h3>Languages</h3>
+
+### Languages
+
 <div style="display: flex; flex-direction: row">
     <img alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
     <img alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
@@ -39,14 +42,16 @@
     <img alt="PHP" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40"/>
 </div>
 
-<h3>Frontend</h3>
+### Frontend
+
 <div style="display: flex; flex-direction: row">
     <img alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
     <img alt="Vite" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" width="40" height="40"/>
     <img alt="Next.JS" src="https://cdn.brandfetch.io/id2alue-rx/theme/dark/symbol.svg?c=1dxbfHSJFAPEGdCLU4o5B" width="40" height="40"/>
 </div>
 
-<h3>Backend</h3>
+### Backend
+
 <div style="display: flex; flex-direction: row">
     <img alt="FastAPI" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40" height="40"/>
     <img alt="NodeJS" src="https://nodejs.org/static/logos/nodejsHex.svg" width="40" height="40"/>
@@ -54,7 +59,8 @@
     <img alt="Laravel" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="40" height="40"/>
 </div>
 
-<h3>Databases</h3>
+### Databases
+
 <div style="display: flex; flex-direction: row">
     <img alt="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
     <img alt="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
@@ -62,10 +68,10 @@
     <img alt="Redis" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40" height="40"/>
 </div>
 
-<h3>Hosting</h3>
-<div style="display: flex; align-items: center; justify-content: center;">
+### Hosting
+
+<div style="display: flex; flex-direction: row">
     <img alt="AWS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40"/>
-    <img alt="GCP" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40" height="40"/>
     <img alt="Vercel" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="40" height="40"/>
     <img alt="GitHub Pages" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/github-white-icon.png" width="40" height="40"/>
     <img alt="GitHub Actions" src="https://icon.icepanel.io/Technology/svg/GitHub-Actions.svg" width="40" height="40"/>
