@@ -1,38 +1,41 @@
 # Kaique Souza - KMADS
-
 - **Portifolio: [https://kmads.dev/](https://kmads.dev)**
 - **Projects: [https://kmads.dev/projects/](https://kmads.dev/projects)**
 
 <br>
 
 # Highlighted Projects
-
-Name    | Description | Links | Source Code
---------|-------------|-------|------------
-OffMode | Pomodoro Timer | [website](https://kmads.dev/offmode/) | soon
-Diabetes Indicator | Do you have diabetes? | [website](https://kmads.dev/diabetes-indicator/) | [frontend](https://source.kmads.dev/diabetes-indicator/) / [backend](https://source.kmads.dev/diabetes-indicator-backend/)
-BurnRate | Finances Dashboard | soon | soon
-CloudFlare Dashboard | Domain/Web Observability | soon | soon
+| Name                   | Description                         | Links | Source Code |
+|------------------------|-------------------------------------|-------|-------------|
+| Engineer Student Tools | Free tools for engineers/developers | [/kmadsdev/engineer-student-tools](https://github.com/kmadsdev/engineer-student-tools) | - |
+| My Portifolio          | React is life                       | [kmads.dev](https://kmads.dev/) | [source](https://source.kmads.dev/kmadsdev.github.io) |
+| OffMode                | Web Pomodoro Timer                  | [kmads.dev/offmode](https://kmads.dev/offmode/) | soon | 
+| Diabetes Indicator     | Predicts if you may have diabetes   | [kmads.dev/diabetes-indicator](https://kmads.dev/diabetes-indicator/) | [frontend](https://source.kmads.dev/diabetes-indicator/) / [backend](https://source.kmads.dev/diabetes-indicator-backend/) |
+| BrowserNotes           | An Offline Web Application          | [kmads.dev/browsernotes](https://kmads.dev/browsernotes) | [source](https://source.kmads.dev/browsernotes) |
+| DoomOffline            | Play doom directly in your browser  | [kmads.dev/doom](https://kmads.dev/doom) | soon |
+| BurnRate               | Finances Dashboard                  | soon | soon |
+| CloudFlare Dashboard   | Domain/Web Observability            | soon | soon |
 
 <br>
 
 # Challenges
-
-Name              | Description                  | Links | Tech Stack
-------------------|------------------------------|-------|-----------
-DevOps Challenge  | PicPay's Jr DevOps/SRE       | [source](https://github.com/kmadsdev/devops-challenge) | Python, GO, HTML/CSS, JS, Docker, Monolith Architecture
-SWE Challenge V1  | Incident Alert Observability | [source](https://github.com/kmadsdev/swe-observability-challenge-1) | GO, Python, React, JS, MySQL, Docker, Microservices
-SWE Challenge V2  | Incident Alert Observability | [source](https://github.com/kmadsdev/swe-observability-challenge-2) | PHP (Swoole, Hyperf), Python, MySQL, Redis, Docker, Microservices
+| Name                | Description                      | Links | Tech Stack |
+|=--------------------|----------------------------------|-------|------------|
+| DevOps Challenge    | PicPay's Jr DevOps/SRE           | [source](https://github.com/kmadsdev/devops-challenge) | Python, GO, HTML/CSS, JS, Docker, Monolith Architecture |
+| SWE Challenge V1    | Incident Alert Observability     | [source](https://github.com/kmadsdev/swe-observability-challenge-1) | GO, Python, React, JS, MySQL, Docker, MS |
+| SWE Challenge V2    | Incident Alert Observability     | [source](https://github.com/kmadsdev/swe-observability-challenge-2) | PHP (Swoole, Hyperf), Python, MySQL, Redis, Docker, MS |
+| Leetcode Algorithms | Solutions to some LC' problems   | [source](https://github.com/kmadsdev/leetcode-algorithms) | yes |
+| CS50x 25' Solutions | Stuff i made while learning CS50 | [source](https://github.com/kmadsdev/cs50x) | C/Obj-C, Python, JavaScript, SQL, HTML/CSS |
 
 <br>
 
 # Tech Stack
-
 <h3>Languages</h3>
 <div style="display: flex; flex-direction: row">
     <img alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
     <img alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
     <img alt="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>
+    <img alt="GO" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40" height="40"/>
     <img alt="PHP" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40"/>
 </div>
 
@@ -61,54 +64,17 @@ SWE Challenge V2  | Incident Alert Observability | [source](https://github.com/k
 
 <h3>Hosting</h3>
 <div style="display: flex; align-items: center; justify-content: center;">
-    <div style="display: flex; flex-direction: row;">
-        <img alt="AWS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40"/>
-        <span style="text-align: center; text-justify: center;">→</span>
-        <img alt="AWS" src="https://icon.icepanel.io/AWS/svg/Compute/EC2.svg" height="40"/>
-        <img alt="AWS" src="https://icon.icepanel.io/AWS/svg/Storage/Simple-Storage-Service.svg" height="40"/>
-        <img alt="AWS" src="https://icon.icepanel.io/AWS/svg/Compute/Lambda.svg" height="40"/>
-        <img alt="AWS" src="https://icon.icepanel.io/AWS/svg/Security-Identity-Compliance/IAM-Identity-Center.svg" height="40"/>
-    </div>
-    <div style="display: flex; flex-direction: row">
-        <img alt="GCP" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40" height="40"/>
-        <span style="text-align: center; text-justify: center;">→</span>
-        <img alt="GCP - Cloud Storage" src="https://icon.icepanel.io/GCP/svg/Cloud-Storage.svg" width="40" height="40"/>
-        <img alt="GCP - Cloud SQL" src="https://icon.icepanel.io/GCP/svg/Cloud-SQL.svg" width="40" height="40"/>
-        <img alt="GCP - Cloud Functions" src="https://icon.icepanel.io/GCP/svg/Cloud-Functions.svg" width="40" height="40"/>
-        <img alt="GCP - API" src="https://icon.icepanel.io/GCP/svg/API.svg" width="40" height="40"/>
-    </div>
-    <div style="display: flex; flex-direction: row">
-        <img alt="Vercel" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="40" height="40"/>
-        <span style="text-align: center; text-justify: center;">→</span>
-        <img alt="Vercel - Turborepo" src="https://user-images.githubusercontent.com/4060187/196936104-5797972c-ab10-4834-bd61-0d1e5f442c9c.png" width="40" height="40"/>
-        <img alt="Vercel - v0" src="https://v0.app/assets/icon.svg" width="40" height="40"/>
-    </div>
-    <div style="display: flex; flex-direction: row">
-        <img alt="GitHub Pages" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/github-white-icon.png" width="40" height="40"/>
-        <span style="text-align: center; text-justify: center;">→</span>
-        <img alt="GitHub Actions" src="https://icon.icepanel.io/Technology/svg/GitHub-Actions.svg" width="40" height="40"/>
-    </div>
+    <img alt="AWS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40"/>
+    <img alt="GCP" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40" height="40"/>
+    <img alt="Vercel" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="40" height="40"/>
+    <img alt="GitHub Pages" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/github-white-icon.png" width="40" height="40"/>
+    <img alt="GitHub Actions" src="https://icon.icepanel.io/Technology/svg/GitHub-Actions.svg" width="40" height="40"/>
 </div>
-    
-<h3>Tools</h3>
-<div style="display: flex; flex-direction: row">
-    <img alt="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
-    <img alt="VSCode" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
-    <img alt="Postman" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" height="40"/>
-    <img alt="DBeaver" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dbeaver/dbeaver-original.svg" width="40" height="40"/>
-    <img alt="Beekeeper" src="https://www.beekeeperstudio.io/static/press-kit/bk-logo-icon-darkbg.svg" width="40" height="40"/>
-    <img alt="Jira" src="https://icon.icepanel.io/Technology/svg/Jira.svg" width="40" height="40"/>
-    <img alt="Slack" src="https://icon.icepanel.io/Technology/svg/Slack.svg" width="40" height="40"/>
-    <img alt="Stack Overflow" src="https://icon.icepanel.io/Technology/svg/Stack-Overflow.svg" width="40" height="40"/>
-    <img alt="Fedora" src="https://icon.icepanel.io/Technology/svg/Fedora.svg" width="40" height="40"/>
-</div>
-
 
 <!-- <p style="display: flex; align-items: center; flex-direction: row;" >
     <img style="height: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs?username=kmadsdev&theme=dark&show_icons=true&locale=en&layout=compact" alt="kmadsdev" />
     <img style="height: 100%;" src="https://streak-stats.demolab.com?user=kmadsdev&theme=dark" alt="GitHub Streak" />
 </p> -->
-
 
 <!-- Project Cards --> 
 <!-- 
