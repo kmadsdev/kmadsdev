@@ -6,15 +6,15 @@
 
 # Highlighted Projects
 
-| Name                   | Description                         | Links | Source Code |
-|------------------------|-------------------------------------|-------|-------------|
-| Engineer Student Tools | Free tools for engineers/developers | [/kmadsdev/engineer-student-tools](https://github.com/kmadsdev/engineer-student-tools) | - |
-| OFFMODE                | Web Pomodoro Timer                  | [kmads.dev/offmode](https://kmads.dev/offmode/) | soon | 
-| DOOM Offline           | Play DOOM offline, with 0 downloads | [kmads.dev/doom](https://kmads.dev/doom) | soon |
-| Diabetes Indicator     | Predicts if you may have diabetes   | [kmads.dev/diabetes-indicator](https://kmads.dev/diabetes-indicator/) | [frontend](https://source.kmads.dev/diabetes-indicator/) / [backend](https://source.kmads.dev/diabetes-indicator-backend/) |
-| BrowserNotes           | An Offline Web Application          | [kmads.dev/browsernotes](https://kmads.dev/browsernotes) | [source](https://source.kmads.dev/browsernotes) |
-| BurnRate               | Finances Dashboard                  | soon | soon |
-| CloudFlare Dashboard   | Domain/Web Observability            | soon | soon |
+| Name                   | Description                            | Links | Source Code |
+|------------------------|----------------------------------------|-------|-------------|
+| Engineer Student Tools | Free tools for engineers/developers    | [/kmadsdev/engineer-student-tools](https://github.com/kmadsdev/engineer-student-tools) | [source](https://github.com/kmadsdev/engineer-student-tools) |
+| OffMode                | Web & Desktop Pomodoro Timer           | [kmads.dev/offmode](https://kmads.dev/offmode/) | Not yet open-source | 
+| Doom Offline           | Play DOOM offline, 0 files & 0 cookies | [kmads.dev/doom](https://kmads.dev/doom) | [source](https://github.com/kmadsdev/doom) |
+| Diabetes Indicator     | Predicts if you may have diabetes      | [kmads.dev/diabetes-indicator](https://kmads.dev/diabetes-indicator/) | [frontend](https://source.kmads.dev/diabetes-indicator/) / [backend](https://github.com/kmadsdev/diabetes-indicator-backend/) |
+| BrowserNotes           | An Offline Web Application             | [kmads.dev/browsernotes](https://kmads.dev/browsernotes) | [source](https://source.kmads.dev/browsernotes) |
+| BurnRate               | Finances Dashboard                     | soon | |
+| CloudFlare Dashboard   | Domain/Web Observability               | soon | |
 
 <br>
 
@@ -23,10 +23,10 @@
 | Name                | Description                      | Links | Tech Stack |
 |---------------------|----------------------------------|-------|------------|
 | DevOps Challenge    | PicPay's Jr DevOps/SRE           | [source](https://github.com/kmadsdev/devops-challenge) | Python, GO, HTML/CSS, JS, Docker, Monolith Architecture |
-| SWE Challenge V1    | Incident Alert Observability     | [source](https://github.com/kmadsdev/swe-observability-challenge-1) | GO, Python, React, JS, MySQL, Docker, MS |
-| SWE Challenge V2    | Incident Alert Observability     | [source](https://github.com/kmadsdev/swe-observability-challenge-2) | PHP (Swoole, Hyperf), Python, MySQL, Redis, Docker, MS |
-| Leetcode Algorithms | Solutions to some LC' problems   | [source](https://github.com/kmadsdev/leetcode-algorithms) | yes |
-| CS50x 25' Solutions | Stuff i made while learning CS50 | [source](https://github.com/kmadsdev/cs50x) | C/Obj-C, Python, JavaScript, SQL, HTML/CSS |
+| SWE Challenge V1    | Incident Alert Observability     | [source](https://github.com/kmadsdev/swe-observability-challenge-1) | GO, Python, React, JS, MySQL, Docker |
+| SWE Challenge V2    | Incident Alert Observability     | [source](https://github.com/kmadsdev/swe-observability-challenge-2) | PHP (Swoole, Hyperf), Python, MySQL, Redis, Docker |
+| Leetcode Algorithms | Solutions to some LC' problems   | [source](https://github.com/kmadsdev/leetcode-algorithms) | Python, Whiteboard and Brainpower |
+| CS50x 25' Solutions | Stuff I made while learning CS50 | [source](https://github.com/kmadsdev/cs50x) | C/Obj-C, Python, JavaScript, SQL, HTML/CSS |
 
 <br>
 
@@ -77,14 +77,9 @@
     <img alt="GitHub Actions" src="https://icon.icepanel.io/Technology/svg/GitHub-Actions.svg" width="40" height="40"/>
 </div>
 
-<!-- <p style="display: flex; align-items: center; flex-direction: row;" >
+<!--
+<p style="display: flex; align-items: center; flex-direction: row;" >
     <img style="height: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs?username=kmadsdev&theme=dark&show_icons=true&locale=en&layout=compact" alt="kmadsdev" />
     <img style="height: 100%;" src="https://streak-stats.demolab.com?user=kmadsdev&theme=dark" alt="GitHub Streak" />
-</p> -->
-
-<!-- Project Cards --> 
-<!-- 
-<a href="https://github.com/kmadsdev/offMode/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kmadsdev&repo=offmode" alt="kmadsdev" /></a><br>
-<a href="https://github.com/kmadsdev/diabetes-indicator/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kmadsdev&theme=dark&repo=diabetes-indicator" alt="kmadsdev" style="width: 60%;" /></a><br>
-<a href="https://github.com/kmadsdev/hivemind-client-potential/"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=kmadsdev&theme=dark&repo=hivemind-client-potential" alt="kmadsdev" style="width: 60%;" /></a><br> 
+</p>
 -->
