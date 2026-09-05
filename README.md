@@ -1,4 +1,4 @@
-<!-- ![image](media/KMADS-v3.png) -->
+<img src="media/banners/nakano-sisters.gif" alt="Banner" style="width:100%">
 
 
 <h1 align="left">Hi! My name is <strong>Kaique Souza</strong>, also know as <a ref="https://kmads.dev">KMADS</a></h1>
