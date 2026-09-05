@@ -12,13 +12,14 @@
 <table>
 <tr><td valign="middle" align="left" width="50%">
 
-<pre style="padding: 18px 20px 14px 20px"><code>I'm a Software Engineer with over 8 years of experience developing applications end-to-end to real users.
+<pre><code>I'm a Software Engineer with over 8 years of experience developing applications end-to-end to real users.
 
 I'm particularly interested in 
 - Distributed Systems / Microservices (if it's a monolith, better)
 - SaaS development and deploy
 - Software Architecture
-- Backend systems.</code></pre>
+- Backend systems.
+</code></pre>
 
 </td><td valign="top" width="50%">
 <div align="center">
