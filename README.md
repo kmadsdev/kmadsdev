@@ -1,11 +1,11 @@
 <!-- <img src="media/banners/nakano-sisters.gif" alt="Banner" width="100%"> -->
 
 
-<h1 align="left">Hi! My name is <strong>Kaique Souza</strong>, also know as <a ref="https://kmads.dev">KMADS</a></h1>
+<h1 align="left">Hi! My name is <strong>Kaique Souza</strong>, also known as <a href="https://kmads.dev">KMADS</a></h1>
 
 <p align="center">
     <a href="https://kmads.dev/linkedin"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-3670A0.svg?style=for-the-badge&logo=LinkedIn&logoColor=ffdd54"></a> &nbsp;
-    <a href="https://kmads.dev"><img alt="Portifolio" src="https://img.shields.io/badge/Portifolio-kmads.dev-FF007B.svg?style=for-the-badge"></a> &nbsp;
+    <a href="https://kmads.dev"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-kmads.dev-FF007B.svg?style=for-the-badge"></a> &nbsp;
     <a href="https://kmads.dev/projects"><img alt="Projects" src="https://img.shields.io/badge/Projects-00E38C.svg?style=for-the-badge"></a>
 </p>
 
@@ -84,7 +84,7 @@ I'm particularly interested in
 
 OffMode is a Pomodoro timer that keeps you locked in — it manages your work sessions and break intervals so you actually finish what you start.
 
-**Acess it here: [https://kmads.dev/offmode](https://kmads.dev/offmode)**
+**Access it here: [https://kmads.dev/offmode](https://kmads.dev/offmode)**
 
 <br clear="right"/>
 <a href="https://kmads.dev/diabetes-indicator">
@@ -95,7 +95,7 @@ OffMode is a Pomodoro timer that keeps you locked in — it manages your work se
 
 Diabetes Indicator is a quick survey that estimates your probability of having diabetes, built to make health screening a little more accessible.
 
-**Acess it here: [https://kmads.dev/diabetes-indicator](https://kmads.dev/diabetes-indicator)**
+**Access it here: [https://kmads.dev/diabetes-indicator](https://kmads.dev/diabetes-indicator)**
 
 <br clear="right"/>
 <a href="https://kmads.dev/doom">
@@ -106,7 +106,7 @@ Diabetes Indicator is a quick survey that estimates your probability of having d
 
 Doom Offline is the legendary 1993 FPS compressed into a single HTML file — full levels, enemies, weapons, and soundtrack, all running straight in your browser. It weighs about 7MB total, but it's gzipped so your PC doesn't blow up, and your browser uncompresses it on the fly — completely offline, like magic.
 
-**Acess it here: [https://kmads.dev/doom](https://kmads.dev/doom)**
+**Access it here: [https://kmads.dev/doom](https://kmads.dev/doom)**
 
 <br clear="right"/>
 <a href="https://kmads.dev/notes">
@@ -117,7 +117,7 @@ Doom Offline is the legendary 1993 FPS compressed into a single HTML file — fu
 
 Browser Notes is a VSCode-inspired text editor that lives entirely in your browser — one HTML file, no backend. Open, edit, and save files directly from disk, including Markdown, YAML, JSON, Swagger, and PlantUML diagrams. Files sync back automatically through the native file picker (Chrome/Edge) — no uploads, no accounts, no server.
 
-**Acess it here: [https://kmads.dev/notes](https://kmads.dev/notes)**
+**Access it here: [https://kmads.dev/notes](https://kmads.dev/notes)**
 
 <br clear="right"/>
 <a href="https://kmads.dev/agentic">
@@ -128,7 +128,7 @@ Browser Notes is a VSCode-inspired text editor that lives entirely in your brows
 
 The Agentic Template is an all-in-one workspace template for building agents — multi-layer architecture, compliance gates, FinOps rules, CI/CD checks, code quality analysis, AI output benchmarking, SDD/TDD, Rule-as-Code, Skills and MCPs per project and per workspace, context/memory retrieval, and a lot more.
 
-**Acess it here: [https://kmads.dev/agentic](https://kmads.dev/agentic)**
+**Access it here: [https://kmads.dev/agentic](https://kmads.dev/agentic)**
 
 <br clear="right"/>
 <a href="https://github.com/kmadsdev/engineer-student-tools">
@@ -139,7 +139,7 @@ The Agentic Template is an all-in-one workspace template for building agents —
 
 Engineer / Student Tools is a set of tools, software, cloud, courses, domains, AI, etc, that combined can save students up to $5,000 (or more). The packs covers Azure Cloud, Github Pro / Copilot Pro, JetBrains IDEs, Heroku, Datadog, Stripe, DataCamp, and more.
 
-Acess it here: [https://github.com/kmadsdev/engineer-student-tools](https://github.com/kmadsdev/engineer-student-tools)
+Access it here: [https://github.com/kmadsdev/engineer-student-tools](https://github.com/kmadsdev/engineer-student-tools)
 
 <br clear="right"/>
 
